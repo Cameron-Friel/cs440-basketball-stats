@@ -2,15 +2,15 @@ import pymysql.cursors
 import json
 import time
 
-fantasyFileRef = './PlayerStats/PlayerStats-17-18.json'
+fantasyFileRef = './PlayerStats/PlayerStats-17-18.json' # Change year
 with open(fantasyFileRef) as f:
     fantasyData = json.load(f)
 
 # Connect to the database
 connection = pymysql.connect(host='classmysql.engr.oregonstate.edu',
-                             user='cs440_frielc', #cs440_onid
-                             password='3356', #password
-                             db='cs440_frielc', #database name
+                             user='user', #cs440_onid
+                             password='password', #password
+                             db='db', #database name
                              charset='utf8mb4',
                              cursorclass=pymysql.cursors.DictCursor)
 
@@ -21,6 +21,7 @@ try:
         with connection.cursor() as cursor:
             # Change the table name for the insert
             if player.get('salary'):
+                # Change year
                 sql = "INSERT INTO `players-17-18` (`id`, `full_name`, `points`, `assists`, `rebounds`, `steals`, `salary`, `fantasy_points`, `blocks`) VALUES (%s, %s, %s, %s ,%s, %s, %s, %s, %s)"
                 cursor.execute(sql, (str(player['id']), str(player['full_name']), str(player['points']), str(player['assists']), str(player['rebounds']), str(player['steals']), str(player['salary']), str(player['fantasy_points']), str(player['blocks']))) #populate the data
 

@@ -9,9 +9,9 @@ year = input("Enter a year: ")
 
 # Connect to the database
 connection = pymysql.connect(host='classmysql.engr.oregonstate.edu',
-                             user='cs440_frielc',
-                             password='3356',
-                             db='cs440_frielc',
+                             user='user', # cs440_username
+                             password='password', # password
+                             db='db', # cs440_username
                              charset='utf8mb4',
                              cursorclass=pymysql.cursors.DictCursor)
 

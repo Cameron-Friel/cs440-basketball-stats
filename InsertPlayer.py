@@ -2,9 +2,9 @@ import pymysql.cursors
 
 # Connect to the database
 connection = pymysql.connect(host='classmysql.engr.oregonstate.edu',
-                             user='cs440_frielc', #cs440_onid
-                             password='3356', #password
-                             db='cs440_frielc', #database name
+                             user='user', #cs440_onid
+                             password='password', #password
+                             db='db', #database name
                              charset='utf8mb4',
                              cursorclass=pymysql.cursors.DictCursor)
 
