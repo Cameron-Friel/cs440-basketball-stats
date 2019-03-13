@@ -1,0 +1,4842 @@
+[
+    {
+        "assists": 40, 
+        "blocks": 8, 
+        "fantasy_points": 671.2, 
+        "full_name": "Alex Abrines", 
+        "id": 203518, 
+        "points": 406, 
+        "rebounds": 86, 
+        "steals": 37
+    }, 
+    {
+        "assists": 18, 
+        "blocks": 15, 
+        "fantasy_points": 453.0, 
+        "full_name": "Quincy Acy", 
+        "id": 203112, 
+        "points": 222, 
+        "rebounds": 115, 
+        "steals": 14
+    }, 
+    {
+        "assists": 86, 
+        "blocks": 78, 
+        "fantasy_points": 2124.6, 
+        "full_name": "Steven Adams", 
+        "id": 203500, 
+        "points": 905, 
+        "rebounds": 613, 
+        "steals": 89
+    }, 
+    {
+        "assists": 78, 
+        "blocks": 6, 
+        "fantasy_points": 821.0, 
+        "full_name": "Arron Afflalo", 
+        "id": 201167, 
+        "points": 515, 
+        "rebounds": 125, 
+        "steals": 21
+    }, 
+    {
+        "assists": 12, 
+        "blocks": 22, 
+        "fantasy_points": 532.4, 
+        "full_name": "Alexis Ajinca", 
+        "id": 201582, 
+        "points": 207, 
+        "rebounds": 177, 
+        "steals": 20
+    }, 
+    {
+        "assists": 25, 
+        "blocks": 23, 
+        "fantasy_points": 459.1, 
+        "full_name": "Cole Aldrich", 
+        "id": 202332, 
+        "points": 105, 
+        "rebounds": 158, 
+        "steals": 25
+    }, 
+    {
+        "assists": 139, 
+        "blocks": 88, 
+        "fantasy_points": 2383.1, 
+        "full_name": "LaMarcus Aldridge", 
+        "id": 200746, 
+        "points": 1243, 
+        "rebounds": 523, 
+        "steals": 46
+    }, 
+    {
+        "assists": 57, 
+        "blocks": 24, 
+        "fantasy_points": 622.3, 
+        "full_name": "Lavoy Allen", 
+        "id": 202730, 
+        "points": 177, 
+        "rebounds": 219, 
+        "steals": 18
+    }, 
+    {
+        "assists": 98, 
+        "blocks": 29, 
+        "fantasy_points": 1591.2, 
+        "full_name": "Tony Allen", 
+        "id": 2754, 
+        "points": 643, 
+        "rebounds": 391, 
+        "steals": 115
+    }, 
+    {
+        "assists": 99, 
+        "blocks": 44, 
+        "fantasy_points": 1439.7, 
+        "full_name": "Al-Farouq Aminu", 
+        "id": 202329, 
+        "points": 532, 
+        "rebounds": 451, 
+        "steals": 60
+    }, 
+    {
+        "assists": 5, 
+        "blocks": 7, 
+        "fantasy_points": 103.7, 
+        "full_name": "Chris Andersen", 
+        "id": 2365, 
+        "points": 28, 
+        "rebounds": 31, 
+        "steals": 5
+    }, 
+    {
+        "assists": 11, 
+        "blocks": 0, 
+        "fantasy_points": 133.3, 
+        "full_name": "Alan Anderson", 
+        "id": 101187, 
+        "points": 86, 
+        "rebounds": 24, 
+        "steals": 3
+    }, 
+    {
+        "assists": 66, 
+        "blocks": 23, 
+        "fantasy_points": 1051.0, 
+        "full_name": "Justin Anderson", 
+        "id": 1626147, 
+        "points": 532, 
+        "rebounds": 245, 
+        "steals": 41
+    }, 
+    {
+        "assists": 91, 
+        "blocks": 26, 
+        "fantasy_points": 824.1, 
+        "full_name": "Kyle Anderson", 
+        "id": 203937, 
+        "points": 246, 
+        "rebounds": 208, 
+        "steals": 51
+    }, 
+    {
+        "assists": 68, 
+        "blocks": 14, 
+        "fantasy_points": 1557.0, 
+        "full_name": "Ryan Anderson", 
+        "id": 201583, 
+        "points": 979, 
+        "rebounds": 330, 
+        "steals": 31
+    }, 
+    {
+        "assists": 434, 
+        "blocks": 151, 
+        "fantasy_points": 3935.0, 
+        "full_name": "Giannis Antetokounmpo", 
+        "id": 203507, 
+        "points": 1832, 
+        "rebounds": 700, 
+        "steals": 131
+    }, 
+    {
+        "assists": 213, 
+        "blocks": 34, 
+        "fantasy_points": 2633.1, 
+        "full_name": "Carmelo Anthony", 
+        "id": 2546, 
+        "points": 1659, 
+        "rebounds": 438, 
+        "steals": 60
+    }, 
+    {
+        "assists": 3, 
+        "blocks": 6, 
+        "fantasy_points": 86.7, 
+        "full_name": "Joel Anthony", 
+        "id": 201202, 
+        "points": 25, 
+        "rebounds": 31, 
+        "steals": 2
+    }, 
+    {
+        "assists": 175, 
+        "blocks": 20, 
+        "fantasy_points": 2176.1, 
+        "full_name": "Trevor Ariza", 
+        "id": 2772, 
+        "points": 936, 
+        "rebounds": 458, 
+        "steals": 147
+    }, 
+    {
+        "assists": 42, 
+        "blocks": 21, 
+        "fantasy_points": 543.4, 
+        "full_name": "Darrell Arthur", 
+        "id": 201589, 
+        "points": 262, 
+        "rebounds": 112, 
+        "steals": 19
+    }, 
+    {
+        "assists": 15, 
+        "blocks": 10, 
+        "fantasy_points": 334.1, 
+        "full_name": "Omer Asik", 
+        "id": 201600, 
+        "points": 85, 
+        "rebounds": 163, 
+        "steals": 5
+    }, 
+    {
+        "assists": 209, 
+        "blocks": 1, 
+        "fantasy_points": 1075.9, 
+        "full_name": "D.J. Augustin", 
+        "id": 201571, 
+        "points": 616, 
+        "rebounds": 117, 
+        "steals": 31
+    }, 
+    {
+        "assists": 36, 
+        "blocks": 11, 
+        "fantasy_points": 615.2, 
+        "full_name": "Luke Babbitt", 
+        "id": 202337, 
+        "points": 324, 
+        "rebounds": 141, 
+        "steals": 20
+    }, 
+    {
+        "assists": 107, 
+        "blocks": 8, 
+        "fantasy_points": 563.1, 
+        "full_name": "Ron Baker", 
+        "id": 1627758, 
+        "points": 215, 
+        "rebounds": 98, 
+        "steals": 34
+    }, 
+    {
+        "assists": 61, 
+        "blocks": 7, 
+        "fantasy_points": 288.7, 
+        "full_name": "Wade Baldwin IV", 
+        "id": 1627735, 
+        "points": 106, 
+        "rebounds": 46, 
+        "steals": 18
+    }, 
+    {
+        "assists": 81, 
+        "blocks": 8, 
+        "fantasy_points": 734.3, 
+        "full_name": "Leandro Barbosa", 
+        "id": 2571, 
+        "points": 419, 
+        "rebounds": 104, 
+        "steals": 31
+    }, 
+    {
+        "assists": 193, 
+        "blocks": 1, 
+        "fantasy_points": 753.3, 
+        "full_name": "J.J. Barea", 
+        "id": 200826, 
+        "points": 381, 
+        "rebounds": 84, 
+        "steals": 14
+    }, 
+    {
+        "assists": 116, 
+        "blocks": 15, 
+        "fantasy_points": 2302.8, 
+        "full_name": "Harrison Barnes", 
+        "id": 203084, 
+        "points": 1518, 
+        "rebounds": 394, 
+        "steals": 65
+    }, 
+    {
+        "assists": 195, 
+        "blocks": 26, 
+        "fantasy_points": 1395.3, 
+        "full_name": "Matt Barnes", 
+        "id": 2440, 
+        "points": 527, 
+        "rebounds": 384, 
+        "steals": 48
+    }, 
+    {
+        "assists": 206, 
+        "blocks": 28, 
+        "fantasy_points": 1570.8, 
+        "full_name": "Will Barton", 
+        "id": 203115, 
+        "points": 820, 
+        "rebounds": 259, 
+        "steals": 48
+    }, 
+    {
+        "assists": 21, 
+        "blocks": 11, 
+        "fantasy_points": 524.3, 
+        "full_name": "Brandon Bass", 
+        "id": 101138, 
+        "points": 292, 
+        "rebounds": 129, 
+        "steals": 14
+    }, 
+    {
+        "assists": 456, 
+        "blocks": 29, 
+        "fantasy_points": 2576.2, 
+        "full_name": "Nicolas Batum", 
+        "id": 201587, 
+        "points": 1164, 
+        "rebounds": 481, 
+        "steals": 86
+    }, 
+    {
+        "assists": 13, 
+        "blocks": 0, 
+        "fantasy_points": 57.9, 
+        "full_name": "Jerryd Bayless", 
+        "id": 201573, 
+        "points": 33, 
+        "rebounds": 12, 
+        "steals": 0
+    }, 
+    {
+        "assists": 32, 
+        "blocks": 39, 
+        "fantasy_points": 930.6, 
+        "full_name": "Aron Baynes", 
+        "id": 203382, 
+        "points": 365, 
+        "rebounds": 333, 
+        "steals": 17
+    }, 
+    {
+        "assists": 177, 
+        "blocks": 52, 
+        "fantasy_points": 1647.7, 
+        "full_name": "Kent Bazemore", 
+        "id": 203145, 
+        "points": 801, 
+        "rebounds": 231, 
+        "steals": 91
+    }, 
+    {
+        "assists": 267, 
+        "blocks": 21, 
+        "fantasy_points": 2623.5, 
+        "full_name": "Bradley Beal", 
+        "id": 203078, 
+        "points": 1779, 
+        "rebounds": 240, 
+        "steals": 83
+    }, 
+    {
+        "assists": 11, 
+        "blocks": 0, 
+        "fantasy_points": 132.9, 
+        "full_name": "Malik Beasley", 
+        "id": 1627736, 
+        "points": 83, 
+        "rebounds": 17, 
+        "steals": 7
+    }, 
+    {
+        "assists": 53, 
+        "blocks": 27, 
+        "fantasy_points": 935.1, 
+        "full_name": "Michael Beasley", 
+        "id": 201563, 
+        "points": 528, 
+        "rebounds": 193, 
+        "steals": 27
+    }, 
+    {
+        "assists": 147, 
+        "blocks": 9, 
+        "fantasy_points": 1303.1, 
+        "full_name": "Marco Belinelli", 
+        "id": 201158, 
+        "points": 780, 
+        "rebounds": 178, 
+        "steals": 44
+    }, 
+    {
+        "assists": 28, 
+        "blocks": 5, 
+        "fantasy_points": 236.8, 
+        "full_name": "DeAndre' Bembry", 
+        "id": 1627761, 
+        "points": 101, 
+        "rebounds": 59, 
+        "steals": 8
+    }, 
+    {
+        "assists": 23, 
+        "blocks": 22, 
+        "fantasy_points": 368.1, 
+        "full_name": "Dragan Bender", 
+        "id": 1627733, 
+        "points": 146, 
+        "rebounds": 103, 
+        "steals": 10
+    }, 
+    {
+        "assists": 12, 
+        "blocks": 3, 
+        "fantasy_points": 238.6, 
+        "full_name": "Anthony Bennett", 
+        "id": 203461, 
+        "points": 115, 
+        "rebounds": 78, 
+        "steals": 5
+    }, 
+    {
+        "assists": 0, 
+        "blocks": 0, 
+        "fantasy_points": 1.4, 
+        "full_name": "Ben Bentil", 
+        "id": 1627791, 
+        "points": 0, 
+        "rebounds": 2, 
+        "steals": 0
+    }, 
+    {
+        "assists": 46, 
+        "blocks": 28, 
+        "fantasy_points": 601.6, 
+        "full_name": "Davis Bertans", 
+        "id": 202722, 
+        "points": 303, 
+        "rebounds": 98, 
+        "steals": 20
+    }, 
+    {
+        "assists": 281, 
+        "blocks": 25, 
+        "fantasy_points": 1804.1, 
+        "full_name": "Patrick Beverley", 
+        "id": 201976, 
+        "points": 639, 
+        "rebounds": 393, 
+        "steals": 99
+    }, 
+    {
+        "assists": 74, 
+        "blocks": 91, 
+        "fantasy_points": 1527.4, 
+        "full_name": "Bismack Biyombo", 
+        "id": 202687, 
+        "points": 483, 
+        "rebounds": 567, 
+        "steals": 25
+    }, 
+    {
+        "assists": 79, 
+        "blocks": 20, 
+        "fantasy_points": 935.3, 
+        "full_name": "Nemanja Bjelica", 
+        "id": 202357, 
+        "points": 403, 
+        "rebounds": 244, 
+        "steals": 40
+    }, 
+    {
+        "assists": 39, 
+        "blocks": 44, 
+        "fantasy_points": 1014.1, 
+        "full_name": "Tarik Black", 
+        "id": 204028, 
+        "points": 383, 
+        "rebounds": 343, 
+        "steals": 29
+    }, 
+    {
+        "assists": 418, 
+        "blocks": 31, 
+        "fantasy_points": 2543.0, 
+        "full_name": "Eric Bledsoe", 
+        "id": 202339, 
+        "points": 1390, 
+        "rebounds": 320, 
+        "steals": 91
+    }, 
+    {
+        "assists": 111, 
+        "blocks": 7, 
+        "fantasy_points": 1603.9, 
+        "full_name": "Bojan Bogdanovic", 
+        "id": 202711, 
+        "points": 1113, 
+        "rebounds": 277, 
+        "steals": 34
+    }, 
+    {
+        "assists": 49, 
+        "blocks": 25, 
+        "fantasy_points": 485.1, 
+        "full_name": "Andrew Bogut", 
+        "id": 101106, 
+        "points": 79, 
+        "rebounds": 218, 
+        "steals": 13
+    }, 
+    {
+        "assists": 2, 
+        "blocks": 2, 
+        "fantasy_points": 52.4, 
+        "full_name": "Joel Bolomboy", 
+        "id": 1627762, 
+        "points": 22, 
+        "rebounds": 17, 
+        "steals": 1
+    }, 
+    {
+        "assists": 268, 
+        "blocks": 21, 
+        "fantasy_points": 2464.8, 
+        "full_name": "Devin Booker", 
+        "id": 1626164, 
+        "points": 1726, 
+        "rebounds": 249, 
+        "steals": 72
+    }, 
+    {
+        "assists": 138, 
+        "blocks": 28, 
+        "fantasy_points": 1783.2, 
+        "full_name": "Trevor Booker", 
+        "id": 202344, 
+        "points": 709, 
+        "rebounds": 571, 
+        "steals": 75
+    }, 
+    {
+        "assists": 122, 
+        "blocks": 11, 
+        "fantasy_points": 1626.8, 
+        "full_name": "Avery Bradley", 
+        "id": 202340, 
+        "points": 894, 
+        "rebounds": 334, 
+        "steals": 68
+    }, 
+    {
+        "assists": 97, 
+        "blocks": 20, 
+        "fantasy_points": 903.7, 
+        "full_name": "Corey Brewer", 
+        "id": 201147, 
+        "points": 371, 
+        "rebounds": 166, 
+        "steals": 61
+    }, 
+    {
+        "assists": 317, 
+        "blocks": 12, 
+        "fantasy_points": 1673.1, 
+        "full_name": "Malcolm Brogdon", 
+        "id": 1627763, 
+        "points": 767, 
+        "rebounds": 213, 
+        "steals": 84
+    }, 
+    {
+        "assists": 125, 
+        "blocks": 9, 
+        "fantasy_points": 628.3, 
+        "full_name": "Aaron Brooks", 
+        "id": 201166, 
+        "points": 322, 
+        "rebounds": 69, 
+        "steals": 25
+    }, 
+    {
+        "assists": 8, 
+        "blocks": 1, 
+        "fantasy_points": 106.6, 
+        "full_name": "Anthony Brown", 
+        "id": 1626148, 
+        "points": 43, 
+        "rebounds": 33, 
+        "steals": 5
+    }, 
+    {
+        "assists": 14, 
+        "blocks": 0, 
+        "fantasy_points": 88.2, 
+        "full_name": "Bobby Brown", 
+        "id": 201628, 
+        "points": 62, 
+        "rebounds": 6, 
+        "steals": 1
+    }, 
+    {
+        "assists": 64, 
+        "blocks": 18, 
+        "fantasy_points": 966.0, 
+        "full_name": "Jaylen Brown", 
+        "id": 1627759, 
+        "points": 515, 
+        "rebounds": 220, 
+        "steals": 35
+    }, 
+    {
+        "assists": 47, 
+        "blocks": 8, 
+        "fantasy_points": 383.5, 
+        "full_name": "Nicolas Brussino", 
+        "id": 1627852, 
+        "points": 150, 
+        "rebounds": 95, 
+        "steals": 17
+    }, 
+    {
+        "assists": 29, 
+        "blocks": 3, 
+        "fantasy_points": 314.3, 
+        "full_name": "Reggie Bullock", 
+        "id": 203493, 
+        "points": 141, 
+        "rebounds": 64, 
+        "steals": 18
+    }, 
+    {
+        "assists": 100, 
+        "blocks": 5, 
+        "fantasy_points": 491.4, 
+        "full_name": "Trey Burke", 
+        "id": 203504, 
+        "points": 285, 
+        "rebounds": 47, 
+        "steals": 11
+    }, 
+    {
+        "assists": 30, 
+        "blocks": 5, 
+        "fantasy_points": 506.0, 
+        "full_name": "Alec Burks", 
+        "id": 202692, 
+        "points": 283, 
+        "rebounds": 120, 
+        "steals": 18
+    }, 
+    {
+        "assists": 417, 
+        "blocks": 32, 
+        "fantasy_points": 3371.5, 
+        "full_name": "Jimmy Butler", 
+        "id": 202710, 
+        "points": 1816, 
+        "rebounds": 470, 
+        "steals": 143
+    }, 
+    {
+        "assists": 4, 
+        "blocks": 1, 
+        "fantasy_points": 39.0, 
+        "full_name": "Bruno Caboclo", 
+        "id": 203998, 
+        "points": 14, 
+        "rebounds": 10, 
+        "steals": 2
+    }, 
+    {
+        "assists": 88, 
+        "blocks": 1, 
+        "fantasy_points": 356.8, 
+        "full_name": "Jose Calderon", 
+        "id": 101181, 
+        "points": 141, 
+        "rebounds": 74, 
+        "steals": 11
+    }, 
+    {
+        "assists": 193, 
+        "blocks": 12, 
+        "fantasy_points": 1851.1, 
+        "full_name": "Kentavious Caldwell-Pope", 
+        "id": 203484, 
+        "points": 1047, 
+        "rebounds": 248, 
+        "steals": 89
+    }, 
+    {
+        "assists": 37, 
+        "blocks": 1, 
+        "fantasy_points": 344.5, 
+        "full_name": "Isaiah Canaan", 
+        "id": 203477, 
+        "points": 181, 
+        "rebounds": 50, 
+        "steals": 22
+    }, 
+    {
+        "assists": 63, 
+        "blocks": 79, 
+        "fantasy_points": 1795.7, 
+        "full_name": "Clint Capela", 
+        "id": 203991, 
+        "points": 818, 
+        "rebounds": 526, 
+        "steals": 34
+    }, 
+    {
+        "assists": 74, 
+        "blocks": 27, 
+        "fantasy_points": 1349.0, 
+        "full_name": "DeMarre Carroll", 
+        "id": 201960, 
+        "points": 638, 
+        "rebounds": 275, 
+        "steals": 81
+    }, 
+    {
+        "assists": 133, 
+        "blocks": 36, 
+        "fantasy_points": 1295.9, 
+        "full_name": "Vince Carter", 
+        "id": 1713, 
+        "points": 586, 
+        "rebounds": 227, 
+        "steals": 60
+    }, 
+    {
+        "assists": 113, 
+        "blocks": 23, 
+        "fantasy_points": 767.1, 
+        "full_name": "Michael Carter-Williams", 
+        "id": 203487, 
+        "points": 297, 
+        "rebounds": 153, 
+        "steals": 38
+    }, 
+    {
+        "assists": 37, 
+        "blocks": 3, 
+        "fantasy_points": 424.9, 
+        "full_name": "Omri Casspi", 
+        "id": 201956, 
+        "points": 186, 
+        "rebounds": 112, 
+        "steals": 23
+    }, 
+    {
+        "assists": 80, 
+        "blocks": 44, 
+        "fantasy_points": 1359.8, 
+        "full_name": "Willie Cauley-Stein", 
+        "id": 1626161, 
+        "points": 611, 
+        "rebounds": 339, 
+        "steals": 53
+    }, 
+    {
+        "assists": 30, 
+        "blocks": 24, 
+        "fantasy_points": 1194.8, 
+        "full_name": "Tyson Chandler", 
+        "id": 2199, 
+        "points": 397, 
+        "rebounds": 539, 
+        "steals": 33
+    }, 
+    {
+        "assists": 141, 
+        "blocks": 30, 
+        "fantasy_points": 2009.5, 
+        "full_name": "Wilson Chandler", 
+        "id": 201163, 
+        "points": 1117, 
+        "rebounds": 460, 
+        "steals": 51
+    }, 
+    {
+        "assists": 60, 
+        "blocks": 70, 
+        "fantasy_points": 1563.6, 
+        "full_name": "Marquese Chriss", 
+        "id": 1627737, 
+        "points": 753, 
+        "rebounds": 348, 
+        "steals": 67
+    }, 
+    {
+        "assists": 4, 
+        "blocks": 6, 
+        "fantasy_points": 151.2, 
+        "full_name": "Rakeem Christmas", 
+        "id": 1626176, 
+        "points": 59, 
+        "rebounds": 56, 
+        "steals": 3
+    }, 
+    {
+        "assists": 130, 
+        "blocks": 7, 
+        "fantasy_points": 544.4, 
+        "full_name": "Semaj Christon", 
+        "id": 203902, 
+        "points": 183, 
+        "rebounds": 87, 
+        "steals": 28
+    }, 
+    {
+        "assists": 90, 
+        "blocks": 8, 
+        "fantasy_points": 893.2, 
+        "full_name": "Ian Clark", 
+        "id": 203546, 
+        "points": 527, 
+        "rebounds": 121, 
+        "steals": 39
+    }, 
+    {
+        "assists": 213, 
+        "blocks": 8, 
+        "fantasy_points": 1943.7, 
+        "full_name": "Jordan Clarkson", 
+        "id": 203903, 
+        "points": 1205, 
+        "rebounds": 246, 
+        "steals": 88
+    }, 
+    {
+        "assists": 14, 
+        "blocks": 0, 
+        "fantasy_points": 94.2, 
+        "full_name": "Norris Cole", 
+        "id": 202708, 
+        "points": 43, 
+        "rebounds": 11, 
+        "steals": 8
+    }, 
+    {
+        "assists": 312, 
+        "blocks": 9, 
+        "fantasy_points": 1664.4, 
+        "full_name": "Darren Collison", 
+        "id": 201954, 
+        "points": 900, 
+        "rebounds": 152, 
+        "steals": 67
+    }, 
+    {
+        "assists": 12, 
+        "blocks": 2, 
+        "fantasy_points": 96.2, 
+        "full_name": "Nick Collison", 
+        "id": 2555, 
+        "points": 33, 
+        "rebounds": 31, 
+        "steals": 2
+    }, 
+    {
+        "assists": 433, 
+        "blocks": 19, 
+        "fantasy_points": 2530.7, 
+        "full_name": "Mike Conley", 
+        "id": 201144, 
+        "points": 1415, 
+        "rebounds": 241, 
+        "steals": 92
+    }, 
+    {
+        "assists": 28, 
+        "blocks": 2, 
+        "fantasy_points": 209.4, 
+        "full_name": "Pat Connaughton", 
+        "id": 1626192, 
+        "points": 98, 
+        "rebounds": 52, 
+        "steals": 6
+    }, 
+    {
+        "assists": 26, 
+        "blocks": 0, 
+        "fantasy_points": 125.4, 
+        "full_name": "Quinn Cook", 
+        "id": 1626188, 
+        "points": 79, 
+        "rebounds": 7, 
+        "steals": 4
+    }, 
+    {
+        "assists": 332, 
+        "blocks": 93, 
+        "fantasy_points": 3702.8, 
+        "full_name": "DeMarcus Cousins", 
+        "id": 202326, 
+        "points": 1942, 
+        "rebounds": 794, 
+        "steals": 100
+    }, 
+    {
+        "assists": 102, 
+        "blocks": 69, 
+        "fantasy_points": 1997.2, 
+        "full_name": "Robert Covington", 
+        "id": 203496, 
+        "points": 864, 
+        "rebounds": 436, 
+        "steals": 127
+    }, 
+    {
+        "assists": 94, 
+        "blocks": 20, 
+        "fantasy_points": 1417.2, 
+        "full_name": "Allen Crabbe", 
+        "id": 203459, 
+        "points": 845, 
+        "rebounds": 226, 
+        "steals": 54
+    }, 
+    {
+        "assists": 214, 
+        "blocks": 14, 
+        "fantasy_points": 1574.8, 
+        "full_name": "Jamal Crawford", 
+        "id": 2037, 
+        "points": 1008, 
+        "rebounds": 129, 
+        "steals": 61
+    }, 
+    {
+        "assists": 57, 
+        "blocks": 2, 
+        "fantasy_points": 407.3, 
+        "full_name": "Jordan Crawford", 
+        "id": 202348, 
+        "points": 267, 
+        "rebounds": 34, 
+        "steals": 11
+    }, 
+    {
+        "assists": 155, 
+        "blocks": 23, 
+        "fantasy_points": 1937.5, 
+        "full_name": "Jae Crowder", 
+        "id": 203109, 
+        "points": 999, 
+        "rebounds": 415, 
+        "steals": 73
+    }, 
+    {
+        "assists": 37, 
+        "blocks": 28, 
+        "fantasy_points": 995.9, 
+        "full_name": "Dante Cunningham", 
+        "id": 201967, 
+        "points": 435, 
+        "rebounds": 277, 
+        "steals": 39
+    }, 
+    {
+        "assists": 189, 
+        "blocks": 7, 
+        "fantasy_points": 1562.3, 
+        "full_name": "Seth Curry", 
+        "id": 203552, 
+        "points": 898, 
+        "rebounds": 179, 
+        "steals": 79
+    }, 
+    {
+        "assists": 524, 
+        "blocks": 17, 
+        "fantasy_points": 3446.6, 
+        "full_name": "Stephen Curry", 
+        "id": 201939, 
+        "points": 1999, 
+        "rebounds": 353, 
+        "steals": 142
+    }, 
+    {
+        "assists": 46, 
+        "blocks": 4, 
+        "fantasy_points": 767.0, 
+        "full_name": "Troy Daniels", 
+        "id": 203584, 
+        "points": 551, 
+        "rebounds": 100, 
+        "steals": 20
+    }, 
+    {
+        "assists": 157, 
+        "blocks": 167, 
+        "fantasy_points": 3997.3, 
+        "full_name": "Anthony Davis", 
+        "id": 203076, 
+        "points": 2099, 
+        "rebounds": 884, 
+        "steals": 94
+    }, 
+    {
+        "assists": 2, 
+        "blocks": 17, 
+        "fantasy_points": 185.0, 
+        "full_name": "Deyonta Davis", 
+        "id": 1627738, 
+        "points": 58, 
+        "rebounds": 60, 
+        "steals": 3
+    }, 
+    {
+        "assists": 26, 
+        "blocks": 22, 
+        "fantasy_points": 605.8, 
+        "full_name": "Ed Davis", 
+        "id": 202334, 
+        "points": 200, 
+        "rebounds": 244, 
+        "steals": 15
+    }, 
+    {
+        "assists": 290, 
+        "blocks": 13, 
+        "fantasy_points": 3011.2, 
+        "full_name": "DeMar DeRozan", 
+        "id": 201942, 
+        "points": 2020, 
+        "rebounds": 386, 
+        "steals": 78
+    }, 
+    {
+        "assists": 44, 
+        "blocks": 61, 
+        "fantasy_points": 1281.2, 
+        "full_name": "Dewayne Dedmon", 
+        "id": 203473, 
+        "points": 387, 
+        "rebounds": 496, 
+        "steals": 37
+    }, 
+    {
+        "assists": 76, 
+        "blocks": 21, 
+        "fantasy_points": 1094.8, 
+        "full_name": "Sam Dekker", 
+        "id": 1626155, 
+        "points": 504, 
+        "rebounds": 284, 
+        "steals": 38
+    }, 
+    {
+        "assists": 193, 
+        "blocks": 1, 
+        "fantasy_points": 853.1, 
+        "full_name": "Malcolm Delaney", 
+        "id": 1627098, 
+        "points": 391, 
+        "rebounds": 123, 
+        "steals": 39
+    }, 
+    {
+        "assists": 357, 
+        "blocks": 0, 
+        "fantasy_points": 1314.9, 
+        "full_name": "Matthew Dellavedova", 
+        "id": 203521, 
+        "points": 577, 
+        "rebounds": 147, 
+        "steals": 53
+    }, 
+    {
+        "assists": 74, 
+        "blocks": 20, 
+        "fantasy_points": 1051.0, 
+        "full_name": "Luol Deng", 
+        "id": 2736, 
+        "points": 425, 
+        "rebounds": 295, 
+        "steals": 48
+    }, 
+    {
+        "assists": 4, 
+        "blocks": 7, 
+        "fantasy_points": 206.6, 
+        "full_name": "Cheick Diallo", 
+        "id": 1627767, 
+        "points": 87, 
+        "rebounds": 73, 
+        "steals": 4
+    }, 
+    {
+        "assists": 170, 
+        "blocks": 9, 
+        "fantasy_points": 776.6, 
+        "full_name": "Boris Diaw", 
+        "id": 2564, 
+        "points": 338, 
+        "rebounds": 158, 
+        "steals": 18
+    }, 
+    {
+        "assists": 158, 
+        "blocks": 95, 
+        "fantasy_points": 2271.4, 
+        "full_name": "Gorgui Dieng", 
+        "id": 203476, 
+        "points": 816, 
+        "rebounds": 647, 
+        "steals": 88
+    }, 
+    {
+        "assists": 185, 
+        "blocks": 23, 
+        "fantasy_points": 1041.3, 
+        "full_name": "Spencer Dinwiddie", 
+        "id": 203915, 
+        "points": 432, 
+        "rebounds": 164, 
+        "steals": 44
+    }, 
+    {
+        "assists": 56, 
+        "blocks": 5, 
+        "fantasy_points": 322.2, 
+        "full_name": "Toney Douglas", 
+        "id": 201962, 
+        "points": 117, 
+        "rebounds": 61, 
+        "steals": 18
+    }, 
+    {
+        "assists": 423, 
+        "blocks": 13, 
+        "fantasy_points": 2546.3, 
+        "full_name": "Goran Dragic", 
+        "id": 201609, 
+        "points": 1483, 
+        "rebounds": 279, 
+        "steals": 89
+    }, 
+    {
+        "assists": 90, 
+        "blocks": 89, 
+        "fantasy_points": 3065.0, 
+        "full_name": "Andre Drummond", 
+        "id": 203083, 
+        "points": 1105, 
+        "rebounds": 1115, 
+        "steals": 124
+    }, 
+    {
+        "assists": 121, 
+        "blocks": 16, 
+        "fantasy_points": 986.5, 
+        "full_name": "Jared Dudley", 
+        "id": 201162, 
+        "points": 434, 
+        "rebounds": 225, 
+        "steals": 42
+    }, 
+    {
+        "assists": 50, 
+        "blocks": 7, 
+        "fantasy_points": 526.0, 
+        "full_name": "Mike Dunleavy", 
+        "id": 2399, 
+        "points": 275, 
+        "rebounds": 115, 
+        "steals": 15
+    }, 
+    {
+        "assists": 188, 
+        "blocks": 36, 
+        "fantasy_points": 1027.2, 
+        "full_name": "Kris Dunn", 
+        "id": 1627739, 
+        "points": 293, 
+        "rebounds": 166, 
+        "steals": 78
+    }, 
+    {
+        "assists": 300, 
+        "blocks": 99, 
+        "fantasy_points": 2977.6, 
+        "full_name": "Kevin Durant", 
+        "id": 201142, 
+        "points": 1555, 
+        "rebounds": 513, 
+        "steals": 66
+    }, 
+    {
+        "assists": 0, 
+        "blocks": 0, 
+        "fantasy_points": 34.4, 
+        "full_name": "Jarell Eddie", 
+        "id": 204067, 
+        "points": 24, 
+        "rebounds": 7, 
+        "steals": 1
+    }, 
+    {
+        "assists": 7, 
+        "blocks": 1, 
+        "fantasy_points": 111.7, 
+        "full_name": "Henry Ellenson", 
+        "id": 1627740, 
+        "points": 60, 
+        "rebounds": 41, 
+        "steals": 1
+    }, 
+    {
+        "assists": 70, 
+        "blocks": 4, 
+        "fantasy_points": 998.4, 
+        "full_name": "Wayne Ellington", 
+        "id": 201961, 
+        "points": 648, 
+        "rebounds": 132, 
+        "steals": 35
+    }, 
+    {
+        "assists": 236, 
+        "blocks": 27, 
+        "fantasy_points": 1408.8, 
+        "full_name": "Monta Ellis", 
+        "id": 101145, 
+        "points": 630, 
+        "rebounds": 204, 
+        "steals": 78
+    }, 
+    {
+        "assists": 66, 
+        "blocks": 76, 
+        "fantasy_points": 1209.6, 
+        "full_name": "Joel Embiid", 
+        "id": 203954, 
+        "points": 627, 
+        "rebounds": 243, 
+        "steals": 27
+    }, 
+    {
+        "assists": 86, 
+        "blocks": 2, 
+        "fantasy_points": 447.0, 
+        "full_name": "Tyler Ennis", 
+        "id": 203898, 
+        "points": 228, 
+        "rebounds": 45, 
+        "steals": 25
+    }, 
+    {
+        "assists": 64, 
+        "blocks": 19, 
+        "fantasy_points": 971.8, 
+        "full_name": "James Ennis III", 
+        "id": 203516, 
+        "points": 429, 
+        "rebounds": 259, 
+        "steals": 46
+    }, 
+    {
+        "assists": 124, 
+        "blocks": 9, 
+        "fantasy_points": 832.4, 
+        "full_name": "Tyreke Evans", 
+        "id": 201936, 
+        "points": 411, 
+        "rebounds": 137, 
+        "steals": 35
+    }, 
+    {
+        "assists": 111, 
+        "blocks": 12, 
+        "fantasy_points": 755.9, 
+        "full_name": "Dante Exum", 
+        "id": 203957, 
+        "points": 412, 
+        "rebounds": 132, 
+        "steals": 21
+    }, 
+    {
+        "assists": 55, 
+        "blocks": 40, 
+        "fantasy_points": 1413.9, 
+        "full_name": "Kenneth Faried", 
+        "id": 202702, 
+        "points": 587, 
+        "rebounds": 462, 
+        "steals": 43
+    }, 
+    {
+        "assists": 9, 
+        "blocks": 0, 
+        "fantasy_points": 32.1, 
+        "full_name": "Jordan Farmar", 
+        "id": 200770, 
+        "points": 12, 
+        "rebounds": 3, 
+        "steals": 2
+    }, 
+    {
+        "assists": 56, 
+        "blocks": 40, 
+        "fantasy_points": 1121.0, 
+        "full_name": "Derrick Favors", 
+        "id": 202324, 
+        "points": 476, 
+        "rebounds": 305, 
+        "steals": 45
+    }, 
+    {
+        "assists": 58, 
+        "blocks": 7, 
+        "fantasy_points": 347.2, 
+        "full_name": "Kay Felder", 
+        "id": 1627770, 
+        "points": 166, 
+        "rebounds": 41, 
+        "steals": 18
+    }, 
+    {
+        "assists": 40, 
+        "blocks": 17, 
+        "fantasy_points": 842.2, 
+        "full_name": "Cristiano Felicio", 
+        "id": 1626245, 
+        "points": 316, 
+        "rebounds": 311, 
+        "steals": 25
+    }, 
+    {
+        "assists": 191, 
+        "blocks": 22, 
+        "fantasy_points": 1267.1, 
+        "full_name": "Raymond Felton", 
+        "id": 101109, 
+        "points": 538, 
+        "rebounds": 218, 
+        "steals": 66
+    }, 
+    {
+        "assists": 172, 
+        "blocks": 9, 
+        "fantasy_points": 936.2, 
+        "full_name": "Yogi Ferrell", 
+        "id": 1627812, 
+        "points": 462, 
+        "rebounds": 111, 
+        "steals": 42
+    }, 
+    {
+        "assists": 67, 
+        "blocks": 25, 
+        "fantasy_points": 902.9, 
+        "full_name": "Dorian Finney-Smith", 
+        "id": 1627827, 
+        "points": 350, 
+        "rebounds": 222, 
+        "steals": 52
+    }, 
+    {
+        "assists": 23, 
+        "blocks": 0, 
+        "fantasy_points": 148.1, 
+        "full_name": "Bryn Forbes", 
+        "id": 1627854, 
+        "points": 94, 
+        "rebounds": 23, 
+        "steals": 1
+    }, 
+    {
+        "assists": 202, 
+        "blocks": 4, 
+        "fantasy_points": 1789.8, 
+        "full_name": "Evan Fournier", 
+        "id": 203095, 
+        "points": 1167, 
+        "rebounds": 209, 
+        "steals": 66
+    }, 
+    {
+        "assists": 135, 
+        "blocks": 9, 
+        "fantasy_points": 797.5, 
+        "full_name": "Randy Foye", 
+        "id": 200751, 
+        "points": 357, 
+        "rebounds": 155, 
+        "steals": 35
+    }, 
+    {
+        "assists": 335, 
+        "blocks": 6, 
+        "fantasy_points": 1259.1, 
+        "full_name": "Tim Frazier", 
+        "id": 204025, 
+        "points": 464, 
+        "rebounds": 173, 
+        "steals": 56
+    }, 
+    {
+        "assists": 45, 
+        "blocks": 37, 
+        "fantasy_points": 1248.5, 
+        "full_name": "Channing Frye", 
+        "id": 101112, 
+        "points": 676, 
+        "rebounds": 290, 
+        "steals": 33
+    }, 
+    {
+        "assists": 135, 
+        "blocks": 15, 
+        "fantasy_points": 1820.5, 
+        "full_name": "Danilo Gallinari", 
+        "id": 201568, 
+        "points": 1145, 
+        "rebounds": 325, 
+        "steals": 40
+    }, 
+    {
+        "assists": 93, 
+        "blocks": 6, 
+        "fantasy_points": 1021.7, 
+        "full_name": "Langston Galloway", 
+        "id": 204038, 
+        "points": 585, 
+        "rebounds": 156, 
+        "steals": 46
+    }, 
+    {
+        "assists": 0, 
+        "blocks": 0, 
+        "fantasy_points": 5.4, 
+        "full_name": "Patricio Garino", 
+        "id": 1627868, 
+        "points": 0, 
+        "rebounds": 7, 
+        "steals": 0
+    }, 
+    {
+        "assists": 338, 
+        "blocks": 99, 
+        "fantasy_points": 2841.8, 
+        "full_name": "Marc Gasol", 
+        "id": 201188, 
+        "points": 1446, 
+        "rebounds": 464, 
+        "steals": 67
+    }, 
+    {
+        "assists": 150, 
+        "blocks": 70, 
+        "fantasy_points": 1819.2, 
+        "full_name": "Pau Gasol", 
+        "id": 2200, 
+        "points": 792, 
+        "rebounds": 501, 
+        "steals": 24
+    }, 
+    {
+        "assists": 83, 
+        "blocks": 26, 
+        "fantasy_points": 1050.5, 
+        "full_name": "Rudy Gay", 
+        "id": 200752, 
+        "points": 562, 
+        "rebounds": 190, 
+        "steals": 44
+    }, 
+    {
+        "assists": 2, 
+        "blocks": 0, 
+        "fantasy_points": 10.6, 
+        "full_name": "Michael Gbinije", 
+        "id": 1627771, 
+        "points": 4, 
+        "rebounds": 3, 
+        "steals": 0
+    }, 
+    {
+        "assists": 6, 
+        "blocks": 1, 
+        "fantasy_points": 52.0, 
+        "full_name": "Alonzo Gee", 
+        "id": 202087, 
+        "points": 11, 
+        "rebounds": 15, 
+        "steals": 5
+    }, 
+    {
+        "assists": 251, 
+        "blocks": 27, 
+        "fantasy_points": 2959.9, 
+        "full_name": "Paul George", 
+        "id": 202331, 
+        "points": 1775, 
+        "rebounds": 492, 
+        "steals": 119
+    }, 
+    {
+        "assists": 3, 
+        "blocks": 0, 
+        "fantasy_points": 30.3, 
+        "full_name": "Marcus Georges-Hunt", 
+        "id": 1627875, 
+        "points": 14, 
+        "rebounds": 9, 
+        "steals": 1
+    }, 
+    {
+        "assists": 26, 
+        "blocks": 0, 
+        "fantasy_points": 174.4, 
+        "full_name": "Jonathan Gibson", 
+        "id": 1626780, 
+        "points": 106, 
+        "rebounds": 22, 
+        "steals": 8
+    }, 
+    {
+        "assists": 73, 
+        "blocks": 65, 
+        "fantasy_points": 1750.5, 
+        "full_name": "Taj Gibson", 
+        "id": 201959, 
+        "points": 846, 
+        "rebounds": 485, 
+        "steals": 41
+    }, 
+    {
+        "assists": 183, 
+        "blocks": 16, 
+        "fantasy_points": 1177.9, 
+        "full_name": "Manu Ginobili", 
+        "id": 1938, 
+        "points": 517, 
+        "rebounds": 157, 
+        "steals": 82
+    }, 
+    {
+        "assists": 97, 
+        "blocks": 214, 
+        "fantasy_points": 3166.5, 
+        "full_name": "Rudy Gobert", 
+        "id": 203497, 
+        "points": 1137, 
+        "rebounds": 1035, 
+        "steals": 49
+    }, 
+    {
+        "assists": 24, 
+        "blocks": 5, 
+        "fantasy_points": 192.6, 
+        "full_name": "Archie Goodwin", 
+        "id": 203462, 
+        "points": 110, 
+        "rebounds": 28, 
+        "steals": 4
+    }, 
+    {
+        "assists": 150, 
+        "blocks": 40, 
+        "fantasy_points": 1956.0, 
+        "full_name": "Aaron Gordon", 
+        "id": 203932, 
+        "points": 1019, 
+        "rebounds": 405, 
+        "steals": 65
+    }, 
+    {
+        "assists": 188, 
+        "blocks": 41, 
+        "fantasy_points": 1886.2, 
+        "full_name": "Eric Gordon", 
+        "id": 201569, 
+        "points": 1217, 
+        "rebounds": 201, 
+        "steals": 48
+    }, 
+    {
+        "assists": 121, 
+        "blocks": 61, 
+        "fantasy_points": 2267.3, 
+        "full_name": "Marcin Gortat", 
+        "id": 101162, 
+        "points": 883, 
+        "rebounds": 849, 
+        "steals": 40
+    }, 
+    {
+        "assists": 6, 
+        "blocks": 1, 
+        "fantasy_points": 110.4, 
+        "full_name": "Treveon Graham", 
+        "id": 1626203, 
+        "points": 57, 
+        "rebounds": 22, 
+        "steals": 6
+    }, 
+    {
+        "assists": 46, 
+        "blocks": 79, 
+        "fantasy_points": 1044.0, 
+        "full_name": "Jerami Grant", 
+        "id": 203924, 
+        "points": 437, 
+        "rebounds": 205, 
+        "steals": 33
+    }, 
+    {
+        "assists": 121, 
+        "blocks": 8, 
+        "fantasy_points": 805.7, 
+        "full_name": "Jerian Grant", 
+        "id": 1626170, 
+        "points": 370, 
+        "rebounds": 111, 
+        "steals": 47
+    }, 
+    {
+        "assists": 124, 
+        "blocks": 57, 
+        "fantasy_points": 1256.8, 
+        "full_name": "Danny Green", 
+        "id": 201980, 
+        "points": 497, 
+        "rebounds": 224, 
+        "steals": 70
+    }, 
+    {
+        "assists": 533, 
+        "blocks": 106, 
+        "fantasy_points": 2890.3, 
+        "full_name": "Draymond Green", 
+        "id": 203110, 
+        "points": 776, 
+        "rebounds": 599, 
+        "steals": 154
+    }, 
+    {
+        "assists": 33, 
+        "blocks": 7, 
+        "fantasy_points": 435.3, 
+        "full_name": "Gerald Green", 
+        "id": 101123, 
+        "points": 262, 
+        "rebounds": 84, 
+        "steals": 9
+    }, 
+    {
+        "assists": 84, 
+        "blocks": 34, 
+        "fantasy_points": 1616.8, 
+        "full_name": "JaMychal Green", 
+        "id": 203210, 
+        "points": 689, 
+        "rebounds": 544, 
+        "steals": 47
+    }, 
+    {
+        "assists": 81, 
+        "blocks": 13, 
+        "fantasy_points": 1091.3, 
+        "full_name": "Jeff Green", 
+        "id": 201145, 
+        "points": 638, 
+        "rebounds": 214, 
+        "steals": 37
+    }, 
+    {
+        "assists": 300, 
+        "blocks": 22, 
+        "fantasy_points": 2457.4, 
+        "full_name": "Blake Griffin", 
+        "id": 201933, 
+        "points": 1316, 
+        "rebounds": 497, 
+        "steals": 57
+    }, 
+    {
+        "assists": 55, 
+        "blocks": 43, 
+        "fantasy_points": 1011.9, 
+        "full_name": "Justin Hamilton", 
+        "id": 203120, 
+        "points": 442, 
+        "rebounds": 262, 
+        "steals": 29
+    }, 
+    {
+        "assists": 4, 
+        "blocks": 13, 
+        "fantasy_points": 129.2, 
+        "full_name": "AJ Hammons", 
+        "id": 1627773, 
+        "points": 48, 
+        "rebounds": 36, 
+        "steals": 1
+    }, 
+    {
+        "assists": 182, 
+        "blocks": 15, 
+        "fantasy_points": 1788.8, 
+        "full_name": "Tim Hardaway Jr.", 
+        "id": 203501, 
+        "points": 1143, 
+        "rebounds": 224, 
+        "steals": 55
+    }, 
+    {
+        "assists": 907, 
+        "blocks": 38, 
+        "fantasy_points": 4520.3, 
+        "full_name": "James Harden", 
+        "id": 201935, 
+        "points": 2356, 
+        "rebounds": 659, 
+        "steals": 121
+    }, 
+    {
+        "assists": 88, 
+        "blocks": 70, 
+        "fantasy_points": 1693.2, 
+        "full_name": "Maurice Harkless", 
+        "id": 203090, 
+        "points": 773, 
+        "rebounds": 341, 
+        "steals": 85
+    }, 
+    {
+        "assists": 2, 
+        "blocks": 0, 
+        "fantasy_points": 17.0, 
+        "full_name": "Justin Harper", 
+        "id": 202712, 
+        "points": 12, 
+        "rebounds": 5, 
+        "steals": 0
+    }, 
+    {
+        "assists": 64, 
+        "blocks": 42, 
+        "fantasy_points": 1027.8, 
+        "full_name": "Montrezl Harrell", 
+        "id": 1626149, 
+        "points": 527, 
+        "rebounds": 219, 
+        "steals": 20
+    }, 
+    {
+        "assists": 136, 
+        "blocks": 7, 
+        "fantasy_points": 886.4, 
+        "full_name": "Devin Harris", 
+        "id": 2734, 
+        "points": 437, 
+        "rebounds": 127, 
+        "steals": 43
+    }, 
+    {
+        "assists": 164, 
+        "blocks": 8, 
+        "fantasy_points": 1471.6, 
+        "full_name": "Gary Harris", 
+        "id": 203914, 
+        "points": 851, 
+        "rebounds": 178, 
+        "steals": 71
+    }, 
+    {
+        "assists": 54, 
+        "blocks": 8, 
+        "fantasy_points": 744.4, 
+        "full_name": "Joe Harris", 
+        "id": 203925, 
+        "points": 428, 
+        "rebounds": 147, 
+        "steals": 30
+    }, 
+    {
+        "assists": 2, 
+        "blocks": 0, 
+        "fantasy_points": 19.8, 
+        "full_name": "Manny Harris", 
+        "id": 202412, 
+        "points": 8, 
+        "rebounds": 9, 
+        "steals": 0
+    }, 
+    {
+        "assists": 142, 
+        "blocks": 39, 
+        "fantasy_points": 2234.2, 
+        "full_name": "Tobias Harris", 
+        "id": 202699, 
+        "points": 1321, 
+        "rebounds": 416, 
+        "steals": 60
+    }, 
+    {
+        "assists": 3, 
+        "blocks": 0, 
+        "fantasy_points": 9.1, 
+        "full_name": "Aaron Harrison", 
+        "id": 1626151, 
+        "points": 1, 
+        "rebounds": 3, 
+        "steals": 0
+    }, 
+    {
+        "assists": 198, 
+        "blocks": 21, 
+        "fantasy_points": 1022.2, 
+        "full_name": "Andrew Harrison", 
+        "id": 1626150, 
+        "points": 425, 
+        "rebounds": 136, 
+        "steals": 53
+    }, 
+    {
+        "assists": 6, 
+        "blocks": 1, 
+        "fantasy_points": 96.2, 
+        "full_name": "Udonis Haslem", 
+        "id": 2617, 
+        "points": 31, 
+        "rebounds": 36, 
+        "steals": 6
+    }, 
+    {
+        "assists": 81, 
+        "blocks": 30, 
+        "fantasy_points": 773.7, 
+        "full_name": "Spencer Hawes", 
+        "id": 201150, 
+        "points": 337, 
+        "rebounds": 191, 
+        "steals": 15
+    }, 
+    {
+        "assists": 252, 
+        "blocks": 20, 
+        "fantasy_points": 2590.8, 
+        "full_name": "Gordon Hayward", 
+        "id": 202330, 
+        "points": 1601, 
+        "rebounds": 394, 
+        "steals": 73
+    }, 
+    {
+        "assists": 112, 
+        "blocks": 15, 
+        "fantasy_points": 1155.0, 
+        "full_name": "Gerald Henderson", 
+        "id": 201945, 
+        "points": 662, 
+        "rebounds": 185, 
+        "steals": 40
+    }, 
+    {
+        "assists": 57, 
+        "blocks": 78, 
+        "fantasy_points": 1100.5, 
+        "full_name": "John Henson", 
+        "id": 203089, 
+        "points": 392, 
+        "rebounds": 295, 
+        "steals": 29
+    }, 
+    {
+        "assists": 29, 
+        "blocks": 12, 
+        "fantasy_points": 667.9, 
+        "full_name": "Juancho Hernangomez", 
+        "id": 1627823, 
+        "points": 305, 
+        "rebounds": 187, 
+        "steals": 30
+    }, 
+    {
+        "assists": 96, 
+        "blocks": 36, 
+        "fantasy_points": 1464.4, 
+        "full_name": "Willy Hernangomez", 
+        "id": 1626195, 
+        "points": 587, 
+        "rebounds": 502, 
+        "steals": 41
+    }, 
+    {
+        "assists": 62, 
+        "blocks": 15, 
+        "fantasy_points": 662.2, 
+        "full_name": "Mario Hezonja", 
+        "id": 1626209, 
+        "points": 317, 
+        "rebounds": 146, 
+        "steals": 30
+    }, 
+    {
+        "assists": 21, 
+        "blocks": 46, 
+        "fantasy_points": 564.9, 
+        "full_name": "Roy Hibbert", 
+        "id": 201579, 
+        "points": 221, 
+        "rebounds": 152, 
+        "steals": 8
+    }, 
+    {
+        "assists": 121, 
+        "blocks": 9, 
+        "fantasy_points": 1410.3, 
+        "full_name": "Buddy Hield", 
+        "id": 1627741, 
+        "points": 866, 
+        "rebounds": 269, 
+        "steals": 38
+    }, 
+    {
+        "assists": 65, 
+        "blocks": 39, 
+        "fantasy_points": 1256.9, 
+        "full_name": "Nene", 
+        "id": 2403, 
+        "points": 609, 
+        "rebounds": 282, 
+        "steals": 56
+    }, 
+    {
+        "assists": 204, 
+        "blocks": 11, 
+        "fantasy_points": 1433.4, 
+        "full_name": "George Hill", 
+        "id": 201588, 
+        "points": 829, 
+        "rebounds": 167, 
+        "steals": 50
+    }, 
+    {
+        "assists": 0, 
+        "blocks": 0, 
+        "fantasy_points": 27.8, 
+        "full_name": "Jordan Hill", 
+        "id": 201941, 
+        "points": 12, 
+        "rebounds": 14, 
+        "steals": 1
+    }, 
+    {
+        "assists": 141, 
+        "blocks": 32, 
+        "fantasy_points": 1372.9, 
+        "full_name": "Solomon Hill", 
+        "id": 203524, 
+        "points": 563, 
+        "rebounds": 307, 
+        "steals": 72
+    }, 
+    {
+        "assists": 33, 
+        "blocks": 2, 
+        "fantasy_points": 227.1, 
+        "full_name": "Darrun Hilliard", 
+        "id": 1626199, 
+        "points": 127, 
+        "rebounds": 33, 
+        "steals": 11
+    }, 
+    {
+        "assists": 488, 
+        "blocks": 44, 
+        "fantasy_points": 2315.8, 
+        "full_name": "Jrue Holiday", 
+        "id": 201950, 
+        "points": 1029, 
+        "rebounds": 264, 
+        "steals": 100
+    }, 
+    {
+        "assists": 102, 
+        "blocks": 31, 
+        "fantasy_points": 1274.0, 
+        "full_name": "Justin Holiday", 
+        "id": 203200, 
+        "points": 629, 
+        "rebounds": 225, 
+        "steals": 65
+    }, 
+    {
+        "assists": 154, 
+        "blocks": 44, 
+        "fantasy_points": 1710.4, 
+        "full_name": "Rondae Hollis-Jefferson", 
+        "id": 1626178, 
+        "points": 675, 
+        "rebounds": 452, 
+        "steals": 82
+    }, 
+    {
+        "assists": 58, 
+        "blocks": 55, 
+        "fantasy_points": 1255.2, 
+        "full_name": "Richaun Holmes", 
+        "id": 1626158, 
+        "points": 559, 
+        "rebounds": 311, 
+        "steals": 42
+    }, 
+    {
+        "assists": 96, 
+        "blocks": 11, 
+        "fantasy_points": 1216.4, 
+        "full_name": "Rodney Hood", 
+        "id": 203918, 
+        "points": 748, 
+        "rebounds": 202, 
+        "steals": 38
+    }, 
+    {
+        "assists": 337, 
+        "blocks": 86, 
+        "fantasy_points": 2314.5, 
+        "full_name": "Al Horford", 
+        "id": 201143, 
+        "points": 952, 
+        "rebounds": 465, 
+        "steals": 52
+    }, 
+    {
+        "assists": 0, 
+        "blocks": 0, 
+        "fantasy_points": 1.2, 
+        "full_name": "Danuel House", 
+        "id": 1627863, 
+        "points": 0, 
+        "rebounds": 1, 
+        "steals": 0
+    }, 
+    {
+        "assists": 104, 
+        "blocks": 92, 
+        "fantasy_points": 2584.0, 
+        "full_name": "Dwight Howard", 
+        "id": 2730, 
+        "points": 1002, 
+        "rebounds": 940, 
+        "steals": 64
+    }, 
+    {
+        "assists": 52, 
+        "blocks": 2, 
+        "fantasy_points": 186.8, 
+        "full_name": "Marcelo Huertas", 
+        "id": 1626273, 
+        "points": 63, 
+        "rebounds": 24, 
+        "steals": 10
+    }, 
+    {
+        "assists": 3, 
+        "blocks": 3, 
+        "fantasy_points": 38.3, 
+        "full_name": "Josh Huestis", 
+        "id": 203962, 
+        "points": 14, 
+        "rebounds": 9, 
+        "steals": 0
+    }, 
+    {
+        "assists": 29, 
+        "blocks": 21, 
+        "fantasy_points": 627.7, 
+        "full_name": "Kris Humphries", 
+        "id": 2743, 
+        "points": 257, 
+        "rebounds": 206, 
+        "steals": 15
+    }, 
+    {
+        "assists": 0, 
+        "blocks": 0, 
+        "fantasy_points": 1.2, 
+        "full_name": "RJ Hunter", 
+        "id": 1626154, 
+        "points": 0, 
+        "rebounds": 1, 
+        "steals": 0
+    }, 
+    {
+        "assists": 75, 
+        "blocks": 124, 
+        "fantasy_points": 2321.1, 
+        "full_name": "Serge Ibaka", 
+        "id": 201586, 
+        "points": 1173, 
+        "rebounds": 538, 
+        "steals": 41
+    }, 
+    {
+        "assists": 261, 
+        "blocks": 39, 
+        "fantasy_points": 1617.3, 
+        "full_name": "Andre Iguodala", 
+        "id": 2738, 
+        "points": 574, 
+        "rebounds": 304, 
+        "steals": 76
+    }, 
+    {
+        "assists": 141, 
+        "blocks": 23, 
+        "fantasy_points": 1986.7, 
+        "full_name": "Ersan Ilyasova", 
+        "id": 101141, 
+        "points": 1071, 
+        "rebounds": 481, 
+        "steals": 58
+    }, 
+    {
+        "assists": 225, 
+        "blocks": 8, 
+        "fantasy_points": 1436.7, 
+        "full_name": "Joe Ingles", 
+        "id": 204060, 
+        "points": 581, 
+        "rebounds": 261, 
+        "steals": 96
+    }, 
+    {
+        "assists": 166, 
+        "blocks": 36, 
+        "fantasy_points": 1510.2, 
+        "full_name": "Brandon Ingram", 
+        "id": 1627742, 
+        "points": 740, 
+        "rebounds": 316, 
+        "steals": 50
+    }, 
+    {
+        "assists": 418, 
+        "blocks": 24, 
+        "fantasy_points": 2860.0, 
+        "full_name": "Kyrie Irving", 
+        "id": 202681, 
+        "points": 1816, 
+        "rebounds": 230, 
+        "steals": 83
+    }, 
+    {
+        "assists": 5, 
+        "blocks": 0, 
+        "fantasy_points": 16.5, 
+        "full_name": "Jarrett Jack", 
+        "id": 101127, 
+        "points": 6, 
+        "rebounds": 0, 
+        "steals": 2
+    }, 
+    {
+        "assists": 3, 
+        "blocks": 0, 
+        "fantasy_points": 19.3, 
+        "full_name": "Demetrius Jackson", 
+        "id": 1627743, 
+        "points": 10, 
+        "rebounds": 4, 
+        "steals": 0
+    }, 
+    {
+        "assists": 19, 
+        "blocks": 0, 
+        "fantasy_points": 77.3, 
+        "full_name": "Pierre Jackson", 
+        "id": 203510, 
+        "points": 35, 
+        "rebounds": 9, 
+        "steals": 2
+    }, 
+    {
+        "assists": 270, 
+        "blocks": 5, 
+        "fantasy_points": 1299.8, 
+        "full_name": "Reggie Jackson", 
+        "id": 202704, 
+        "points": 752, 
+        "rebounds": 114, 
+        "steals": 35
+    }, 
+    {
+        "assists": 646, 
+        "blocks": 44, 
+        "fantasy_points": 3794.8, 
+        "full_name": "LeBron James", 
+        "id": 2544, 
+        "points": 1954, 
+        "rebounds": 639, 
+        "steals": 92
+    }, 
+    {
+        "assists": 57, 
+        "blocks": 16, 
+        "fantasy_points": 1026.1, 
+        "full_name": "Al Jefferson", 
+        "id": 2744, 
+        "points": 535, 
+        "rebounds": 278, 
+        "steals": 19
+    }, 
+    {
+        "assists": 78, 
+        "blocks": 10, 
+        "fantasy_points": 864.6, 
+        "full_name": "Richard Jefferson", 
+        "id": 2210, 
+        "points": 448, 
+        "rebounds": 203, 
+        "steals": 26
+    }, 
+    {
+        "assists": 1, 
+        "blocks": 0, 
+        "fantasy_points": 9.7, 
+        "full_name": "John Jenkins", 
+        "id": 203098, 
+        "points": 7, 
+        "rebounds": 1, 
+        "steals": 0
+    }, 
+    {
+        "assists": 395, 
+        "blocks": 4, 
+        "fantasy_points": 1498.7, 
+        "full_name": "Brandon Jennings", 
+        "id": 201943, 
+        "points": 577, 
+        "rebounds": 196, 
+        "steals": 70
+    }, 
+    {
+        "assists": 71, 
+        "blocks": 17, 
+        "fantasy_points": 818.9, 
+        "full_name": "Jonas Jerebko", 
+        "id": 201973, 
+        "points": 299, 
+        "rebounds": 272, 
+        "steals": 25
+    }, 
+    {
+        "assists": 140, 
+        "blocks": 62, 
+        "fantasy_points": 1431.2, 
+        "full_name": "Amir Johnson", 
+        "id": 101161, 
+        "points": 520, 
+        "rebounds": 366, 
+        "steals": 51
+    }, 
+    {
+        "assists": 1, 
+        "blocks": 1, 
+        "fantasy_points": 17.1, 
+        "full_name": "Brice Johnson", 
+        "id": 1627744, 
+        "points": 4, 
+        "rebounds": 3, 
+        "steals": 2
+    }, 
+    {
+        "assists": 276, 
+        "blocks": 86, 
+        "fantasy_points": 2155.2, 
+        "full_name": "James Johnson", 
+        "id": 201949, 
+        "points": 975, 
+        "rebounds": 376, 
+        "steals": 76
+    }, 
+    {
+        "assists": 144, 
+        "blocks": 18, 
+        "fantasy_points": 1315.6, 
+        "full_name": "Joe Johnson", 
+        "id": 2207, 
+        "points": 715, 
+        "rebounds": 243, 
+        "steals": 36
+    }, 
+    {
+        "assists": 105, 
+        "blocks": 24, 
+        "fantasy_points": 892.3, 
+        "full_name": "Stanley Johnson", 
+        "id": 1626169, 
+        "points": 339, 
+        "rebounds": 189, 
+        "steals": 56
+    }, 
+    {
+        "assists": 233, 
+        "blocks": 44, 
+        "fantasy_points": 1997.1, 
+        "full_name": "Tyler Johnson", 
+        "id": 204020, 
+        "points": 1002, 
+        "rebounds": 293, 
+        "steals": 84
+    }, 
+    {
+        "assists": 23, 
+        "blocks": 30, 
+        "fantasy_points": 596.7, 
+        "full_name": "Wesley Johnson", 
+        "id": 202325, 
+        "points": 186, 
+        "rebounds": 181, 
+        "steals": 29
+    }, 
+    {
+        "assists": 359, 
+        "blocks": 55, 
+        "fantasy_points": 2798.1, 
+        "full_name": "Nikola Jokic", 
+        "id": 203999, 
+        "points": 1221, 
+        "rebounds": 718, 
+        "steals": 61
+    }, 
+    {
+        "assists": 1, 
+        "blocks": 0, 
+        "fantasy_points": 11.9, 
+        "full_name": "Dahntay Jones", 
+        "id": 2563, 
+        "points": 9, 
+        "rebounds": 2, 
+        "steals": 0
+    }, 
+    {
+        "assists": 0, 
+        "blocks": 4, 
+        "fantasy_points": 55.6, 
+        "full_name": "Damian Jones", 
+        "id": 1627745, 
+        "points": 19, 
+        "rebounds": 23, 
+        "steals": 1
+    }, 
+    {
+        "assists": 14, 
+        "blocks": 10, 
+        "fantasy_points": 235.4, 
+        "full_name": "James Jones", 
+        "id": 2592, 
+        "points": 132, 
+        "rebounds": 37, 
+        "steals": 6
+    }, 
+    {
+        "assists": 59, 
+        "blocks": 54, 
+        "fantasy_points": 1273.7, 
+        "full_name": "Terrence Jones", 
+        "id": 203093, 
+        "points": 584, 
+        "rebounds": 306, 
+        "steals": 40
+    }, 
+    {
+        "assists": 156, 
+        "blocks": 5, 
+        "fantasy_points": 644.4, 
+        "full_name": "Tyus Jones", 
+        "id": 1626145, 
+        "points": 209, 
+        "rebounds": 67, 
+        "steals": 48
+    }, 
+    {
+        "assists": 12, 
+        "blocks": 13, 
+        "fantasy_points": 348.8, 
+        "full_name": "Derrick Jones Jr.", 
+        "id": 1627884, 
+        "points": 168, 
+        "rebounds": 79, 
+        "steals": 14
+    }, 
+    {
+        "assists": 96, 
+        "blocks": 134, 
+        "fantasy_points": 2949.8, 
+        "full_name": "DeAndre Jordan", 
+        "id": 201599, 
+        "points": 1029, 
+        "rebounds": 1114, 
+        "steals": 51
+    }, 
+    {
+        "assists": 265, 
+        "blocks": 13, 
+        "fantasy_points": 1548.5, 
+        "full_name": "Cory Joseph", 
+        "id": 202709, 
+        "points": 740, 
+        "rebounds": 235, 
+        "steals": 66
+    }, 
+    {
+        "assists": 162, 
+        "blocks": 34, 
+        "fantasy_points": 1684.2, 
+        "full_name": "Frank Kaminsky", 
+        "id": 1626163, 
+        "points": 874, 
+        "rebounds": 336, 
+        "steals": 46
+    }, 
+    {
+        "assists": 67, 
+        "blocks": 38, 
+        "fantasy_points": 1798.9, 
+        "full_name": "Enes Kanter", 
+        "id": 202683, 
+        "points": 1033, 
+        "rebounds": 482, 
+        "steals": 32
+    }, 
+    {
+        "assists": 8, 
+        "blocks": 5, 
+        "fantasy_points": 81.6, 
+        "full_name": "Ryan Kelly", 
+        "id": 203527, 
+        "points": 25, 
+        "rebounds": 18, 
+        "steals": 4
+    }, 
+    {
+        "assists": 114, 
+        "blocks": 77, 
+        "fantasy_points": 2010.0, 
+        "full_name": "Michael Kidd-Gilchrist", 
+        "id": 203077, 
+        "points": 743, 
+        "rebounds": 565, 
+        "steals": 81
+    }, 
+    {
+        "assists": 157, 
+        "blocks": 6, 
+        "fantasy_points": 1508.5, 
+        "full_name": "Sean Kilpatrick", 
+        "id": 203930, 
+        "points": 919, 
+        "rebounds": 280, 
+        "steals": 45
+    }, 
+    {
+        "assists": 130, 
+        "blocks": 5, 
+        "fantasy_points": 939.6, 
+        "full_name": "Brandon Knight", 
+        "id": 202688, 
+        "points": 595, 
+        "rebounds": 118, 
+        "steals": 27
+    }, 
+    {
+        "assists": 110, 
+        "blocks": 21, 
+        "fantasy_points": 1162.2, 
+        "full_name": "Kyle Korver", 
+        "id": 2594, 
+        "points": 678, 
+        "rebounds": 186, 
+        "steals": 34
+    }, 
+    {
+        "assists": 47, 
+        "blocks": 48, 
+        "fantasy_points": 1215.1, 
+        "full_name": "Kosta Koufos", 
+        "id": 201585, 
+        "points": 470, 
+        "rebounds": 403, 
+        "steals": 36
+    }, 
+    {
+        "assists": 69, 
+        "blocks": 11, 
+        "fantasy_points": 748.7, 
+        "full_name": "Mindaugas Kuzminskas", 
+        "id": 1627851, 
+        "points": 425, 
+        "rebounds": 126, 
+        "steals": 29
+    }, 
+    {
+        "assists": 139, 
+        "blocks": 10, 
+        "fantasy_points": 1357.5, 
+        "full_name": "Zach LaVine", 
+        "id": 203897, 
+        "points": 889, 
+        "rebounds": 160, 
+        "steals": 41
+    }, 
+    {
+        "assists": 27, 
+        "blocks": 13, 
+        "fantasy_points": 573.9, 
+        "full_name": "Skal Labissiere", 
+        "id": 1627746, 
+        "points": 289, 
+        "rebounds": 162, 
+        "steals": 16
+    }, 
+    {
+        "assists": 75, 
+        "blocks": 23, 
+        "fantasy_points": 1142.3, 
+        "full_name": "Jeremy Lamb", 
+        "id": 203087, 
+        "points": 603, 
+        "rebounds": 264, 
+        "steals": 27
+    }, 
+    {
+        "assists": 28, 
+        "blocks": 1, 
+        "fantasy_points": 109.0, 
+        "full_name": "Nicolas Laprovittola", 
+        "id": 1627879, 
+        "points": 59, 
+        "rebounds": 10, 
+        "steals": 4
+    }, 
+    {
+        "assists": 70, 
+        "blocks": 6, 
+        "fantasy_points": 818.2, 
+        "full_name": "Joffrey Lauvergne", 
+        "id": 203530, 
+        "points": 375, 
+        "rebounds": 251, 
+        "steals": 25
+    }, 
+    {
+        "assists": 334, 
+        "blocks": 6, 
+        "fantasy_points": 1507.8, 
+        "full_name": "Ty Lawson", 
+        "id": 201951, 
+        "points": 681, 
+        "rebounds": 179, 
+        "steals": 74
+    }, 
+    {
+        "assists": 11, 
+        "blocks": 3, 
+        "fantasy_points": 148.3, 
+        "full_name": "Jake Layman", 
+        "id": 1627774, 
+        "points": 78, 
+        "rebounds": 24, 
+        "steals": 9
+    }, 
+    {
+        "assists": 110, 
+        "blocks": 8, 
+        "fantasy_points": 970.6, 
+        "full_name": "Caris LeVert", 
+        "id": 1627747, 
+        "points": 468, 
+        "rebounds": 188, 
+        "steals": 49
+    }, 
+    {
+        "assists": 179, 
+        "blocks": 24, 
+        "fantasy_points": 1660.3, 
+        "full_name": "Courtney Lee", 
+        "id": 201584, 
+        "points": 835, 
+        "rebounds": 259, 
+        "steals": 81
+    }, 
+    {
+        "assists": 44, 
+        "blocks": 98, 
+        "fantasy_points": 1597.0, 
+        "full_name": "Alex Len", 
+        "id": 203458, 
+        "points": 613, 
+        "rebounds": 510, 
+        "steals": 38
+    }, 
+    {
+        "assists": 260, 
+        "blocks": 55, 
+        "fantasy_points": 3204.0, 
+        "full_name": "Kawhi Leonard", 
+        "id": 202695, 
+        "points": 1888, 
+        "rebounds": 430, 
+        "steals": 133
+    }, 
+    {
+        "assists": 71, 
+        "blocks": 28, 
+        "fantasy_points": 879.9, 
+        "full_name": "Meyers Leonard", 
+        "id": 203086, 
+        "points": 401, 
+        "rebounds": 237, 
+        "steals": 13
+    }, 
+    {
+        "assists": 111, 
+        "blocks": 26, 
+        "fantasy_points": 1520.9, 
+        "full_name": "Jon Leuer", 
+        "id": 202720, 
+        "points": 767, 
+        "rebounds": 402, 
+        "steals": 31
+    }, 
+    {
+        "assists": 54, 
+        "blocks": 14, 
+        "fantasy_points": 503.6, 
+        "full_name": "DeAndre Liggins", 
+        "id": 202732, 
+        "points": 152, 
+        "rebounds": 108, 
+        "steals": 47
+    }, 
+    {
+        "assists": 440, 
+        "blocks": 20, 
+        "fantasy_points": 3192.6, 
+        "full_name": "Damian Lillard", 
+        "id": 203081, 
+        "points": 2024, 
+        "rebounds": 368, 
+        "steals": 68
+    }, 
+    {
+        "assists": 184, 
+        "blocks": 14, 
+        "fantasy_points": 1043.0, 
+        "full_name": "Jeremy Lin", 
+        "id": 202391, 
+        "points": 523, 
+        "rebounds": 135, 
+        "steals": 42
+    }, 
+    {
+        "assists": 139, 
+        "blocks": 20, 
+        "fantasy_points": 890.7, 
+        "full_name": "Shaun Livingston", 
+        "id": 2733, 
+        "points": 389, 
+        "rebounds": 151, 
+        "steals": 38
+    }, 
+    {
+        "assists": 13, 
+        "blocks": 9, 
+        "fantasy_points": 310.5, 
+        "full_name": "Shawn Long", 
+        "id": 1627848, 
+        "points": 148, 
+        "rebounds": 85, 
+        "steals": 9
+    }, 
+    {
+        "assists": 29, 
+        "blocks": 17, 
+        "fantasy_points": 406.3, 
+        "full_name": "Kevon Looney", 
+        "id": 1626172, 
+        "points": 135, 
+        "rebounds": 124, 
+        "steals": 15
+    }, 
+    {
+        "assists": 176, 
+        "blocks": 124, 
+        "fantasy_points": 2588.6, 
+        "full_name": "Brook Lopez", 
+        "id": 201572, 
+        "points": 1539, 
+        "rebounds": 403, 
+        "steals": 38
+    }, 
+    {
+        "assists": 80, 
+        "blocks": 117, 
+        "fantasy_points": 1897.0, 
+        "full_name": "Robin Lopez", 
+        "id": 201577, 
+        "points": 839, 
+        "rebounds": 520, 
+        "steals": 18
+    }, 
+    {
+        "assists": 116, 
+        "blocks": 21, 
+        "fantasy_points": 2215.2, 
+        "full_name": "Kevin Love", 
+        "id": 201567, 
+        "points": 1142, 
+        "rebounds": 666, 
+        "steals": 53
+    }, 
+    {
+        "assists": 417, 
+        "blocks": 19, 
+        "fantasy_points": 2460.7, 
+        "full_name": "Kyle Lowry", 
+        "id": 200768, 
+        "points": 1344, 
+        "rebounds": 286, 
+        "steals": 88
+    }, 
+    {
+        "assists": 1, 
+        "blocks": 0, 
+        "fantasy_points": 9.5, 
+        "full_name": "John Lucas III", 
+        "id": 101249, 
+        "points": 2, 
+        "rebounds": 0, 
+        "steals": 2
+    }, 
+    {
+        "assists": 75, 
+        "blocks": 10, 
+        "fantasy_points": 789.3, 
+        "full_name": "Timothe Luwawu-Cabarrot", 
+        "id": 1627789, 
+        "points": 445, 
+        "rebounds": 149, 
+        "steals": 32
+    }, 
+    {
+        "assists": 69, 
+        "blocks": 20, 
+        "fantasy_points": 899.5, 
+        "full_name": "Trey Lyles", 
+        "id": 1626168, 
+        "points": 440, 
+        "rebounds": 235, 
+        "steals": 26
+    }, 
+    {
+        "assists": 15, 
+        "blocks": 2, 
+        "fantasy_points": 178.3, 
+        "full_name": "Sheldon Mac", 
+        "id": 1627815, 
+        "points": 90, 
+        "rebounds": 34, 
+        "steals": 8
+    }, 
+    {
+        "assists": 154, 
+        "blocks": 3, 
+        "fantasy_points": 856.0, 
+        "full_name": "Shelvin Mack", 
+        "id": 202714, 
+        "points": 430, 
+        "rebounds": 125, 
+        "steals": 42
+    }, 
+    {
+        "assists": 19, 
+        "blocks": 24, 
+        "fantasy_points": 518.5, 
+        "full_name": "Ian Mahinmi", 
+        "id": 101133, 
+        "points": 173, 
+        "rebounds": 150, 
+        "steals": 33
+    }, 
+    {
+        "assists": 23, 
+        "blocks": 26, 
+        "fantasy_points": 488.3, 
+        "full_name": "Thon Maker", 
+        "id": 1627748, 
+        "points": 226, 
+        "rebounds": 114, 
+        "steals": 10
+    }, 
+    {
+        "assists": 9, 
+        "blocks": 12, 
+        "fantasy_points": 404.5, 
+        "full_name": "Boban Marjanovic", 
+        "id": 1626246, 
+        "points": 191, 
+        "rebounds": 130, 
+        "steals": 6
+    }, 
+    {
+        "assists": 8, 
+        "blocks": 9, 
+        "fantasy_points": 421.4, 
+        "full_name": "Jarell Martin", 
+        "id": 1626185, 
+        "points": 165, 
+        "rebounds": 162, 
+        "steals": 17
+    }, 
+    {
+        "assists": 210, 
+        "blocks": 15, 
+        "fantasy_points": 1785.8, 
+        "full_name": "Wesley Matthews", 
+        "id": 202083, 
+        "points": 986, 
+        "rebounds": 259, 
+        "steals": 77
+    }, 
+    {
+        "assists": 39, 
+        "blocks": 35, 
+        "fantasy_points": 1048.5, 
+        "full_name": "Luc Mbah a Moute", 
+        "id": 201601, 
+        "points": 484, 
+        "rebounds": 170, 
+        "steals": 81
+    }, 
+    {
+        "assists": 18, 
+        "blocks": 29, 
+        "fantasy_points": 405.2, 
+        "full_name": "James Michael McAdoo", 
+        "id": 203949, 
+        "points": 147, 
+        "rebounds": 91, 
+        "steals": 18
+    }, 
+    {
+        "assists": 77, 
+        "blocks": 15, 
+        "fantasy_points": 622.5, 
+        "full_name": "Patrick McCaw", 
+        "id": 1627775, 
+        "points": 282, 
+        "rebounds": 100, 
+        "steals": 32
+    }, 
+    {
+        "assists": 285, 
+        "blocks": 42, 
+        "fantasy_points": 2781.3, 
+        "full_name": "CJ McCollum", 
+        "id": 203468, 
+        "points": 1837, 
+        "rebounds": 289, 
+        "steals": 72
+    }, 
+    {
+        "assists": 534, 
+        "blocks": 10, 
+        "fantasy_points": 1931.2, 
+        "full_name": "T.J. McConnell", 
+        "id": 204456, 
+        "points": 556, 
+        "rebounds": 251, 
+        "steals": 134
+    }, 
+    {
+        "assists": 2, 
+        "blocks": 2, 
+        "fantasy_points": 70.8, 
+        "full_name": "Chris McCullough", 
+        "id": 1626191, 
+        "points": 36, 
+        "rebounds": 19, 
+        "steals": 2
+    }, 
+    {
+        "assists": 13, 
+        "blocks": 18, 
+        "fantasy_points": 405.9, 
+        "full_name": "KJ McDaniels", 
+        "id": 203909, 
+        "points": 206, 
+        "rebounds": 82, 
+        "steals": 19
+    }, 
+    {
+        "assists": 58, 
+        "blocks": 5, 
+        "fantasy_points": 909.8, 
+        "full_name": "Doug McDermott", 
+        "id": 203926, 
+        "points": 592, 
+        "rebounds": 179, 
+        "steals": 13
+    }, 
+    {
+        "assists": 17, 
+        "blocks": 67, 
+        "fantasy_points": 1008.3, 
+        "full_name": "JaVale McGee", 
+        "id": 201580, 
+        "points": 472, 
+        "rebounds": 244, 
+        "steals": 19
+    }, 
+    {
+        "assists": 124, 
+        "blocks": 18, 
+        "fantasy_points": 1126.2, 
+        "full_name": "Rodney McGruder", 
+        "id": 203585, 
+        "points": 497, 
+        "rebounds": 256, 
+        "steals": 46
+    }, 
+    {
+        "assists": 51, 
+        "blocks": 6, 
+        "fantasy_points": 769.3, 
+        "full_name": "Ben McLemore", 
+        "id": 203463, 
+        "points": 495, 
+        "rebounds": 129, 
+        "steals": 29
+    }, 
+    {
+        "assists": 19, 
+        "blocks": 6, 
+        "fantasy_points": 266.7, 
+        "full_name": "Jordan McRae", 
+        "id": 203895, 
+        "points": 161, 
+        "rebounds": 41, 
+        "steals": 8
+    }, 
+    {
+        "assists": 50, 
+        "blocks": 4, 
+        "fantasy_points": 289.8, 
+        "full_name": "Josh McRoberts", 
+        "id": 201177, 
+        "points": 107, 
+        "rebounds": 74, 
+        "steals": 10
+    }, 
+    {
+        "assists": 45, 
+        "blocks": 4, 
+        "fantasy_points": 564.9, 
+        "full_name": "Jodie Meeks", 
+        "id": 201975, 
+        "points": 327, 
+        "rebounds": 77, 
+        "steals": 34
+    }, 
+    {
+        "assists": 14, 
+        "blocks": 61, 
+        "fantasy_points": 842.6, 
+        "full_name": "Salah Mejri", 
+        "id": 1626257, 
+        "points": 213, 
+        "rebounds": 308, 
+        "steals": 32
+    }, 
+    {
+        "assists": 7, 
+        "blocks": 6, 
+        "fantasy_points": 107.3, 
+        "full_name": "Jordan Mickey", 
+        "id": 1626175, 
+        "points": 38, 
+        "rebounds": 34, 
+        "steals": 3
+    }, 
+    {
+        "assists": 99, 
+        "blocks": 7, 
+        "fantasy_points": 801.1, 
+        "full_name": "Khris Middleton", 
+        "id": 203114, 
+        "points": 426, 
+        "rebounds": 123, 
+        "steals": 41
+    }, 
+    {
+        "assists": 48, 
+        "blocks": 25, 
+        "fantasy_points": 1334.8, 
+        "full_name": "CJ Miles", 
+        "id": 101139, 
+        "points": 815, 
+        "rebounds": 229, 
+        "steals": 46
+    }, 
+    {
+        "assists": 22, 
+        "blocks": 0, 
+        "fantasy_points": 99.6, 
+        "full_name": "Mike Miller", 
+        "id": 2034, 
+        "points": 28, 
+        "rebounds": 38, 
+        "steals": 2
+    }, 
+    {
+        "assists": 280, 
+        "blocks": 3, 
+        "fantasy_points": 1451.2, 
+        "full_name": "Patty Mills", 
+        "id": 201988, 
+        "points": 759, 
+        "rebounds": 141, 
+        "steals": 65
+    }, 
+    {
+        "assists": 252, 
+        "blocks": 62, 
+        "fantasy_points": 2561.6, 
+        "full_name": "Paul Millsap", 
+        "id": 200794, 
+        "points": 1246, 
+        "rebounds": 533, 
+        "steals": 90
+    }, 
+    {
+        "assists": 75, 
+        "blocks": 55, 
+        "fantasy_points": 1561.3, 
+        "full_name": "Nikola Mirotic", 
+        "id": 202703, 
+        "points": 744, 
+        "rebounds": 384, 
+        "steals": 53
+    }, 
+    {
+        "assists": 187, 
+        "blocks": 38, 
+        "fantasy_points": 2119.9, 
+        "full_name": "Greg Monroe", 
+        "id": 202328, 
+        "points": 951, 
+        "rebounds": 532, 
+        "steals": 92
+    }, 
+    {
+        "assists": 164, 
+        "blocks": 32, 
+        "fantasy_points": 1312.4, 
+        "full_name": "E'Twaun Moore", 
+        "id": 202734, 
+        "points": 700, 
+        "rebounds": 152, 
+        "steals": 50
+    }, 
+    {
+        "assists": 160, 
+        "blocks": 25, 
+        "fantasy_points": 1928.2, 
+        "full_name": "Marcus Morris", 
+        "id": 202694, 
+        "points": 1105, 
+        "rebounds": 366, 
+        "steals": 52
+    }, 
+    {
+        "assists": 126, 
+        "blocks": 42, 
+        "fantasy_points": 2086.6, 
+        "full_name": "Markieff Morris", 
+        "id": 202693, 
+        "points": 1063, 
+        "rebounds": 493, 
+        "steals": 82
+    }, 
+    {
+        "assists": 25, 
+        "blocks": 2, 
+        "fantasy_points": 417.7, 
+        "full_name": "Anthony Morrow", 
+        "id": 201627, 
+        "points": 271, 
+        "rebounds": 31, 
+        "steals": 24
+    }, 
+    {
+        "assists": 32, 
+        "blocks": 11, 
+        "fantasy_points": 375.2, 
+        "full_name": "Donatas Motiejunas", 
+        "id": 202700, 
+        "points": 150, 
+        "rebounds": 101, 
+        "steals": 18
+    }, 
+    {
+        "assists": 43, 
+        "blocks": 31, 
+        "fantasy_points": 851.3, 
+        "full_name": "Timofey Mozgov", 
+        "id": 202389, 
+        "points": 401, 
+        "rebounds": 264, 
+        "steals": 16
+    }, 
+    {
+        "assists": 217, 
+        "blocks": 13, 
+        "fantasy_points": 1181.1, 
+        "full_name": "Emmanuel Mudiay", 
+        "id": 1626144, 
+        "points": 603, 
+        "rebounds": 178, 
+        "steals": 41
+    }, 
+    {
+        "assists": 35, 
+        "blocks": 6, 
+        "fantasy_points": 1116.5, 
+        "full_name": "Shabazz Muhammad", 
+        "id": 203498, 
+        "points": 772, 
+        "rebounds": 220, 
+        "steals": 22
+    }, 
+    {
+        "assists": 48, 
+        "blocks": 6, 
+        "fantasy_points": 256.4, 
+        "full_name": "Dejounte Murray", 
+        "id": 1627749, 
+        "points": 130, 
+        "rebounds": 42, 
+        "steals": 8
+    }, 
+    {
+        "assists": 170, 
+        "blocks": 24, 
+        "fantasy_points": 1434.8, 
+        "full_name": "Jamal Murray", 
+        "id": 1627750, 
+        "points": 811, 
+        "rebounds": 214, 
+        "steals": 51
+    }, 
+    {
+        "assists": 95, 
+        "blocks": 41, 
+        "fantasy_points": 1023.5, 
+        "full_name": "Mike Muscala", 
+        "id": 203488, 
+        "points": 435, 
+        "rebounds": 240, 
+        "steals": 30
+    }, 
+    {
+        "assists": 96, 
+        "blocks": 39, 
+        "fantasy_points": 1342.8, 
+        "full_name": "Larry Nance Jr.", 
+        "id": 1626204, 
+        "points": 449, 
+        "rebounds": 369, 
+        "steals": 82
+    }, 
+    {
+        "assists": 67, 
+        "blocks": 2, 
+        "fantasy_points": 452.7, 
+        "full_name": "Shabazz Napier", 
+        "id": 203894, 
+        "points": 218, 
+        "rebounds": 61, 
+        "steals": 32
+    }, 
+    {
+        "assists": 8, 
+        "blocks": 8, 
+        "fantasy_points": 243.8, 
+        "full_name": "Maurice Ndour", 
+        "id": 1626254, 
+        "points": 98, 
+        "rebounds": 64, 
+        "steals": 15
+    }, 
+    {
+        "assists": 1, 
+        "blocks": 0, 
+        "fantasy_points": 6.7, 
+        "full_name": "Gary Neal", 
+        "id": 202390, 
+        "points": 4, 
+        "rebounds": 1, 
+        "steals": 0
+    }, 
+    {
+        "assists": 385, 
+        "blocks": 8, 
+        "fantasy_points": 1552.9, 
+        "full_name": "Jameer Nelson", 
+        "id": 2749, 
+        "points": 687, 
+        "rebounds": 192, 
+        "steals": 54
+    }, 
+    {
+        "assists": 34, 
+        "blocks": 5, 
+        "fantasy_points": 250.0, 
+        "full_name": "Raul Neto", 
+        "id": 203526, 
+        "points": 100, 
+        "rebounds": 30, 
+        "steals": 21
+    }, 
+    {
+        "assists": 5, 
+        "blocks": 0, 
+        "fantasy_points": 52.9, 
+        "full_name": "Georges Niang", 
+        "id": 1627777, 
+        "points": 21, 
+        "rebounds": 17, 
+        "steals": 3
+    }, 
+    {
+        "assists": 10, 
+        "blocks": 6, 
+        "fantasy_points": 237.2, 
+        "full_name": "Andrew Nicholson", 
+        "id": 203094, 
+        "points": 100, 
+        "rebounds": 61, 
+        "steals": 16
+    }, 
+    {
+        "assists": 103, 
+        "blocks": 37, 
+        "fantasy_points": 1013.1, 
+        "full_name": "Joakim Noah", 
+        "id": 201149, 
+        "points": 232, 
+        "rebounds": 403, 
+        "steals": 30
+    }, 
+    {
+        "assists": 50, 
+        "blocks": 50, 
+        "fantasy_points": 1166.8, 
+        "full_name": "Nerlens Noel", 
+        "id": 203457, 
+        "points": 445, 
+        "rebounds": 294, 
+        "steals": 65
+    }, 
+    {
+        "assists": 42, 
+        "blocks": 89, 
+        "fantasy_points": 985.8, 
+        "full_name": "Lucas Nogueira", 
+        "id": 203512, 
+        "points": 253, 
+        "rebounds": 244, 
+        "steals": 52
+    }, 
+    {
+        "assists": 0, 
+        "blocks": 0, 
+        "fantasy_points": 8.6, 
+        "full_name": "Steve Novak", 
+        "id": 200779, 
+        "points": 5, 
+        "rebounds": 3, 
+        "steals": 0
+    }, 
+    {
+        "assists": 82, 
+        "blocks": 38, 
+        "fantasy_points": 1468.6, 
+        "full_name": "Dirk Nowitzki", 
+        "id": 1717, 
+        "points": 769, 
+        "rebounds": 353, 
+        "steals": 30
+    }, 
+    {
+        "assists": 123, 
+        "blocks": 74, 
+        "fantasy_points": 1635.9, 
+        "full_name": "Jusuf Nurkic", 
+        "id": 203994, 
+        "points": 662, 
+        "rebounds": 467, 
+        "steals": 50
+    }, 
+    {
+        "assists": 14, 
+        "blocks": 7, 
+        "fantasy_points": 265.6, 
+        "full_name": "David Nwaba", 
+        "id": 1628021, 
+        "points": 120, 
+        "rebounds": 63, 
+        "steals": 13
+    }, 
+    {
+        "assists": 6, 
+        "blocks": 1, 
+        "fantasy_points": 66.8, 
+        "full_name": "Johnny O'Bryant III", 
+        "id": 203948, 
+        "points": 38, 
+        "rebounds": 19, 
+        "steals": 0
+    }, 
+    {
+        "assists": 117, 
+        "blocks": 104, 
+        "fantasy_points": 1542.3, 
+        "full_name": "Kyle O'Quinn", 
+        "id": 203124, 
+        "points": 496, 
+        "rebounds": 439, 
+        "steals": 36
+    }, 
+    {
+        "assists": 3, 
+        "blocks": 0, 
+        "fantasy_points": 57.9, 
+        "full_name": "Daniel Ochefu", 
+        "id": 1627849, 
+        "points": 24, 
+        "rebounds": 22, 
+        "steals": 2
+    }, 
+    {
+        "assists": 58, 
+        "blocks": 49, 
+        "fantasy_points": 1081.0, 
+        "full_name": "Jahlil Okafor", 
+        "id": 1626143, 
+        "points": 590, 
+        "rebounds": 240, 
+        "steals": 20
+    }, 
+    {
+        "assists": 176, 
+        "blocks": 21, 
+        "fantasy_points": 1858.2, 
+        "full_name": "Victor Oladipo", 
+        "id": 203506, 
+        "points": 1067, 
+        "rebounds": 291, 
+        "steals": 78
+    }, 
+    {
+        "assists": 148, 
+        "blocks": 29, 
+        "fantasy_points": 1456.2, 
+        "full_name": "Kelly Olynyk", 
+        "id": 203482, 
+        "points": 678, 
+        "rebounds": 361, 
+        "steals": 44
+    }, 
+    {
+        "assists": 2, 
+        "blocks": 1, 
+        "fantasy_points": 15.2, 
+        "full_name": "Arinze Onuaku", 
+        "id": 202620, 
+        "points": 4, 
+        "rebounds": 6, 
+        "steals": 0
+    }, 
+    {
+        "assists": 3, 
+        "blocks": 1, 
+        "fantasy_points": 38.5, 
+        "full_name": "Chinanu Onuaku", 
+        "id": 1627778, 
+        "points": 14, 
+        "rebounds": 10, 
+        "steals": 3
+    }, 
+    {
+        "assists": 47, 
+        "blocks": 17, 
+        "fantasy_points": 1059.7, 
+        "full_name": "Kelly Oubre Jr.", 
+        "id": 1626162, 
+        "points": 501, 
+        "rebounds": 261, 
+        "steals": 58
+    }, 
+    {
+        "assists": 132, 
+        "blocks": 33, 
+        "fantasy_points": 1305.0, 
+        "full_name": "Zaza Pachulia", 
+        "id": 2585, 
+        "points": 426, 
+        "rebounds": 410, 
+        "steals": 59
+    }, 
+    {
+        "assists": 20, 
+        "blocks": 17, 
+        "fantasy_points": 293.2, 
+        "full_name": "Georgios Papagiannis", 
+        "id": 1627834, 
+        "points": 124, 
+        "rebounds": 86, 
+        "steals": 3
+    }, 
+    {
+        "assists": 142, 
+        "blocks": 22, 
+        "fantasy_points": 1737.8, 
+        "full_name": "Jabari Parker", 
+        "id": 203953, 
+        "points": 1025, 
+        "rebounds": 314, 
+        "steals": 50
+    }, 
+    {
+        "assists": 285, 
+        "blocks": 2, 
+        "fantasy_points": 1220.1, 
+        "full_name": "Tony Parker", 
+        "id": 2225, 
+        "points": 638, 
+        "rebounds": 113, 
+        "steals": 34
+    }, 
+    {
+        "assists": 55, 
+        "blocks": 5, 
+        "fantasy_points": 444.3, 
+        "full_name": "Chandler Parsons", 
+        "id": 202718, 
+        "points": 210, 
+        "rebounds": 84, 
+        "steals": 20
+    }, 
+    {
+        "assists": 6, 
+        "blocks": 0, 
+        "fantasy_points": 25.4, 
+        "full_name": "Lamar Patterson", 
+        "id": 203934, 
+        "points": 9, 
+        "rebounds": 7, 
+        "steals": 1
+    }, 
+    {
+        "assists": 76, 
+        "blocks": 23, 
+        "fantasy_points": 1061.6, 
+        "full_name": "Patrick Patterson", 
+        "id": 202335, 
+        "points": 445, 
+        "rebounds": 293, 
+        "steals": 40
+    }, 
+    {
+        "assists": 563, 
+        "blocks": 8, 
+        "fantasy_points": 2547.3, 
+        "full_name": "Chris Paul", 
+        "id": 101108, 
+        "points": 1104, 
+        "rebounds": 304, 
+        "steals": 119
+    }, 
+    {
+        "assists": 7, 
+        "blocks": 7, 
+        "fantasy_points": 150.1, 
+        "full_name": "Adreian Payne", 
+        "id": 203940, 
+        "points": 63, 
+        "rebounds": 33, 
+        "steals": 8
+    }, 
+    {
+        "assists": 55, 
+        "blocks": 4, 
+        "fantasy_points": 325.1, 
+        "full_name": "Cameron Payne", 
+        "id": 1626166, 
+        "points": 160, 
+        "rebounds": 48, 
+        "steals": 14
+    }, 
+    {
+        "assists": 529, 
+        "blocks": 40, 
+        "fantasy_points": 2509.9, 
+        "full_name": "Elfrid Payton", 
+        "id": 203901, 
+        "points": 1046, 
+        "rebounds": 387, 
+        "steals": 88
+    }, 
+    {
+        "assists": 13, 
+        "blocks": 4, 
+        "fantasy_points": 64.9, 
+        "full_name": "Gary Payton II", 
+        "id": 1627780, 
+        "points": 20, 
+        "rebounds": 12, 
+        "steals": 3
+    }, 
+    {
+        "assists": 10, 
+        "blocks": 5, 
+        "fantasy_points": 164.6, 
+        "full_name": "Paul Pierce", 
+        "id": 1718, 
+        "points": 81, 
+        "rebounds": 48, 
+        "steals": 4
+    }, 
+    {
+        "assists": 10, 
+        "blocks": 4, 
+        "fantasy_points": 128.2, 
+        "full_name": "Marshall Plumlee", 
+        "id": 1627850, 
+        "points": 40, 
+        "rebounds": 51, 
+        "steals": 4
+    }, 
+    {
+        "assists": 284, 
+        "blocks": 92, 
+        "fantasy_points": 2343.0, 
+        "full_name": "Mason Plumlee", 
+        "id": 203486, 
+        "points": 842, 
+        "rebounds": 605, 
+        "steals": 69
+    }, 
+    {
+        "assists": 21, 
+        "blocks": 13, 
+        "fantasy_points": 321.5, 
+        "full_name": "Miles Plumlee", 
+        "id": 203101, 
+        "points": 113, 
+        "rebounds": 95, 
+        "steals": 18
+    }, 
+    {
+        "assists": 12, 
+        "blocks": 20, 
+        "fantasy_points": 463.0, 
+        "full_name": "Jakob Poeltl", 
+        "id": 1627751, 
+        "points": 165, 
+        "rebounds": 165, 
+        "steals": 17
+    }, 
+    {
+        "assists": 121, 
+        "blocks": 42, 
+        "fantasy_points": 2303.3, 
+        "full_name": "Otto Porter Jr.", 
+        "id": 203490, 
+        "points": 1075, 
+        "rebounds": 514, 
+        "steals": 116
+    }, 
+    {
+        "assists": 35, 
+        "blocks": 11, 
+        "fantasy_points": 888.7, 
+        "full_name": "Bobby Portis", 
+        "id": 1626171, 
+        "points": 437, 
+        "rebounds": 296, 
+        "steals": 16
+    }, 
+    {
+        "assists": 97, 
+        "blocks": 129, 
+        "fantasy_points": 2321.5, 
+        "full_name": "Kristaps Porzingis", 
+        "id": 204001, 
+        "points": 1196, 
+        "rebounds": 475, 
+        "steals": 47
+    }, 
+    {
+        "assists": 49, 
+        "blocks": 39, 
+        "fantasy_points": 1222.7, 
+        "full_name": "Dwight Powell", 
+        "id": 203939, 
+        "points": 516, 
+        "rebounds": 306, 
+        "steals": 61
+    }, 
+    {
+        "assists": 82, 
+        "blocks": 14, 
+        "fantasy_points": 1089.8, 
+        "full_name": "Norman Powell", 
+        "id": 1626181, 
+        "points": 636, 
+        "rebounds": 169, 
+        "steals": 52
+    }, 
+    {
+        "assists": 5, 
+        "blocks": 2, 
+        "fantasy_points": 118.3, 
+        "full_name": "Alex Poythress", 
+        "id": 1627816, 
+        "points": 64, 
+        "rebounds": 29, 
+        "steals": 3
+    }, 
+    {
+        "assists": 18, 
+        "blocks": 1, 
+        "fantasy_points": 87.2, 
+        "full_name": "Ronnie Price", 
+        "id": 101179, 
+        "points": 14, 
+        "rebounds": 11, 
+        "steals": 11
+    }, 
+    {
+        "assists": 55, 
+        "blocks": 27, 
+        "fantasy_points": 754.9, 
+        "full_name": "Taurean Prince", 
+        "id": 1627752, 
+        "points": 335, 
+        "rebounds": 157, 
+        "steals": 43
+    }, 
+    {
+        "assists": 11, 
+        "blocks": 3, 
+        "fantasy_points": 68.3, 
+        "full_name": "Tim Quarterman", 
+        "id": 1627817, 
+        "points": 31, 
+        "rebounds": 14, 
+        "steals": 2
+    }, 
+    {
+        "assists": 34, 
+        "blocks": 2, 
+        "fantasy_points": 240.4, 
+        "full_name": "Chasson Randle", 
+        "id": 1626184, 
+        "points": 137, 
+        "rebounds": 32, 
+        "steals": 9
+    }, 
+    {
+        "assists": 264, 
+        "blocks": 37, 
+        "fantasy_points": 2219.2, 
+        "full_name": "Julius Randle", 
+        "id": 203944, 
+        "points": 975, 
+        "rebounds": 636, 
+        "steals": 49
+    }, 
+    {
+        "assists": 122, 
+        "blocks": 10, 
+        "fantasy_points": 1973.6, 
+        "full_name": "Zach Randolph", 
+        "id": 2216, 
+        "points": 1028, 
+        "rebounds": 598, 
+        "steals": 38
+    }, 
+    {
+        "assists": 110, 
+        "blocks": 13, 
+        "fantasy_points": 1646.2, 
+        "full_name": "JJ Redick", 
+        "id": 200755, 
+        "points": 1173, 
+        "rebounds": 171, 
+        "steals": 54
+    }, 
+    {
+        "assists": 26, 
+        "blocks": 47, 
+        "fantasy_points": 975.4, 
+        "full_name": "Willie Reed", 
+        "id": 203186, 
+        "points": 374, 
+        "rebounds": 332, 
+        "steals": 18
+    }, 
+    {
+        "assists": 140, 
+        "blocks": 39, 
+        "fantasy_points": 1182.6, 
+        "full_name": "Josh Richardson", 
+        "id": 1626196, 
+        "points": 539, 
+        "rebounds": 168, 
+        "steals": 60
+    }, 
+    {
+        "assists": 11, 
+        "blocks": 1, 
+        "fantasy_points": 133.1, 
+        "full_name": "Malachi Richardson", 
+        "id": 1627781, 
+        "points": 79, 
+        "rebounds": 23, 
+        "steals": 5
+    }, 
+    {
+        "assists": 204, 
+        "blocks": 10, 
+        "fantasy_points": 1447.2, 
+        "full_name": "Austin Rivers", 
+        "id": 203085, 
+        "points": 889, 
+        "rebounds": 161, 
+        "steals": 48
+    }, 
+    {
+        "assists": 79, 
+        "blocks": 79, 
+        "fantasy_points": 1592.1, 
+        "full_name": "Andre Roberson", 
+        "id": 203460, 
+        "points": 522, 
+        "rebounds": 403, 
+        "steals": 94
+    }, 
+    {
+        "assists": 52, 
+        "blocks": 1, 
+        "fantasy_points": 270.8, 
+        "full_name": "Brian Roberts", 
+        "id": 203148, 
+        "points": 142, 
+        "rebounds": 39, 
+        "steals": 9
+    }, 
+    {
+        "assists": 31, 
+        "blocks": 9, 
+        "fantasy_points": 614.1, 
+        "full_name": "Thomas Robinson", 
+        "id": 203080, 
+        "points": 241, 
+        "rebounds": 223, 
+        "steals": 26
+    }, 
+    {
+        "assists": 47, 
+        "blocks": 20, 
+        "fantasy_points": 930.7, 
+        "full_name": "Glenn Robinson III", 
+        "id": 203922, 
+        "points": 419, 
+        "rebounds": 246, 
+        "steals": 41
+    }, 
+    {
+        "assists": 344, 
+        "blocks": 4, 
+        "fantasy_points": 1265.4, 
+        "full_name": "Sergio Rodriguez", 
+        "id": 200771, 
+        "points": 530, 
+        "rebounds": 157, 
+        "steals": 49
+    }, 
+    {
+        "assists": 461, 
+        "blocks": 11, 
+        "fantasy_points": 1816.5, 
+        "full_name": "Rajon Rondo", 
+        "id": 200765, 
+        "points": 538, 
+        "rebounds": 355, 
+        "steals": 99
+    }, 
+    {
+        "assists": 283, 
+        "blocks": 17, 
+        "fantasy_points": 1909.7, 
+        "full_name": "Derrick Rose", 
+        "id": 201565, 
+        "points": 1154, 
+        "rebounds": 246, 
+        "steals": 44
+    }, 
+    {
+        "assists": 88, 
+        "blocks": 33, 
+        "fantasy_points": 1529.2, 
+        "full_name": "Terrence Ross", 
+        "id": 203082, 
+        "points": 858, 
+        "rebounds": 206, 
+        "steals": 87
+    }, 
+    {
+        "assists": 131, 
+        "blocks": 11, 
+        "fantasy_points": 999.9, 
+        "full_name": "Terry Rozier", 
+        "id": 1626179, 
+        "points": 410, 
+        "rebounds": 227, 
+        "steals": 45
+    }, 
+    {
+        "assists": 682, 
+        "blocks": 10, 
+        "fantasy_points": 2444.0, 
+        "full_name": "Ricky Rubio", 
+        "id": 201937, 
+        "points": 836, 
+        "rebounds": 305, 
+        "steals": 128
+    }, 
+    {
+        "assists": 20, 
+        "blocks": 1, 
+        "fantasy_points": 172.0, 
+        "full_name": "Damjan Rudez", 
+        "id": 204014, 
+        "points": 82, 
+        "rebounds": 25, 
+        "steals": 12
+    }, 
+    {
+        "assists": 45, 
+        "blocks": 23, 
+        "fantasy_points": 490.3, 
+        "full_name": "Brandon Rush", 
+        "id": 201575, 
+        "points": 197, 
+        "rebounds": 99, 
+        "steals": 22
+    }, 
+    {
+        "assists": 303, 
+        "blocks": 16, 
+        "fantasy_points": 1836.7, 
+        "full_name": "D'Angelo Russell", 
+        "id": 1626156, 
+        "points": 984, 
+        "rebounds": 221, 
+        "steals": 87
+    }, 
+    {
+        "assists": 82, 
+        "blocks": 32, 
+        "fantasy_points": 1077.6, 
+        "full_name": "Domantas Sabonis", 
+        "id": 1627734, 
+        "points": 479, 
+        "rebounds": 288, 
+        "steals": 39
+    }, 
+    {
+        "assists": 0, 
+        "blocks": 1, 
+        "fantasy_points": 12.8, 
+        "full_name": "Larry Sanders", 
+        "id": 202336, 
+        "points": 4, 
+        "rebounds": 4, 
+        "steals": 1
+    }, 
+    {
+        "assists": 182, 
+        "blocks": 30, 
+        "fantasy_points": 2006.6, 
+        "full_name": "Dario Saric", 
+        "id": 203967, 
+        "points": 1040, 
+        "rebounds": 513, 
+        "steals": 57
+    }, 
+    {
+        "assists": 92, 
+        "blocks": 6, 
+        "fantasy_points": 449.6, 
+        "full_name": "Tomas Satoransky", 
+        "id": 203107, 
+        "points": 154, 
+        "rebounds": 83, 
+        "steals": 26
+    }, 
+    {
+        "assists": 499, 
+        "blocks": 16, 
+        "fantasy_points": 2472.1, 
+        "full_name": "Dennis Schroder", 
+        "id": 203471, 
+        "points": 1414, 
+        "rebounds": 248, 
+        "steals": 74
+    }, 
+    {
+        "assists": 37, 
+        "blocks": 4, 
+        "fantasy_points": 426.3, 
+        "full_name": "Luis Scola", 
+        "id": 2449, 
+        "points": 184, 
+        "rebounds": 139, 
+        "steals": 14
+    }, 
+    {
+        "assists": 17, 
+        "blocks": 3, 
+        "fantasy_points": 127.9, 
+        "full_name": "Mike Scott", 
+        "id": 203118, 
+        "points": 45, 
+        "rebounds": 37, 
+        "steals": 4
+    }, 
+    {
+        "assists": 107, 
+        "blocks": 31, 
+        "fantasy_points": 1251.5, 
+        "full_name": "Thabo Sefolosha", 
+        "id": 200757, 
+        "points": 444, 
+        "rebounds": 270, 
+        "steals": 96
+    }, 
+    {
+        "assists": 13, 
+        "blocks": 1, 
+        "fantasy_points": 118.7, 
+        "full_name": "Wayne Selden", 
+        "id": 1627782, 
+        "points": 71, 
+        "rebounds": 16, 
+        "steals": 6
+    }, 
+    {
+        "assists": 23, 
+        "blocks": 20, 
+        "fantasy_points": 488.9, 
+        "full_name": "Kevin Seraphin", 
+        "id": 202338, 
+        "points": 232, 
+        "rebounds": 142, 
+        "steals": 7
+    }, 
+    {
+        "assists": 129, 
+        "blocks": 3, 
+        "fantasy_points": 637.1, 
+        "full_name": "Ramon Sessions", 
+        "id": 201196, 
+        "points": 312, 
+        "rebounds": 73, 
+        "steals": 27
+    }, 
+    {
+        "assists": 109, 
+        "blocks": 27, 
+        "fantasy_points": 1181.1, 
+        "full_name": "Iman Shumpert", 
+        "id": 202697, 
+        "points": 567, 
+        "rebounds": 218, 
+        "steals": 62
+    }, 
+    {
+        "assists": 17, 
+        "blocks": 45, 
+        "fantasy_points": 656.5, 
+        "full_name": "Pascal Siakam", 
+        "id": 1627783, 
+        "points": 229, 
+        "rebounds": 185, 
+        "steals": 26
+    }, 
+    {
+        "assists": 126, 
+        "blocks": 25, 
+        "fantasy_points": 1004.0, 
+        "full_name": "Jonathon Simmons", 
+        "id": 203613, 
+        "points": 483, 
+        "rebounds": 160, 
+        "steals": 47
+    }, 
+    {
+        "assists": 9, 
+        "blocks": 5, 
+        "fantasy_points": 184.1, 
+        "full_name": "Kyle Singler", 
+        "id": 202713, 
+        "points": 88, 
+        "rebounds": 48, 
+        "steals": 7
+    }, 
+    {
+        "assists": 364, 
+        "blocks": 34, 
+        "fantasy_points": 2065.0, 
+        "full_name": "Marcus Smart", 
+        "id": 203935, 
+        "points": 835, 
+        "rebounds": 305, 
+        "steals": 125
+    }, 
+    {
+        "assists": 418, 
+        "blocks": 33, 
+        "fantasy_points": 1837.0, 
+        "full_name": "Ish Smith", 
+        "id": 202397, 
+        "points": 758, 
+        "rebounds": 235, 
+        "steals": 61
+    }, 
+    {
+        "assists": 62, 
+        "blocks": 11, 
+        "fantasy_points": 706.6, 
+        "full_name": "JR Smith", 
+        "id": 2747, 
+        "points": 351, 
+        "rebounds": 113, 
+        "steals": 40
+    }, 
+    {
+        "assists": 37, 
+        "blocks": 54, 
+        "fantasy_points": 952.1, 
+        "full_name": "Jason Smith", 
+        "id": 201160, 
+        "points": 420, 
+        "rebounds": 258, 
+        "steals": 21
+    }, 
+    {
+        "assists": 96, 
+        "blocks": 14, 
+        "fantasy_points": 1276.6, 
+        "full_name": "Tony Snell", 
+        "id": 203503, 
+        "points": 683, 
+        "rebounds": 248, 
+        "steals": 55
+    }, 
+    {
+        "assists": 65, 
+        "blocks": 41, 
+        "fantasy_points": 1379.1, 
+        "full_name": "Marreese Speights", 
+        "id": 201578, 
+        "points": 711, 
+        "rebounds": 373, 
+        "steals": 23
+    }, 
+    {
+        "assists": 4, 
+        "blocks": 1, 
+        "fantasy_points": 71.4, 
+        "full_name": "Tiago Splitter", 
+        "id": 201168, 
+        "points": 39, 
+        "rebounds": 22, 
+        "steals": 1
+    }, 
+    {
+        "assists": 188, 
+        "blocks": 32, 
+        "fantasy_points": 1412.2, 
+        "full_name": "Nik Stauskas", 
+        "id": 203917, 
+        "points": 756, 
+        "rebounds": 226, 
+        "steals": 45
+    }, 
+    {
+        "assists": 59, 
+        "blocks": 3, 
+        "fantasy_points": 270.9, 
+        "full_name": "Lance Stephenson", 
+        "id": 202362, 
+        "points": 122, 
+        "rebounds": 52, 
+        "steals": 5
+    }, 
+    {
+        "assists": 2, 
+        "blocks": 0, 
+        "fantasy_points": 11.4, 
+        "full_name": "Jarnell Stokes", 
+        "id": 203950, 
+        "points": 3, 
+        "rebounds": 2, 
+        "steals": 1
+    }, 
+    {
+        "assists": 0, 
+        "blocks": 1, 
+        "fantasy_points": 18.2, 
+        "full_name": "Diamond Stone", 
+        "id": 1627754, 
+        "points": 10, 
+        "rebounds": 6, 
+        "steals": 0
+    }, 
+    {
+        "assists": 84, 
+        "blocks": 0, 
+        "fantasy_points": 502.8, 
+        "full_name": "Rodney Stuckey", 
+        "id": 201155, 
+        "points": 281, 
+        "rebounds": 84, 
+        "steals": 16
+    }, 
+    {
+        "assists": 3, 
+        "blocks": 1, 
+        "fantasy_points": 84.9, 
+        "full_name": "Jared Sullinger", 
+        "id": 203096, 
+        "points": 37, 
+        "rebounds": 27, 
+        "steals": 4
+    }, 
+    {
+        "assists": 1, 
+        "blocks": 6, 
+        "fantasy_points": 38.7, 
+        "full_name": "Edy Tavares", 
+        "id": 204002, 
+        "points": 8, 
+        "rebounds": 11, 
+        "steals": 0
+    }, 
+    {
+        "assists": 3, 
+        "blocks": 1, 
+        "fantasy_points": 17.1, 
+        "full_name": "Isaiah Taylor", 
+        "id": 1627819, 
+        "points": 3, 
+        "rebounds": 3, 
+        "steals": 1
+    }, 
+    {
+        "assists": 639, 
+        "blocks": 32, 
+        "fantasy_points": 2788.5, 
+        "full_name": "Jeff Teague", 
+        "id": 201952, 
+        "points": 1254, 
+        "rebounds": 330, 
+        "steals": 100
+    }, 
+    {
+        "assists": 48, 
+        "blocks": 13, 
+        "fantasy_points": 755.4, 
+        "full_name": "Mirza Teletovic", 
+        "id": 203141, 
+        "points": 451, 
+        "rebounds": 162, 
+        "steals": 12
+    }, 
+    {
+        "assists": 168, 
+        "blocks": 28, 
+        "fantasy_points": 1236.8, 
+        "full_name": "Garrett Temple", 
+        "id": 202066, 
+        "points": 506, 
+        "rebounds": 184, 
+        "steals": 84
+    }, 
+    {
+        "assists": 98, 
+        "blocks": 20, 
+        "fantasy_points": 743.2, 
+        "full_name": "Jason Terry", 
+        "id": 1891, 
+        "points": 307, 
+        "rebounds": 106, 
+        "steals": 46
+    }, 
+    {
+        "assists": 448, 
+        "blocks": 13, 
+        "fantasy_points": 3154.8, 
+        "full_name": "Isaiah Thomas", 
+        "id": 202738, 
+        "points": 2199, 
+        "rebounds": 204, 
+        "steals": 70
+    }, 
+    {
+        "assists": 35, 
+        "blocks": 5, 
+        "fantasy_points": 550.9, 
+        "full_name": "Lance Thomas", 
+        "id": 202498, 
+        "points": 275, 
+        "rebounds": 142, 
+        "steals": 21
+    }, 
+    {
+        "assists": 35, 
+        "blocks": 6, 
+        "fantasy_points": 458.9, 
+        "full_name": "Hollis Thompson", 
+        "id": 203138, 
+        "points": 205, 
+        "rebounds": 112, 
+        "steals": 20
+    }, 
+    {
+        "assists": 160, 
+        "blocks": 40, 
+        "fantasy_points": 2514.0, 
+        "full_name": "Klay Thompson", 
+        "id": 202691, 
+        "points": 1742, 
+        "rebounds": 285, 
+        "steals": 66
+    }, 
+    {
+        "assists": 77, 
+        "blocks": 84, 
+        "fantasy_points": 1908.5, 
+        "full_name": "Tristan Thompson", 
+        "id": 202684, 
+        "points": 630, 
+        "rebounds": 715, 
+        "steals": 39
+    }, 
+    {
+        "assists": 41, 
+        "blocks": 3, 
+        "fantasy_points": 412.7, 
+        "full_name": "Marcus Thornton", 
+        "id": 201977, 
+        "points": 219, 
+        "rebounds": 76, 
+        "steals": 19
+    }, 
+    {
+        "assists": 1, 
+        "blocks": 0, 
+        "fantasy_points": 6.1, 
+        "full_name": "Mike Tobey", 
+        "id": 1627861, 
+        "points": 2, 
+        "rebounds": 3, 
+        "steals": 0
+    }, 
+    {
+        "assists": 77, 
+        "blocks": 20, 
+        "fantasy_points": 966.9, 
+        "full_name": "Anthony Tolliver", 
+        "id": 201229, 
+        "points": 461, 
+        "rebounds": 237, 
+        "steals": 34
+    }, 
+    {
+        "assists": 0, 
+        "blocks": 1, 
+        "fantasy_points": 18.2, 
+        "full_name": "Axel Toupane", 
+        "id": 1626253, 
+        "points": 11, 
+        "rebounds": 1, 
+        "steals": 1
+    }, 
+    {
+        "assists": 220, 
+        "blocks": 103, 
+        "fantasy_points": 3864.4, 
+        "full_name": "Karl-Anthony Towns", 
+        "id": 1626157, 
+        "points": 2061, 
+        "rebounds": 1007, 
+        "steals": 56
+    }, 
+    {
+        "assists": 99, 
+        "blocks": 19, 
+        "fantasy_points": 1592.7, 
+        "full_name": "PJ Tucker", 
+        "id": 200782, 
+        "points": 540, 
+        "rebounds": 471, 
+        "steals": 116
+    }, 
+    {
+        "assists": 205, 
+        "blocks": 24, 
+        "fantasy_points": 1320.9, 
+        "full_name": "Evan Turner", 
+        "id": 202323, 
+        "points": 586, 
+        "rebounds": 247, 
+        "steals": 53
+    }, 
+    {
+        "assists": 106, 
+        "blocks": 172, 
+        "fantasy_points": 2671.8, 
+        "full_name": "Myles Turner", 
+        "id": 1626167, 
+        "points": 1173, 
+        "rebounds": 589, 
+        "steals": 74
+    }, 
+    {
+        "assists": 131, 
+        "blocks": 0, 
+        "fantasy_points": 494.9, 
+        "full_name": "Beno Udrih", 
+        "id": 2757, 
+        "points": 227, 
+        "rebounds": 57, 
+        "steals": 13
+    }, 
+    {
+        "assists": 226, 
+        "blocks": 5, 
+        "fantasy_points": 979.0, 
+        "full_name": "Tyler Ulis", 
+        "id": 1627755, 
+        "points": 444, 
+        "rebounds": 95, 
+        "steals": 48
+    }, 
+    {
+        "assists": 9, 
+        "blocks": 4, 
+        "fantasy_points": 94.9, 
+        "full_name": "Jarrod Uthoff", 
+        "id": 1627784, 
+        "points": 40, 
+        "rebounds": 22, 
+        "steals": 2
+    }, 
+    {
+        "assists": 57, 
+        "blocks": 63, 
+        "fantasy_points": 2149.3, 
+        "full_name": "Jonas Valanciunas", 
+        "id": 202685, 
+        "points": 959, 
+        "rebounds": 759, 
+        "steals": 37
+    }, 
+    {
+        "assists": 63, 
+        "blocks": 7, 
+        "fantasy_points": 628.7, 
+        "full_name": "Denzel Valentine", 
+        "id": 1627756, 
+        "points": 291, 
+        "rebounds": 151, 
+        "steals": 30
+    }, 
+    {
+        "assists": 35, 
+        "blocks": 3, 
+        "fantasy_points": 251.9, 
+        "full_name": "Fred VanVleet", 
+        "id": 1627832, 
+        "points": 107, 
+        "rebounds": 42, 
+        "steals": 16
+    }, 
+    {
+        "assists": 10, 
+        "blocks": 3, 
+        "fantasy_points": 75.4, 
+        "full_name": "Anderson Varejao", 
+        "id": 2760, 
+        "points": 18, 
+        "rebounds": 27, 
+        "steals": 3
+    }, 
+    {
+        "assists": 5, 
+        "blocks": 1, 
+        "fantasy_points": 21.9, 
+        "full_name": "Greivis Vasquez", 
+        "id": 202349, 
+        "points": 7, 
+        "rebounds": 2, 
+        "steals": 1
+    }, 
+    {
+        "assists": 23, 
+        "blocks": 10, 
+        "fantasy_points": 308.3, 
+        "full_name": "Rashad Vaughn", 
+        "id": 1626173, 
+        "points": 142, 
+        "rebounds": 49, 
+        "steals": 19
+    }, 
+    {
+        "assists": 31, 
+        "blocks": 27, 
+        "fantasy_points": 944.9, 
+        "full_name": "Noah Vonleh", 
+        "id": 203943, 
+        "points": 327, 
+        "rebounds": 387, 
+        "steals": 30
+    }, 
+    {
+        "assists": 208, 
+        "blocks": 74, 
+        "fantasy_points": 2675.8, 
+        "full_name": "Nikola Vucevic", 
+        "id": 202696, 
+        "points": 1096, 
+        "rebounds": 779, 
+        "steals": 76
+    }, 
+    {
+        "assists": 52, 
+        "blocks": 2, 
+        "fantasy_points": 301.8, 
+        "full_name": "Sasha Vujacic", 
+        "id": 2756, 
+        "points": 124, 
+        "rebounds": 59, 
+        "steals": 13
+    }, 
+    {
+        "assists": 228, 
+        "blocks": 41, 
+        "fantasy_points": 2005.0, 
+        "full_name": "Dwyane Wade", 
+        "id": 2548, 
+        "points": 1096, 
+        "rebounds": 270, 
+        "steals": 86
+    }, 
+    {
+        "assists": 200, 
+        "blocks": 20, 
+        "fantasy_points": 1295.6, 
+        "full_name": "Dion Waiters", 
+        "id": 203079, 
+        "points": 729, 
+        "rebounds": 153, 
+        "steals": 42
+    }, 
+    {
+        "assists": 434, 
+        "blocks": 22, 
+        "fantasy_points": 3003.6, 
+        "full_name": "Kemba Walker", 
+        "id": 202689, 
+        "points": 1830, 
+        "rebounds": 308, 
+        "steals": 85
+    }, 
+    {
+        "assists": 831, 
+        "blocks": 49, 
+        "fantasy_points": 3738.7, 
+        "full_name": "John Wall", 
+        "id": 202322, 
+        "points": 1805, 
+        "rebounds": 326, 
+        "steals": 157
+    }, 
+    {
+        "assists": 75, 
+        "blocks": 39, 
+        "fantasy_points": 1758.3, 
+        "full_name": "TJ Warren", 
+        "id": 203933, 
+        "points": 951, 
+        "rebounds": 339, 
+        "steals": 76
+    }, 
+    {
+        "assists": 114, 
+        "blocks": 2, 
+        "fantasy_points": 646.8, 
+        "full_name": "C.J. Watson", 
+        "id": 201228, 
+        "points": 281, 
+        "rebounds": 89, 
+        "steals": 43
+    }, 
+    {
+        "assists": 21, 
+        "blocks": 1, 
+        "fantasy_points": 155.7, 
+        "full_name": "Briante Weber", 
+        "id": 1627362, 
+        "points": 62, 
+        "rebounds": 26, 
+        "steals": 12
+    }, 
+    {
+        "assists": 151, 
+        "blocks": 48, 
+        "fantasy_points": 978.1, 
+        "full_name": "David West", 
+        "id": 2561, 
+        "points": 316, 
+        "rebounds": 203, 
+        "steals": 42
+    }, 
+    {
+        "assists": 840, 
+        "blocks": 31, 
+        "fantasy_points": 4905.8, 
+        "full_name": "Russell Westbrook", 
+        "id": 201566, 
+        "points": 2558, 
+        "rebounds": 864, 
+        "steals": 132
+    }, 
+    {
+        "assists": 21, 
+        "blocks": 10, 
+        "fantasy_points": 269.9, 
+        "full_name": "Okaro White", 
+        "id": 1627855, 
+        "points": 98, 
+        "rebounds": 82, 
+        "steals": 10
+    }, 
+    {
+        "assists": 192, 
+        "blocks": 36, 
+        "fantasy_points": 1143.8, 
+        "full_name": "Isaiah Whitehead", 
+        "id": 1627785, 
+        "points": 543, 
+        "rebounds": 184, 
+        "steals": 42
+    }, 
+    {
+        "assists": 57, 
+        "blocks": 161, 
+        "fantasy_points": 3200.1, 
+        "full_name": "Hassan Whiteside", 
+        "id": 202355, 
+        "points": 1309, 
+        "rebounds": 1088, 
+        "steals": 57
+    }, 
+    {
+        "assists": 189, 
+        "blocks": 30, 
+        "fantasy_points": 2759.1, 
+        "full_name": "Andrew Wiggins", 
+        "id": 203952, 
+        "points": 1933, 
+        "rebounds": 328, 
+        "steals": 82
+    }, 
+    {
+        "assists": 12, 
+        "blocks": 1, 
+        "fantasy_points": 56.4, 
+        "full_name": "CJ Wilcox", 
+        "id": 203912, 
+        "points": 21, 
+        "rebounds": 12, 
+        "steals": 2
+    }, 
+    {
+        "assists": 23, 
+        "blocks": 32, 
+        "fantasy_points": 870.9, 
+        "full_name": "Alan Williams", 
+        "id": 1626210, 
+        "points": 346, 
+        "rebounds": 292, 
+        "steals": 27
+    }, 
+    {
+        "assists": 360, 
+        "blocks": 8, 
+        "fantasy_points": 1396.4, 
+        "full_name": "Deron Williams", 
+        "id": 101114, 
+        "points": 701, 
+        "rebounds": 147, 
+        "steals": 31
+    }, 
+    {
+        "assists": 28, 
+        "blocks": 7, 
+        "fantasy_points": 537.0, 
+        "full_name": "Derrick Williams", 
+        "id": 202682, 
+        "points": 304, 
+        "rebounds": 130, 
+        "steals": 14
+    }, 
+    {
+        "assists": 239, 
+        "blocks": 20, 
+        "fantasy_points": 2161.9, 
+        "full_name": "Lou Williams", 
+        "id": 101150, 
+        "points": 1421, 
+        "rebounds": 202, 
+        "steals": 80
+    }, 
+    {
+        "assists": 106, 
+        "blocks": 53, 
+        "fantasy_points": 1881.0, 
+        "full_name": "Marvin Williams", 
+        "id": 101107, 
+        "points": 849, 
+        "rebounds": 500, 
+        "steals": 58
+    }, 
+    {
+        "assists": 4, 
+        "blocks": 0, 
+        "fantasy_points": 49.2, 
+        "full_name": "Reggie Williams", 
+        "id": 202130, 
+        "points": 27, 
+        "rebounds": 6, 
+        "steals": 3
+    }, 
+    {
+        "assists": 25, 
+        "blocks": 10, 
+        "fantasy_points": 384.3, 
+        "full_name": "Troy Williams", 
+        "id": 1627786, 
+        "points": 185, 
+        "rebounds": 69, 
+        "steals": 27
+    }, 
+    {
+        "assists": 2, 
+        "blocks": 1, 
+        "fantasy_points": 35.0, 
+        "full_name": "Kyle Wiltjer", 
+        "id": 1627787, 
+        "points": 13, 
+        "rebounds": 10, 
+        "steals": 3
+    }, 
+    {
+        "assists": 66, 
+        "blocks": 6, 
+        "fantasy_points": 470.8, 
+        "full_name": "Justise Winslow", 
+        "id": 1626159, 
+        "points": 196, 
+        "rebounds": 94, 
+        "steals": 26
+    }, 
+    {
+        "assists": 7, 
+        "blocks": 32, 
+        "fantasy_points": 431.7, 
+        "full_name": "Jeff Withey", 
+        "id": 203481, 
+        "points": 146, 
+        "rebounds": 121, 
+        "steals": 16
+    }, 
+    {
+        "assists": 2, 
+        "blocks": 6, 
+        "fantasy_points": 92.8, 
+        "full_name": "Christian Wood", 
+        "id": 1626174, 
+        "points": 35, 
+        "rebounds": 29, 
+        "steals": 3
+    }, 
+    {
+        "assists": 11, 
+        "blocks": 2, 
+        "fantasy_points": 126.5, 
+        "full_name": "Metta World Peace", 
+        "id": 1897, 
+        "points": 57, 
+        "rebounds": 20, 
+        "steals": 10
+    }, 
+    {
+        "assists": 15, 
+        "blocks": 20, 
+        "fantasy_points": 388.1, 
+        "full_name": "Brandan Wright", 
+        "id": 201148, 
+        "points": 189, 
+        "rebounds": 78, 
+        "steals": 11
+    }, 
+    {
+        "assists": 57, 
+        "blocks": 11, 
+        "fantasy_points": 382.1, 
+        "full_name": "Delon Wright", 
+        "id": 1626153, 
+        "points": 150, 
+        "rebounds": 48, 
+        "steals": 27
+    }, 
+    {
+        "assists": 4, 
+        "blocks": 2, 
+        "fantasy_points": 137.2, 
+        "full_name": "James Young", 
+        "id": 203923, 
+        "points": 68, 
+        "rebounds": 26, 
+        "steals": 10
+    }, 
+    {
+        "assists": 15, 
+        "blocks": 0, 
+        "fantasy_points": 117.9, 
+        "full_name": "Joe Young", 
+        "id": 1626202, 
+        "points": 68, 
+        "rebounds": 17, 
+        "steals": 4
+    }, 
+    {
+        "assists": 58, 
+        "blocks": 14, 
+        "fantasy_points": 1160.6, 
+        "full_name": "Nick Young", 
+        "id": 201156, 
+        "points": 791, 
+        "rebounds": 138, 
+        "steals": 37
+    }, 
+    {
+        "assists": 122, 
+        "blocks": 29, 
+        "fantasy_points": 1865.6, 
+        "full_name": "Thaddeus Young", 
+        "id": 201152, 
+        "points": 814, 
+        "rebounds": 448, 
+        "steals": 113
+    }, 
+    {
+        "assists": 99, 
+        "blocks": 58, 
+        "fantasy_points": 1568.5, 
+        "full_name": "Cody Zeller", 
+        "id": 203469, 
+        "points": 639, 
+        "rebounds": 405, 
+        "steals": 62
+    }, 
+    {
+        "assists": 42, 
+        "blocks": 21, 
+        "fantasy_points": 453.8, 
+        "full_name": "Tyler Zeller", 
+        "id": 203092, 
+        "points": 178, 
+        "rebounds": 124, 
+        "steals": 7
+    }, 
+    {
+        "assists": 4, 
+        "blocks": 5, 
+        "fantasy_points": 89.0, 
+        "full_name": "Stephen Zimmerman", 
+        "id": 1627757, 
+        "points": 23, 
+        "rebounds": 35, 
+        "steals": 2
+    }, 
+    {
+        "assists": 36, 
+        "blocks": 16, 
+        "fantasy_points": 497.0, 
+        "full_name": "Paul Zipser", 
+        "id": 1627835, 
+        "points": 240, 
+        "rebounds": 125, 
+        "steals": 15
+    }, 
+    {
+        "assists": 30, 
+        "blocks": 33, 
+        "fantasy_points": 630.8, 
+        "full_name": "Ivica Zubac", 
+        "id": 1627826, 
+        "points": 284, 
+        "rebounds": 159, 
+        "steals": 14
+    }
+]
