@@ -7,6 +7,7 @@
         "id": 203112, 
         "points": 307, 
         "rebounds": 188, 
+        "salary": 981348, 
         "steals": 29
     }, 
     {
@@ -17,6 +18,7 @@
         "id": 203919, 
         "points": 7, 
         "rebounds": 2, 
+        "salary": 1404600, 
         "steals": 3
     }, 
     {
@@ -27,6 +29,7 @@
         "id": 203500, 
         "points": 636, 
         "rebounds": 533, 
+        "salary": 2279040, 
         "steals": 42
     }, 
     {
@@ -37,6 +40,7 @@
         "id": 201167, 
         "points": 909, 
         "rebounds": 266, 
+        "salary": 8000000, 
         "steals": 25
     }, 
     {
@@ -47,6 +51,7 @@
         "id": 201582, 
         "points": 352, 
         "rebounds": 269, 
+        "salary": 4539607, 
         "steals": 19
     }, 
     {
@@ -57,6 +62,7 @@
         "id": 202332, 
         "points": 328, 
         "rebounds": 288, 
+        "salary": 1100602, 
         "steals": 47
     }, 
     {
@@ -67,6 +73,7 @@
         "id": 200746, 
         "points": 1331, 
         "rebounds": 632, 
+        "salary": 19689000, 
         "steals": 38
     }, 
     {
@@ -77,6 +84,7 @@
         "id": 1626146, 
         "points": 10, 
         "rebounds": 6, 
+        "salary": 525093, 
         "steals": 1
     }, 
     {
@@ -87,6 +95,7 @@
         "id": 202730, 
         "points": 428, 
         "rebounds": 424, 
+        "salary": 3550000, 
         "steals": 26
     }, 
     {
@@ -97,6 +106,7 @@
         "id": 2754, 
         "points": 535, 
         "rebounds": 296, 
+        "salary": 5000000, 
         "steals": 110
     }, 
     {
@@ -107,6 +117,7 @@
         "id": 202329, 
         "points": 839, 
         "rebounds": 499, 
+        "salary": 8042895, 
         "steals": 72
     }, 
     {
@@ -127,6 +138,7 @@
         "id": 2365, 
         "points": 105, 
         "rebounds": 98, 
+        "salary": 5000000, 
         "steals": 15
     }, 
     {
@@ -137,6 +149,7 @@
         "id": 101187, 
         "points": 65, 
         "rebounds": 27, 
+        "salary": 4000000, 
         "steals": 4
     }, 
     {
@@ -147,6 +160,7 @@
         "id": 202341, 
         "points": 179, 
         "rebounds": 86, 
+        "salary": 1015421, 
         "steals": 21
     }, 
     {
@@ -157,6 +171,7 @@
         "id": 1626147, 
         "points": 208, 
         "rebounds": 132, 
+        "salary": 1449000, 
         "steals": 19
     }, 
     {
@@ -167,6 +182,7 @@
         "id": 203937, 
         "points": 350, 
         "rebounds": 244, 
+        "salary": 1142880, 
         "steals": 60
     }, 
     {
@@ -177,6 +193,7 @@
         "id": 201583, 
         "points": 1124, 
         "rebounds": 396, 
+        "salary": 8500000, 
         "steals": 38
     }, 
     {
@@ -187,6 +204,7 @@
         "id": 203507, 
         "points": 1350, 
         "rebounds": 612, 
+        "salary": 1953960, 
         "steals": 94
     }, 
     {
@@ -197,6 +215,7 @@
         "id": 203648, 
         "points": 6, 
         "rebounds": 1, 
+        "salary": 30887, 
         "steals": 0
     }, 
     {
@@ -207,6 +226,7 @@
         "id": 2546, 
         "points": 1573, 
         "rebounds": 556, 
+        "salary": 22875000, 
         "steals": 62
     }, 
     {
@@ -217,6 +237,7 @@
         "id": 201202, 
         "points": 18, 
         "rebounds": 21, 
+        "salary": 2500000, 
         "steals": 2
     }, 
     {
@@ -227,6 +248,7 @@
         "id": 203951, 
         "points": 6, 
         "rebounds": 1, 
+        "salary": 61775, 
         "steals": 1
     }, 
     {
@@ -237,6 +259,7 @@
         "id": 2772, 
         "points": 1025, 
         "rebounds": 366, 
+        "salary": 8200000, 
         "steals": 160
     }, 
     {
@@ -247,6 +270,7 @@
         "id": 201589, 
         "points": 527, 
         "rebounds": 293, 
+        "salary": 2814000, 
         "steals": 53
     }, 
     {
@@ -257,6 +281,7 @@
         "id": 201600, 
         "points": 269, 
         "rebounds": 414, 
+        "salary": 9213483, 
         "steals": 21
     }, 
     {
@@ -277,6 +302,7 @@
         "id": 201965, 
         "points": 30, 
         "rebounds": 22, 
+        "salary": 251890, 
         "steals": 0
     }, 
     {
@@ -287,6 +313,7 @@
         "id": 202337, 
         "points": 327, 
         "rebounds": 148, 
+        "salary": 1100602, 
         "steals": 11
     }, 
     {
@@ -297,6 +324,7 @@
         "id": 203946, 
         "points": 34, 
         "rebounds": 28, 
+        "salary": 845059, 
         "steals": 2
     }, 
     {
@@ -307,6 +335,7 @@
         "id": 2571, 
         "points": 433, 
         "rebounds": 117, 
+        "salary": 2500000, 
         "steals": 44
     }, 
     {
@@ -327,6 +356,7 @@
         "id": 200745, 
         "points": 304, 
         "rebounds": 97, 
+        "salary": 1362897, 
         "steals": 4
     }, 
     {
@@ -337,6 +367,7 @@
         "id": 203084, 
         "points": 774, 
         "rebounds": 325, 
+        "salary": 3873398, 
         "steals": 41
     }, 
     {
@@ -347,6 +378,7 @@
         "id": 2440, 
         "points": 758, 
         "rebounds": 420, 
+        "salary": 3542500, 
         "steals": 78
     }, 
     {
@@ -357,6 +389,7 @@
         "id": 203115, 
         "points": 1178, 
         "rebounds": 476, 
+        "salary": 3533333, 
         "steals": 71
     }, 
     {
@@ -367,6 +400,7 @@
         "id": 101138, 
         "points": 473, 
         "rebounds": 285, 
+        "salary": 3000000, 
         "steals": 33
     }, 
     {
@@ -377,6 +411,7 @@
         "id": 201587, 
         "points": 1046, 
         "rebounds": 428, 
+        "salary": 11860750, 
         "steals": 65
     }, 
     {
@@ -387,6 +422,7 @@
         "id": 201573, 
         "points": 541, 
         "rebounds": 141, 
+        "salary": 3000000, 
         "steals": 47
     }, 
     {
@@ -397,6 +433,7 @@
         "id": 203382, 
         "points": 514, 
         "rebounds": 384, 
+        "salary": 6500000, 
         "steals": 21
     }, 
     {
@@ -407,6 +444,7 @@
         "id": 203145, 
         "points": 872, 
         "rebounds": 379, 
+        "salary": 2000000, 
         "steals": 98
     }, 
     {
@@ -417,6 +455,7 @@
         "id": 203078, 
         "points": 958, 
         "rebounds": 188, 
+        "salary": 5694673, 
         "steals": 54
     }, 
     {
@@ -427,6 +466,7 @@
         "id": 201563, 
         "points": 255, 
         "rebounds": 98, 
+        "salary": 306526, 
         "steals": 11
     }, 
     {
@@ -437,6 +477,7 @@
         "id": 201158, 
         "points": 696, 
         "rebounds": 117, 
+        "salary": 6060606, 
         "steals": 37
     }, 
     {
@@ -447,6 +488,7 @@
         "id": 203461, 
         "points": 28, 
         "rebounds": 23, 
+        "salary": 4597276, 
         "steals": 5
     }, 
     {
@@ -457,6 +499,7 @@
         "id": 201976, 
         "points": 700, 
         "rebounds": 250, 
+        "salary": 6486486, 
         "steals": 94
     }, 
     {
@@ -467,6 +510,7 @@
         "id": 202687, 
         "points": 454, 
         "rebounds": 655, 
+        "salary": 2814000, 
         "steals": 19
     }, 
     {
@@ -477,6 +521,7 @@
         "id": 202357, 
         "points": 308, 
         "rebounds": 210, 
+        "salary": 3950000, 
         "steals": 26
     }, 
     {
@@ -487,6 +532,7 @@
         "id": 204028, 
         "points": 133, 
         "rebounds": 157, 
+        "salary": 845059, 
         "steals": 14
     }, 
     {
@@ -497,6 +543,7 @@
         "id": 201971, 
         "points": 61, 
         "rebounds": 57, 
+        "salary": 2000000, 
         "steals": 8
     }, 
     {
@@ -507,6 +554,7 @@
         "id": 2581, 
         "points": 254, 
         "rebounds": 89, 
+        "salary": 2100000, 
         "steals": 24
     }, 
     {
@@ -517,6 +565,7 @@
         "id": 202339, 
         "points": 632, 
         "rebounds": 125, 
+        "salary": 13500000, 
         "steals": 63
     }, 
     {
@@ -527,6 +576,7 @@
         "id": 202711, 
         "points": 887, 
         "rebounds": 255, 
+        "salary": 3425510, 
         "steals": 29
     }, 
     {
@@ -537,6 +587,7 @@
         "id": 101106, 
         "points": 375, 
         "rebounds": 492, 
+        "salary": 12000000, 
         "steals": 33
     }, 
     {
@@ -547,6 +598,7 @@
         "id": 2588, 
         "points": 76, 
         "rebounds": 27, 
+        "salary": 1499187, 
         "steals": 6
     }, 
     {
@@ -557,6 +609,7 @@
         "id": 1626164, 
         "points": 1048, 
         "rebounds": 187, 
+        "salary": 2055840, 
         "steals": 44
     }, 
     {
@@ -567,6 +620,7 @@
         "id": 202344, 
         "points": 463, 
         "rebounds": 452, 
+        "salary": 4775000, 
         "steals": 59
     }, 
     {
@@ -577,6 +631,7 @@
         "id": 2547, 
         "points": 1010, 
         "rebounds": 390, 
+        "salary": 22192730, 
         "steals": 36
     }, 
     {
@@ -587,6 +642,7 @@
         "id": 202340, 
         "points": 1155, 
         "rebounds": 220, 
+        "salary": 7730337, 
         "steals": 117
     }, 
     {
@@ -597,6 +653,7 @@
         "id": 1882, 
         "points": 70, 
         "rebounds": 63, 
+        "salary": 890693, 
         "steals": 9
     }, 
     {
@@ -607,6 +664,7 @@
         "id": 201147, 
         "points": 590, 
         "rebounds": 199, 
+        "salary": 8229375, 
         "steals": 84
     }, 
     {
@@ -617,6 +675,7 @@
         "id": 201166, 
         "points": 491, 
         "rebounds": 101, 
+        "salary": 2250000, 
         "steals": 30
     }, 
     {
@@ -627,6 +686,7 @@
         "id": 1626148, 
         "points": 115, 
         "rebounds": 70, 
+        "salary": 525093, 
         "steals": 14
     }, 
     {
@@ -637,6 +697,7 @@
         "id": 203485, 
         "points": 20, 
         "rebounds": 7, 
+        "salary": 222888, 
         "steals": 3
     }, 
     {
@@ -647,6 +708,7 @@
         "id": 203900, 
         "points": 363, 
         "rebounds": 122, 
+        "salary": 845059, 
         "steals": 38
     }, 
     {
@@ -657,6 +719,7 @@
         "id": 977, 
         "points": 1161, 
         "rebounds": 247, 
+        "salary": 25000000, 
         "steals": 62
     }, 
     {
@@ -667,6 +730,7 @@
         "id": 201978, 
         "points": 271, 
         "rebounds": 150, 
+        "salary": 5258082, 
         "steals": 32
     }, 
     {
@@ -677,6 +741,7 @@
         "id": 203493, 
         "points": 122, 
         "rebounds": 68, 
+        "salary": 1252400, 
         "steals": 10
     }, 
     {
@@ -687,6 +752,7 @@
         "id": 203504, 
         "points": 679, 
         "rebounds": 112, 
+        "salary": 2658240, 
         "steals": 35
     }, 
     {
@@ -697,6 +763,7 @@
         "id": 202692, 
         "points": 412, 
         "rebounds": 109, 
+        "salary": 9213484, 
         "steals": 18
     }, 
     {
@@ -707,6 +774,7 @@
         "id": 2406, 
         "points": 63, 
         "rebounds": 22, 
+        "salary": 1499187, 
         "steals": 9
     }, 
     {
@@ -717,6 +785,7 @@
         "id": 202710, 
         "points": 1399, 
         "rebounds": 358, 
+        "salary": 16407500, 
         "steals": 110
     }, 
     {
@@ -727,6 +796,7 @@
         "id": 2446, 
         "points": 124, 
         "rebounds": 56, 
+        "salary": 1499187, 
         "steals": 13
     }, 
     {
@@ -737,6 +807,7 @@
         "id": 203998, 
         "points": 3, 
         "rebounds": 2, 
+        "salary": 1524000, 
         "steals": 2
     }, 
     {
@@ -747,6 +818,7 @@
         "id": 101181, 
         "points": 544, 
         "rebounds": 229, 
+        "salary": 7402812, 
         "steals": 63
     }, 
     {
@@ -757,6 +829,7 @@
         "id": 203484, 
         "points": 1105, 
         "rebounds": 282, 
+        "salary": 2891760, 
         "steals": 110
     }, 
     {
@@ -767,6 +840,7 @@
         "id": 203477, 
         "points": 846, 
         "rebounds": 174, 
+        "salary": 947276, 
         "steals": 56
     }, 
     {
@@ -777,6 +851,7 @@
         "id": 203991, 
         "points": 542, 
         "rebounds": 494, 
+        "salary": 1242720, 
         "steals": 59
     }, 
     {
@@ -787,6 +862,7 @@
         "id": 201960, 
         "points": 286, 
         "rebounds": 122, 
+        "salary": 13600000, 
         "steals": 44
     }, 
     {
@@ -797,6 +873,7 @@
         "id": 1713, 
         "points": 395, 
         "rebounds": 146, 
+        "salary": 4088019, 
         "steals": 38
     }, 
     {
@@ -807,6 +884,7 @@
         "id": 203487, 
         "points": 623, 
         "rebounds": 276, 
+        "salary": 2399040, 
         "steals": 80
     }, 
     {
@@ -817,6 +895,7 @@
         "id": 201956, 
         "points": 813, 
         "rebounds": 410, 
+        "salary": 2836186, 
         "steals": 56
     }, 
     {
@@ -827,6 +906,7 @@
         "id": 1626161, 
         "points": 463, 
         "rebounds": 352, 
+        "salary": 3398280, 
         "steals": 47
     }, 
     {
@@ -837,6 +917,7 @@
         "id": 201596, 
         "points": 628, 
         "rebounds": 157, 
+        "salary": 4300000, 
         "steals": 88
     }, 
     {
@@ -847,6 +928,7 @@
         "id": 2199, 
         "points": 472, 
         "rebounds": 576, 
+        "salary": 13000000, 
         "steals": 36
     }, 
     {
@@ -857,6 +939,7 @@
         "id": 1626176, 
         "points": 4, 
         "rebounds": 1, 
+        "salary": 1007026, 
         "steals": 0
     }, 
     {
@@ -867,6 +950,7 @@
         "id": 203546, 
         "points": 236, 
         "rebounds": 68, 
+        "salary": 947276, 
         "steals": 17
     }, 
     {
@@ -877,6 +961,7 @@
         "id": 1626262, 
         "points": 6, 
         "rebounds": 1, 
+        "salary": 61774, 
         "steals": 0
     }, 
     {
@@ -887,6 +972,7 @@
         "id": 203903, 
         "points": 1225, 
         "rebounds": 313, 
+        "salary": 845059, 
         "steals": 88
     }, 
     {
@@ -897,6 +983,7 @@
         "id": 202708, 
         "points": 477, 
         "rebounds": 151, 
+        "salary": 3203780, 
         "steals": 37
     }, 
     {
@@ -907,6 +994,7 @@
         "id": 201954, 
         "points": 1035, 
         "rebounds": 169, 
+        "salary": 5013559, 
         "steals": 77
     }, 
     {
@@ -917,6 +1005,7 @@
         "id": 2555, 
         "points": 123, 
         "rebounds": 171, 
+        "salary": 3750000, 
         "steals": 15
     }, 
     {
@@ -927,6 +1016,7 @@
         "id": 201144, 
         "points": 857, 
         "rebounds": 164, 
+        "salary": 9680000, 
         "steals": 67
     }, 
     {
@@ -937,6 +1027,7 @@
         "id": 1626192, 
         "points": 36, 
         "rebounds": 32, 
+        "salary": 625093, 
         "steals": 2
     }, 
     {
@@ -947,6 +1038,7 @@
         "id": 203142, 
         "points": 50, 
         "rebounds": 10, 
+        "salary": 1150000, 
         "steals": 2
     }, 
     {
@@ -957,6 +1049,7 @@
         "id": 203955, 
         "points": 8, 
         "rebounds": 0, 
+        "salary": 99418, 
         "steals": 3
     }, 
     {
@@ -967,6 +1060,7 @@
         "id": 202326, 
         "points": 1748, 
         "rebounds": 747, 
+        "salary": 14728844, 
         "steals": 101
     }, 
     {
@@ -977,6 +1071,7 @@
         "id": 203496, 
         "points": 858, 
         "rebounds": 419, 
+        "salary": 1000000, 
         "steals": 105
     }, 
     {
@@ -987,6 +1082,7 @@
         "id": 203459, 
         "points": 832, 
         "rebounds": 216, 
+        "salary": 947276, 
         "steals": 63
     }, 
     {
@@ -997,6 +1093,7 @@
         "id": 2037, 
         "points": 1120, 
         "rebounds": 145, 
+        "salary": 5675000, 
         "steals": 52
     }, 
     {
@@ -1007,6 +1104,7 @@
         "id": 203109, 
         "points": 1038, 
         "rebounds": 373, 
+        "salary": 6796117, 
         "steals": 126
     }, 
     {
@@ -1017,6 +1115,7 @@
         "id": 201967, 
         "points": 484, 
         "rebounds": 236, 
+        "salary": 2850000, 
         "steals": 42
     }, 
     {
@@ -1027,6 +1126,7 @@
         "id": 203099, 
         "points": 120, 
         "rebounds": 38, 
+        "salary": 1039074, 
         "steals": 14
     }, 
     {
@@ -1037,6 +1137,7 @@
         "id": 203552, 
         "points": 299, 
         "rebounds": 60, 
+        "salary": 947276, 
         "steals": 22
     }, 
     {
@@ -1047,6 +1148,7 @@
         "id": 201939, 
         "points": 2375, 
         "rebounds": 430, 
+        "salary": 11370786, 
         "steals": 169
     }, 
     {
@@ -1057,6 +1159,7 @@
         "id": 203584, 
         "points": 242, 
         "rebounds": 57, 
+        "salary": 947276, 
         "steals": 11
     }, 
     {
@@ -1067,6 +1170,7 @@
         "id": 203076, 
         "points": 1481, 
         "rebounds": 627, 
+        "salary": 7070730, 
         "steals": 78
     }, 
     {
@@ -1077,6 +1181,7 @@
         "id": 202334, 
         "points": 526, 
         "rebounds": 599, 
+        "salary": 6980802, 
         "steals": 57
     }, 
     {
@@ -1087,6 +1192,7 @@
         "id": 1626183, 
         "points": 5, 
         "rebounds": 4, 
+        "salary": 525093, 
         "steals": 0
     }, 
     {
@@ -1097,6 +1203,7 @@
         "id": 201942, 
         "points": 1830, 
         "rebounds": 349, 
+        "salary": 9500000, 
         "steals": 81
     }, 
     {
@@ -1107,6 +1214,7 @@
         "id": 203473, 
         "points": 255, 
         "rebounds": 228, 
+        "salary": 947276, 
         "steals": 22
     }, 
     {
@@ -1117,6 +1225,7 @@
         "id": 1626214, 
         "points": 79, 
         "rebounds": 48, 
+        "salary": 61775, 
         "steals": 10
     }, 
     {
@@ -1127,6 +1236,7 @@
         "id": 1626155, 
         "points": 0, 
         "rebounds": 1, 
+        "salary": 1646400, 
         "steals": 1
     }, 
     {
@@ -1137,6 +1247,7 @@
         "id": 203521, 
         "points": 569, 
         "rebounds": 162, 
+        "salary": 1347276, 
         "steals": 44
     }, 
     {
@@ -1147,6 +1258,7 @@
         "id": 2736, 
         "points": 911, 
         "rebounds": 443, 
+        "salary": 10151612, 
         "steals": 74
     }, 
     {
@@ -1157,6 +1269,7 @@
         "id": 2564, 
         "points": 485, 
         "rebounds": 233, 
+        "salary": 7500000, 
         "steals": 26
     }, 
     {
@@ -1167,6 +1280,7 @@
         "id": 203476, 
         "points": 827, 
         "rebounds": 585, 
+        "salary": 1474440, 
         "steals": 94
     }, 
     {
@@ -1177,6 +1291,7 @@
         "id": 203915, 
         "points": 58, 
         "rebounds": 17, 
+        "salary": 845059, 
         "steals": 3
     }, 
     {
@@ -1187,6 +1302,7 @@
         "id": 201962, 
         "points": 531, 
         "rebounds": 143, 
+        "salary": 2971568, 
         "steals": 70
     }, 
     {
@@ -1197,6 +1313,7 @@
         "id": 201609, 
         "points": 1018, 
         "rebounds": 277, 
+        "salary": 14783000, 
         "steals": 71
     }, 
     {
@@ -1207,6 +1324,7 @@
         "id": 203083, 
         "points": 1314, 
         "rebounds": 1198, 
+        "salary": 3272090, 
         "steals": 119
     }, 
     {
@@ -1217,6 +1335,7 @@
         "id": 201162, 
         "points": 638, 
         "rebounds": 286, 
+        "salary": 4250000, 
         "steals": 75
     }, 
     {
@@ -1227,6 +1346,7 @@
         "id": 1626251, 
         "points": 6, 
         "rebounds": 4, 
+        "salary": 525093, 
         "steals": 1
     }, 
     {
@@ -1237,6 +1357,7 @@
         "id": 1495, 
         "points": 522, 
         "rebounds": 447, 
+        "salary": 5250000, 
         "steals": 47
     }, 
     {
@@ -1247,6 +1368,7 @@
         "id": 2399, 
         "points": 222, 
         "rebounds": 83, 
+        "salary": 4837500, 
         "steals": 14
     }, 
     {
@@ -1257,6 +1379,7 @@
         "id": 201142, 
         "points": 2029, 
         "rebounds": 589, 
+        "salary": 21971850, 
         "steals": 69
     }, 
     {
@@ -1267,6 +1390,7 @@
         "id": 203921, 
         "points": 31, 
         "rebounds": 26, 
+        "salary": 845059, 
         "steals": 2
     }, 
     {
@@ -1277,6 +1401,7 @@
         "id": 204067, 
         "points": 63, 
         "rebounds": 23, 
+        "salary": 349032, 
         "steals": 5
     }, 
     {
@@ -1287,6 +1412,7 @@
         "id": 201961, 
         "points": 586, 
         "rebounds": 174, 
+        "salary": 1500000, 
         "steals": 48
     }, 
     {
@@ -1297,6 +1423,7 @@
         "id": 101145, 
         "points": 1121, 
         "rebounds": 271, 
+        "salary": 10300000, 
         "steals": 150
     }, 
     {
@@ -1307,6 +1434,7 @@
         "id": 203898, 
         "points": 206, 
         "rebounds": 75, 
+        "salary": 1662360, 
         "steals": 25
     }, 
     {
@@ -1327,6 +1455,7 @@
         "id": 202379, 
         "points": 71, 
         "rebounds": 54, 
+        "salary": 1185784, 
         "steals": 6
     }, 
     {
@@ -1337,6 +1466,7 @@
         "id": 201936, 
         "points": 379, 
         "rebounds": 129, 
+        "salary": 10734586, 
         "steals": 32
     }, 
     {
@@ -1347,6 +1477,7 @@
         "id": 203105, 
         "points": 320, 
         "rebounds": 257, 
+        "salary": 2008748, 
         "steals": 18
     }, 
     {
@@ -1357,6 +1488,7 @@
         "id": 202702, 
         "points": 835, 
         "rebounds": 581, 
+        "salary": 11235955, 
         "steals": 32
     }, 
     {
@@ -1367,6 +1499,7 @@
         "id": 200770, 
         "points": 110, 
         "rebounds": 25, 
+        "salary": 2291455, 
         "steals": 15
     }, 
     {
@@ -1377,6 +1510,7 @@
         "id": 202324, 
         "points": 1016, 
         "rebounds": 503, 
+        "salary": 12000000, 
         "steals": 74
     }, 
     {
@@ -1387,6 +1521,7 @@
         "id": 1626245, 
         "points": 105, 
         "rebounds": 102, 
+        "salary": 525093, 
         "steals": 6
     }, 
     {
@@ -1397,6 +1532,7 @@
         "id": 101109, 
         "points": 763, 
         "rebounds": 258, 
+        "salary": 4540000, 
         "steals": 68
     }, 
     {
@@ -1407,6 +1543,7 @@
         "id": 203095, 
         "points": 1213, 
         "rebounds": 225, 
+        "salary": 2288204, 
         "steals": 96
     }, 
     {
@@ -1417,6 +1554,7 @@
         "id": 200751, 
         "points": 474, 
         "rebounds": 156, 
+        "salary": 3135000, 
         "steals": 39
     }, 
     {
@@ -1427,6 +1565,7 @@
         "id": 204025, 
         "points": 261, 
         "rebounds": 110, 
+        "salary": 989216, 
         "steals": 33
     }, 
     {
@@ -1437,6 +1576,7 @@
         "id": 202690, 
         "points": 9, 
         "rebounds": 0, 
+        "salary": 625167, 
         "steals": 1
     }, 
     {
@@ -1447,6 +1587,7 @@
         "id": 101112, 
         "points": 425, 
         "rebounds": 234, 
+        "salary": 8193029, 
         "steals": 29
     }, 
     {
@@ -1457,6 +1598,7 @@
         "id": 201568, 
         "points": 1036, 
         "rebounds": 281, 
+        "salary": 14000000, 
         "steals": 42
     }, 
     {
@@ -1467,6 +1609,7 @@
         "id": 204038, 
         "points": 625, 
         "rebounds": 288, 
+        "salary": 845059, 
         "steals": 77
     }, 
     {
@@ -1477,6 +1620,7 @@
         "id": 708, 
         "points": 122, 
         "rebounds": 150, 
+        "salary": 8500000, 
         "steals": 28
     }, 
     {
@@ -1487,6 +1631,7 @@
         "id": 201188, 
         "points": 861, 
         "rebounds": 362, 
+        "salary": 19689000, 
         "steals": 50
     }, 
     {
@@ -1497,6 +1642,7 @@
         "id": 2200, 
         "points": 1187, 
         "rebounds": 793, 
+        "salary": 7448760, 
         "steals": 42
     }, 
     {
@@ -1507,6 +1653,7 @@
         "id": 200752, 
         "points": 1204, 
         "rebounds": 456, 
+        "salary": 12403101, 
         "steals": 100
     }, 
     {
@@ -1517,6 +1664,7 @@
         "id": 202087, 
         "points": 325, 
         "rebounds": 245, 
+        "salary": 1320000, 
         "steals": 63
     }, 
     {
@@ -1527,6 +1675,7 @@
         "id": 202331, 
         "points": 1874, 
         "rebounds": 563, 
+        "salary": 16900000, 
         "steals": 152
     }, 
     {
@@ -1537,6 +1686,7 @@
         "id": 201959, 
         "points": 627, 
         "rebounds": 504, 
+        "salary": 8500000, 
         "steals": 47
     }, 
     {
@@ -1547,6 +1697,7 @@
         "id": 1938, 
         "points": 555, 
         "rebounds": 146, 
+        "salary": 2814000, 
         "steals": 66
     }, 
     {
@@ -1557,6 +1708,7 @@
         "id": 203497, 
         "points": 557, 
         "rebounds": 668, 
+        "salary": 1175880, 
         "steals": 45
     }, 
     {
@@ -1567,6 +1719,7 @@
         "id": 2400, 
         "points": 82, 
         "rebounds": 85, 
+        "salary": 3300000, 
         "steals": 8
     }, 
     {
@@ -1577,6 +1730,7 @@
         "id": 203462, 
         "points": 505, 
         "rebounds": 142, 
+        "salary": 1160160, 
         "steals": 27
     }, 
     {
@@ -1587,6 +1741,7 @@
         "id": 203932, 
         "points": 719, 
         "rebounds": 507, 
+        "salary": 4171680, 
         "steals": 59
     }, 
     {
@@ -1597,6 +1752,7 @@
         "id": 201569, 
         "points": 686, 
         "rebounds": 99, 
+        "salary": 15514031, 
         "steals": 43
     }, 
     {
@@ -1607,6 +1763,7 @@
         "id": 101162, 
         "points": 1012, 
         "rebounds": 741, 
+        "salary": 11217391, 
         "steals": 47
     }, 
     {
@@ -1617,6 +1774,7 @@
         "id": 202726, 
         "points": 22, 
         "rebounds": 2, 
+        "salary": 200600, 
         "steals": 6
     }, 
     {
@@ -1627,6 +1785,7 @@
         "id": 203924, 
         "points": 749, 
         "rebounds": 361, 
+        "salary": 845059, 
         "steals": 54
     }, 
     {
@@ -1637,6 +1796,7 @@
         "id": 1626170, 
         "points": 426, 
         "rebounds": 143, 
+        "salary": 1572360, 
         "steals": 50
     }, 
     {
@@ -1647,6 +1807,7 @@
         "id": 201980, 
         "points": 572, 
         "rebounds": 303, 
+        "salary": 10000000, 
         "steals": 79
     }, 
     {
@@ -1657,6 +1818,7 @@
         "id": 203110, 
         "points": 1131, 
         "rebounds": 769, 
+        "salary": 14260870, 
         "steals": 119
     }, 
     {
@@ -1667,6 +1829,7 @@
         "id": 203475, 
         "points": 13, 
         "rebounds": 6, 
+        "salary": 199418, 
         "steals": 1
     }, 
     {
@@ -1677,6 +1840,7 @@
         "id": 101123, 
         "points": 616, 
         "rebounds": 163, 
+        "salary": 1362897, 
         "steals": 38
     }, 
     {
@@ -1687,6 +1851,7 @@
         "id": 203210, 
         "points": 578, 
         "rebounds": 373, 
+        "salary": 845059, 
         "steals": 46
     }, 
     {
@@ -1697,6 +1862,7 @@
         "id": 201145, 
         "points": 939, 
         "rebounds": 332, 
+        "salary": 9200000, 
         "steals": 58
     }, 
     {
@@ -1707,6 +1873,7 @@
         "id": 201933, 
         "points": 749, 
         "rebounds": 294, 
+        "salary": 18862876, 
         "steals": 28
     }, 
     {
@@ -1717,6 +1884,7 @@
         "id": 203268, 
         "points": 22, 
         "rebounds": 7, 
+        "salary": 300899, 
         "steals": 3
     }, 
     {
@@ -1727,6 +1895,7 @@
         "id": 203798, 
         "points": 410, 
         "rebounds": 174, 
+        "salary": 1201440, 
         "steals": 32
     }, 
     {
@@ -1737,6 +1906,7 @@
         "id": 202706, 
         "points": 125, 
         "rebounds": 62, 
+        "salary": 119461, 
         "steals": 8
     }, 
     {
@@ -1747,6 +1917,7 @@
         "id": 201946, 
         "points": 104, 
         "rebounds": 89, 
+        "salary": 1185784, 
         "steals": 12
     }, 
     {
@@ -1767,6 +1938,7 @@
         "id": 201935, 
         "points": 2376, 
         "rebounds": 501, 
+        "salary": 15719062, 
         "steals": 139
     }, 
     {
@@ -1787,6 +1959,7 @@
         "id": 202712, 
         "points": 13, 
         "rebounds": 1, 
+        "salary": 99418, 
         "steals": 1
     }, 
     {
@@ -1797,6 +1970,7 @@
         "id": 1626149, 
         "points": 140, 
         "rebounds": 65, 
+        "salary": 1000000, 
         "steals": 11
     }, 
     {
@@ -1807,6 +1981,7 @@
         "id": 2734, 
         "points": 487, 
         "rebounds": 138, 
+        "salary": 4053446, 
         "steals": 60
     }, 
     {
@@ -1817,6 +1992,7 @@
         "id": 203914, 
         "points": 932, 
         "rebounds": 220, 
+        "salary": 1587480, 
         "steals": 97
     }, 
     {
@@ -1827,6 +2003,7 @@
         "id": 203925, 
         "points": 3, 
         "rebounds": 3, 
+        "salary": 845059, 
         "steals": 0
     }, 
     {
@@ -1837,6 +2014,7 @@
         "id": 202699, 
         "points": 1116, 
         "rebounds": 510, 
+        "salary": 16000000, 
         "steals": 65
     }, 
     {
@@ -1847,6 +2025,7 @@
         "id": 1626151, 
         "points": 18, 
         "rebounds": 15, 
+        "salary": 525093, 
         "steals": 6
     }, 
     {
@@ -1857,6 +2036,7 @@
         "id": 2617, 
         "points": 59, 
         "rebounds": 75, 
+        "salary": 2854940, 
         "steals": 5
     }, 
     {
@@ -1867,6 +2047,7 @@
         "id": 201150, 
         "points": 340, 
         "rebounds": 244, 
+        "salary": 5543725, 
         "steals": 22
     }, 
     {
@@ -1877,6 +2058,7 @@
         "id": 101236, 
         "points": 4, 
         "rebounds": 8, 
+        "salary": 70549, 
         "steals": 0
     }, 
     {
@@ -1887,6 +2069,7 @@
         "id": 202330, 
         "points": 1578, 
         "rebounds": 397, 
+        "salary": 15409570, 
         "steals": 95
     }, 
     {
@@ -1897,6 +2080,7 @@
         "id": 201945, 
         "points": 624, 
         "rebounds": 211, 
+        "salary": 6000000, 
         "steals": 39
     }, 
     {
@@ -1907,6 +2091,7 @@
         "id": 203089, 
         "points": 397, 
         "rebounds": 221, 
+        "salary": 2943220, 
         "steals": 18
     }, 
     {
@@ -1917,6 +2102,7 @@
         "id": 1626209, 
         "points": 478, 
         "rebounds": 176, 
+        "salary": 3741480, 
         "steals": 39
     }, 
     {
@@ -1927,6 +2113,7 @@
         "id": 201579, 
         "points": 481, 
         "rebounds": 398, 
+        "salary": 15514031, 
         "steals": 32
     }, 
     {
@@ -1937,6 +2124,7 @@
         "id": 201581, 
         "points": 206, 
         "rebounds": 132, 
+        "salary": 5583413, 
         "steals": 15
     }, 
     {
@@ -1957,6 +2145,7 @@
         "id": 201588, 
         "points": 894, 
         "rebounds": 298, 
+        "salary": 8000000, 
         "steals": 83
     }, 
     {
@@ -1967,6 +2156,7 @@
         "id": 201941, 
         "points": 645, 
         "rebounds": 451, 
+        "salary": 4000000, 
         "steals": 36
     }, 
     {
@@ -1977,6 +2167,7 @@
         "id": 203524, 
         "points": 246, 
         "rebounds": 166, 
+        "salary": 1358880, 
         "steals": 37
     }, 
     {
@@ -1987,6 +2178,7 @@
         "id": 1626199, 
         "points": 152, 
         "rebounds": 45, 
+        "salary": 600000, 
         "steals": 9
     }, 
     {
@@ -1997,6 +2189,7 @@
         "id": 2550, 
         "points": 137, 
         "rebounds": 70, 
+        "salary": 2870000, 
         "steals": 15
     }, 
     {
@@ -2007,6 +2200,7 @@
         "id": 201950, 
         "points": 1089, 
         "rebounds": 195, 
+        "salary": 11000000, 
         "steals": 88
     }, 
     {
@@ -2017,6 +2211,7 @@
         "id": 203200, 
         "points": 239, 
         "rebounds": 90, 
+        "salary": 947276, 
         "steals": 32
     }, 
     {
@@ -2027,6 +2222,7 @@
         "id": 200797, 
         "points": 124, 
         "rebounds": 98, 
+        "salary": 615906, 
         "steals": 6
     }, 
     {
@@ -2037,6 +2233,7 @@
         "id": 1626178, 
         "points": 167, 
         "rebounds": 154, 
+        "salary": 1335480, 
         "steals": 39
     }, 
     {
@@ -2047,6 +2244,7 @@
         "id": 1626158, 
         "points": 287, 
         "rebounds": 135, 
+        "salary": 1075000, 
         "steals": 19
     }, 
     {
@@ -2057,6 +2255,7 @@
         "id": 203918, 
         "points": 1149, 
         "rebounds": 267, 
+        "salary": 1348440, 
         "steals": 73
     }, 
     {
@@ -2067,6 +2266,7 @@
         "id": 201143, 
         "points": 1249, 
         "rebounds": 596, 
+        "salary": 12000000, 
         "steals": 68
     }, 
     {
@@ -2077,6 +2277,7 @@
         "id": 2730, 
         "points": 976, 
         "rebounds": 835, 
+        "salary": 22359364, 
         "steals": 69
     }, 
     {
@@ -2087,6 +2288,7 @@
         "id": 1626273, 
         "points": 237, 
         "rebounds": 90, 
+        "salary": 525093, 
         "steals": 26
     }, 
     {
@@ -2097,6 +2299,7 @@
         "id": 203962, 
         "points": 14, 
         "rebounds": 10, 
+        "salary": 1140240, 
         "steals": 1
     }, 
     {
@@ -2107,6 +2310,7 @@
         "id": 2743, 
         "points": 343, 
         "rebounds": 218, 
+        "salary": 4440000, 
         "steals": 16
     }, 
     {
@@ -2117,6 +2321,7 @@
         "id": 1626154, 
         "points": 97, 
         "rebounds": 37, 
+        "salary": 1148640, 
         "steals": 14
     }, 
     {
@@ -2127,6 +2332,7 @@
         "id": 201586, 
         "points": 983, 
         "rebounds": 533, 
+        "salary": 12250000, 
         "steals": 38
     }, 
     {
@@ -2137,6 +2343,7 @@
         "id": 2738, 
         "points": 457, 
         "rebounds": 263, 
+        "salary": 11710456, 
         "steals": 73
     }, 
     {
@@ -2147,6 +2354,7 @@
         "id": 101141, 
         "points": 767, 
         "rebounds": 403, 
+        "salary": 7900000, 
         "steals": 52
     }, 
     {
@@ -2157,6 +2365,7 @@
         "id": 204060, 
         "points": 342, 
         "rebounds": 151, 
+        "salary": 2100000, 
         "steals": 55
     }, 
     {
@@ -2167,6 +2376,7 @@
         "id": 203996, 
         "points": 36, 
         "rebounds": 31, 
+        "salary": 855000, 
         "steals": 6
     }, 
     {
@@ -2177,6 +2387,7 @@
         "id": 202681, 
         "points": 1041, 
         "rebounds": 157, 
+        "salary": 16407500, 
         "steals": 56
     }, 
     {
@@ -2187,6 +2398,7 @@
         "id": 101127, 
         "points": 411, 
         "rebounds": 136, 
+        "salary": 6300000, 
         "steals": 34
     }, 
     {
@@ -2197,6 +2409,7 @@
         "id": 202704, 
         "points": 1489, 
         "rebounds": 253, 
+        "salary": 13913044, 
         "steals": 59
     }, 
     {
@@ -2207,6 +2420,7 @@
         "id": 2544, 
         "points": 1920, 
         "rebounds": 565, 
+        "salary": 22970500, 
         "steals": 104
     }, 
     {
@@ -2217,6 +2431,7 @@
         "id": 2744, 
         "points": 562, 
         "rebounds": 301, 
+        "salary": 13500000, 
         "steals": 30
     }, 
     {
@@ -2227,6 +2442,7 @@
         "id": 203928, 
         "points": 22, 
         "rebounds": 16, 
+        "salary": 362878, 
         "steals": 0
     }, 
     {
@@ -2237,6 +2453,7 @@
         "id": 2210, 
         "points": 410, 
         "rebounds": 128, 
+        "salary": 1499187, 
         "steals": 33
     }, 
     {
@@ -2247,6 +2464,7 @@
         "id": 203098, 
         "points": 178, 
         "rebounds": 57, 
+        "salary": 981349, 
         "steals": 8
     }, 
     {
@@ -2257,6 +2475,7 @@
         "id": 201943, 
         "points": 332, 
         "rebounds": 96, 
+        "salary": 8344497, 
         "steals": 29
     }, 
     {
@@ -2267,6 +2486,7 @@
         "id": 201973, 
         "points": 340, 
         "rebounds": 288, 
+        "salary": 5000000, 
         "steals": 20
     }, 
     {
@@ -2277,6 +2497,7 @@
         "id": 101161, 
         "points": 577, 
         "rebounds": 505, 
+        "salary": 12000000, 
         "steals": 52
     }, 
     {
@@ -2297,6 +2518,7 @@
         "id": 201949, 
         "points": 287, 
         "rebounds": 126, 
+        "salary": 2500000, 
         "steals": 29
     }, 
     {
@@ -2307,6 +2529,7 @@
         "id": 2207, 
         "points": 992, 
         "rebounds": 292, 
+        "salary": 22309344, 
         "steals": 61
     }, 
     {
@@ -2317,6 +2540,7 @@
         "id": 203111, 
         "points": 26, 
         "rebounds": 15, 
+        "salary": 111444, 
         "steals": 3
     }, 
     {
@@ -2327,6 +2551,7 @@
         "id": 1626169, 
         "points": 593, 
         "rebounds": 306, 
+        "salary": 2841960, 
         "steals": 55
     }, 
     {
@@ -2337,6 +2562,7 @@
         "id": 204020, 
         "points": 314, 
         "rebounds": 109, 
+        "salary": 845059, 
         "steals": 24
     }, 
     {
@@ -2347,6 +2573,7 @@
         "id": 202325, 
         "points": 549, 
         "rebounds": 248, 
+        "salary": 1100602, 
         "steals": 89
     }, 
     {
@@ -2357,6 +2584,7 @@
         "id": 203999, 
         "points": 796, 
         "rebounds": 560, 
+        "salary": 1300000, 
         "steals": 79
     }, 
     {
@@ -2377,6 +2605,7 @@
         "id": 2592, 
         "points": 178, 
         "rebounds": 50, 
+        "salary": 1499187, 
         "steals": 11
     }, 
     {
@@ -2387,6 +2616,7 @@
         "id": 203093, 
         "points": 434, 
         "rebounds": 211, 
+        "salary": 2489529, 
         "steals": 23
     }, 
     {
@@ -2397,6 +2627,7 @@
         "id": 1626145, 
         "points": 156, 
         "rebounds": 47, 
+        "salary": 1282080, 
         "steals": 31
     }, 
     {
@@ -2407,6 +2638,7 @@
         "id": 201599, 
         "points": 980, 
         "rebounds": 1059, 
+        "salary": 19689000, 
         "steals": 51
     }, 
     {
@@ -2417,6 +2649,7 @@
         "id": 202709, 
         "points": 677, 
         "rebounds": 210, 
+        "salary": 7000000, 
         "steals": 63
     }, 
     {
@@ -2427,6 +2660,7 @@
         "id": 2549, 
         "points": 44, 
         "rebounds": 24, 
+        "salary": 5000000, 
         "steals": 1
     }, 
     {
@@ -2437,6 +2671,7 @@
         "id": 1626163, 
         "points": 606, 
         "rebounds": 335, 
+        "salary": 2612520, 
         "steals": 38
     }, 
     {
@@ -2447,6 +2682,7 @@
         "id": 202683, 
         "points": 1038, 
         "rebounds": 664, 
+        "salary": 16407500, 
         "steals": 26
     }, 
     {
@@ -2457,6 +2693,7 @@
         "id": 203508, 
         "points": 97, 
         "rebounds": 58, 
+        "salary": 1599840, 
         "steals": 6
     }, 
     {
@@ -2467,6 +2704,7 @@
         "id": 201619, 
         "points": 23, 
         "rebounds": 26, 
+        "salary": 1276000, 
         "steals": 4
     }, 
     {
@@ -2477,6 +2715,7 @@
         "id": 203527, 
         "points": 152, 
         "rebounds": 121, 
+        "salary": 1724250, 
         "steals": 13
     }, 
     {
@@ -2487,6 +2726,7 @@
         "id": 203077, 
         "points": 89, 
         "rebounds": 45, 
+        "salary": 6331403, 
         "steals": 3
     }, 
     {
@@ -2497,6 +2737,7 @@
         "id": 203930, 
         "points": 345, 
         "rebounds": 56, 
+        "salary": 320594, 
         "steals": 12
     }, 
     {
@@ -2507,6 +2748,7 @@
         "id": 202688, 
         "points": 1018, 
         "rebounds": 202, 
+        "salary": 13500000, 
         "steals": 61
     }, 
     {
@@ -2517,6 +2759,7 @@
         "id": 2594, 
         "points": 739, 
         "rebounds": 260, 
+        "salary": 5746479, 
         "steals": 60
     }, 
     {
@@ -2527,6 +2770,7 @@
         "id": 201585, 
         "points": 529, 
         "rebounds": 423, 
+        "salary": 7700000, 
         "steals": 40
     }, 
     {
@@ -2537,6 +2781,7 @@
         "id": 203897, 
         "points": 1150, 
         "rebounds": 228, 
+        "salary": 2148360, 
         "steals": 69
     }, 
     {
@@ -2547,6 +2792,7 @@
         "id": 203087, 
         "points": 580, 
         "rebounds": 252, 
+        "salary": 3034356, 
         "steals": 42
     }, 
     {
@@ -2557,6 +2803,7 @@
         "id": 201171, 
         "points": 351, 
         "rebounds": 146, 
+        "salary": 6750000, 
         "steals": 12
     }, 
     {
@@ -2567,6 +2814,7 @@
         "id": 203499, 
         "points": 566, 
         "rebounds": 180, 
+        "salary": 1500000, 
         "steals": 95
     }, 
     {
@@ -2577,6 +2825,7 @@
         "id": 203530, 
         "points": 465, 
         "rebounds": 290, 
+        "salary": 1709719, 
         "steals": 13
     }, 
     {
@@ -2587,6 +2836,7 @@
         "id": 201951, 
         "points": 373, 
         "rebounds": 120, 
+        "salary": 12444552, 
         "steals": 53
     }, 
     {
@@ -2597,6 +2847,7 @@
         "id": 201584, 
         "points": 761, 
         "rebounds": 205, 
+        "salary": 5675000, 
         "steals": 85
     }, 
     {
@@ -2607,6 +2858,7 @@
         "id": 101135, 
         "points": 427, 
         "rebounds": 305, 
+        "salary": 17120776, 
         "steals": 22
     }, 
     {
@@ -2617,6 +2869,7 @@
         "id": 203458, 
         "points": 703, 
         "rebounds": 594, 
+        "salary": 3807120, 
         "steals": 38
     }, 
     {
@@ -2627,6 +2880,7 @@
         "id": 202695, 
         "points": 1523, 
         "rebounds": 493, 
+        "salary": 16407500, 
         "steals": 128
     }, 
     {
@@ -2637,6 +2891,7 @@
         "id": 203086, 
         "points": 511, 
         "rebounds": 314, 
+        "salary": 3075879, 
         "steals": 8
     }, 
     {
@@ -2647,6 +2902,7 @@
         "id": 202720, 
         "points": 567, 
         "rebounds": 373, 
+        "salary": 1035000, 
         "steals": 38
     }, 
     {
@@ -2657,6 +2913,7 @@
         "id": 203081, 
         "points": 1879, 
         "rebounds": 302, 
+        "salary": 4236286, 
         "steals": 65
     }, 
     {
@@ -2667,6 +2924,7 @@
         "id": 202391, 
         "points": 914, 
         "rebounds": 253, 
+        "salary": 2139000, 
         "steals": 58
     }, 
     {
@@ -2677,6 +2935,7 @@
         "id": 2733, 
         "points": 488, 
         "rebounds": 169, 
+        "salary": 5543725, 
         "steals": 57
     }, 
     {
@@ -2687,6 +2946,7 @@
         "id": 1626172, 
         "points": 9, 
         "rebounds": 10, 
+        "salary": 1131960, 
         "steals": 0
     }, 
     {
@@ -2697,6 +2957,7 @@
         "id": 201572, 
         "points": 1501, 
         "rebounds": 573, 
+        "salary": 19689000, 
         "steals": 58
     }, 
     {
@@ -2707,6 +2968,7 @@
         "id": 201577, 
         "points": 842, 
         "rebounds": 602, 
+        "salary": 12650000, 
         "steals": 16
     }, 
     {
@@ -2717,6 +2979,7 @@
         "id": 201567, 
         "points": 1234, 
         "rebounds": 762, 
+        "salary": 19689000, 
         "steals": 58
     }, 
     {
@@ -2727,6 +2990,7 @@
         "id": 200768, 
         "points": 1634, 
         "rebounds": 365, 
+        "salary": 12000000, 
         "steals": 158
     }, 
     {
@@ -2737,6 +3001,7 @@
         "id": 1626168, 
         "points": 488, 
         "rebounds": 299, 
+        "salary": 2239800, 
         "steals": 26
     }, 
     {
@@ -2747,6 +3012,7 @@
         "id": 202714, 
         "points": 448, 
         "rebounds": 128, 
+        "salary": 2433333, 
         "steals": 34
     }, 
     {
@@ -2757,6 +3023,7 @@
         "id": 101133, 
         "points": 660, 
         "rebounds": 507, 
+        "salary": 4000000, 
         "steals": 65
     }, 
     {
@@ -2767,6 +3034,7 @@
         "id": 203906, 
         "points": 60, 
         "rebounds": 38, 
+        "salary": 845059, 
         "steals": 13
     }, 
     {
@@ -2777,6 +3045,7 @@
         "id": 1626246, 
         "points": 297, 
         "rebounds": 194, 
+        "salary": 1200000, 
         "steals": 12
     }, 
     {
@@ -2787,6 +3056,7 @@
         "id": 203088, 
         "points": 111, 
         "rebounds": 28, 
+        "salary": 2144772, 
         "steals": 16
     }, 
     {
@@ -2797,6 +3067,7 @@
         "id": 1626185, 
         "points": 153, 
         "rebounds": 86, 
+        "salary": 1230840, 
         "steals": 8
     }, 
     {
@@ -2807,6 +3078,7 @@
         "id": 2755, 
         "points": 514, 
         "rebounds": 110, 
+        "salary": 7402474, 
         "steals": 26
     }, 
     {
@@ -2817,6 +3089,7 @@
         "id": 202083, 
         "points": 977, 
         "rebounds": 238, 
+        "salary": 16407500, 
         "steals": 78
     }, 
     {
@@ -2837,6 +3110,7 @@
         "id": 201601, 
         "points": 231, 
         "rebounds": 171, 
+        "salary": 1270964, 
         "steals": 44
     }, 
     {
@@ -2847,6 +3121,7 @@
         "id": 203949, 
         "points": 117, 
         "rebounds": 58, 
+        "salary": 845059, 
         "steals": 10
     }, 
     {
@@ -2857,6 +3132,7 @@
         "id": 203492, 
         "points": 137, 
         "rebounds": 47, 
+        "salary": 1076758, 
         "steals": 12
     }, 
     {
@@ -2867,6 +3143,7 @@
         "id": 203468, 
         "points": 1666, 
         "rebounds": 259, 
+        "salary": 2525160, 
         "steals": 97
     }, 
     {
@@ -2887,6 +3164,7 @@
         "id": 1626191, 
         "points": 112, 
         "rebounds": 68, 
+        "salary": 1140240, 
         "steals": 28
     }, 
     {
@@ -2897,6 +3175,7 @@
         "id": 203909, 
         "points": 89, 
         "rebounds": 42, 
+        "salary": 3189794, 
         "steals": 7
     }, 
     {
@@ -2907,6 +3186,7 @@
         "id": 203926, 
         "points": 764, 
         "rebounds": 195, 
+        "salary": 2380440, 
         "steals": 14
     }, 
     {
@@ -2917,6 +3197,7 @@
         "id": 203956, 
         "points": 26, 
         "rebounds": 18, 
+        "salary": 1463040, 
         "steals": 1
     }, 
     {
@@ -2927,6 +3208,7 @@
         "id": 201580, 
         "points": 172, 
         "rebounds": 133, 
+        "salary": 13270964, 
         "steals": 5
     }, 
     {
@@ -2937,6 +3219,7 @@
         "id": 203463, 
         "points": 531, 
         "rebounds": 148, 
+        "salary": 3156600, 
         "steals": 52
     }, 
     {
@@ -2947,6 +3230,7 @@
         "id": 203895, 
         "points": 99, 
         "rebounds": 20, 
+        "salary": 172971, 
         "steals": 3
     }, 
     {
@@ -2957,6 +3241,7 @@
         "id": 201177, 
         "points": 150, 
         "rebounds": 105, 
+        "salary": 5543725, 
         "steals": 18
     }, 
     {
@@ -2967,6 +3252,7 @@
         "id": 201975, 
         "points": 22, 
         "rebounds": 5, 
+        "salary": 6270000, 
         "steals": 0
     }, 
     {
@@ -2977,6 +3263,7 @@
         "id": 1626257, 
         "points": 125, 
         "rebounds": 123, 
+        "salary": 525093, 
         "steals": 8
     }, 
     {
@@ -2987,6 +3274,7 @@
         "id": 1626175, 
         "points": 21, 
         "rebounds": 13, 
+        "salary": 1170960, 
         "steals": 0
     }, 
     {
@@ -2997,6 +3285,7 @@
         "id": 203114, 
         "points": 1434, 
         "rebounds": 302, 
+        "salary": 14700000, 
         "steals": 131
     }, 
     {
@@ -3007,6 +3296,7 @@
         "id": 101139, 
         "points": 753, 
         "rebounds": 175, 
+        "salary": 4394225, 
         "steals": 53
     }, 
     {
@@ -3017,6 +3307,7 @@
         "id": 1889, 
         "points": 144, 
         "rebounds": 51, 
+        "salary": 1490369, 
         "steals": 16
     }, 
     {
@@ -3027,6 +3318,7 @@
         "id": 2034, 
         "points": 63, 
         "rebounds": 53, 
+        "salary": 4354127, 
         "steals": 13
     }, 
     {
@@ -3047,6 +3339,7 @@
         "id": 202407, 
         "points": 36, 
         "rebounds": 35, 
+        "salary": 352936, 
         "steals": 7
     }, 
     {
@@ -3057,6 +3350,7 @@
         "id": 200794, 
         "points": 1385, 
         "rebounds": 732, 
+        "salary": 18671659, 
         "steals": 147
     }, 
     {
@@ -3067,6 +3361,7 @@
         "id": 202703, 
         "points": 777, 
         "rebounds": 362, 
+        "salary": 5543725, 
         "steals": 58
     }, 
     {
@@ -3077,6 +3372,7 @@
         "id": 1737, 
         "points": 8, 
         "rebounds": 4, 
+        "salary": 352749, 
         "steals": 0
     }, 
     {
@@ -3087,6 +3383,7 @@
         "id": 202328, 
         "points": 1210, 
         "rebounds": 696, 
+        "salary": 16407500, 
         "steals": 72
     }, 
     {
@@ -3097,6 +3394,7 @@
         "id": 1626242, 
         "points": 14, 
         "rebounds": 4, 
+        "salary": 525093, 
         "steals": 0
     }, 
     {
@@ -3107,6 +3405,7 @@
         "id": 202734, 
         "points": 443, 
         "rebounds": 133, 
+        "salary": 1015421, 
         "steals": 37
     }, 
     {
@@ -3117,6 +3416,7 @@
         "id": 203961, 
         "points": 8, 
         "rebounds": 11, 
+        "salary": 845059, 
         "steals": 0
     }, 
     {
@@ -3127,6 +3427,7 @@
         "id": 202694, 
         "points": 1131, 
         "rebounds": 404, 
+        "salary": 5000000, 
         "steals": 67
     }, 
     {
@@ -3137,6 +3438,7 @@
         "id": 202693, 
         "points": 765, 
         "rebounds": 352, 
+        "salary": 8000000, 
         "steals": 58
     }, 
     {
@@ -3147,6 +3449,7 @@
         "id": 201627, 
         "points": 380, 
         "rebounds": 62, 
+        "salary": 3344000, 
         "steals": 22
     }, 
     {
@@ -3167,6 +3470,7 @@
         "id": 202389, 
         "points": 475, 
         "rebounds": 337, 
+        "salary": 4950000, 
         "steals": 22
     }, 
     {
@@ -3177,6 +3481,7 @@
         "id": 1626144, 
         "points": 872, 
         "rebounds": 232, 
+        "salary": 3102240, 
         "steals": 65
     }, 
     {
@@ -3187,6 +3492,7 @@
         "id": 203498, 
         "points": 863, 
         "rebounds": 267, 
+        "salary": 2056920, 
         "steals": 24
     }, 
     {
@@ -3197,6 +3503,7 @@
         "id": 204098, 
         "points": 80, 
         "rebounds": 31, 
+        "salary": 123548, 
         "steals": 13
     }, 
     {
@@ -3207,6 +3514,7 @@
         "id": 203488, 
         "points": 195, 
         "rebounds": 117, 
+        "salary": 947276, 
         "steals": 13
     }, 
     {
@@ -3227,6 +3535,7 @@
         "id": 203894, 
         "points": 203, 
         "rebounds": 55, 
+        "salary": 1294440, 
         "steals": 23
     }, 
     {
@@ -3237,6 +3546,7 @@
         "id": 202390, 
         "points": 390, 
         "rebounds": 83, 
+        "salary": 2139000, 
         "steals": 20
     }, 
     {
@@ -3247,6 +3557,7 @@
         "id": 2749, 
         "points": 299, 
         "rebounds": 115, 
+        "salary": 4345000, 
         "steals": 25
     }, 
     {
@@ -3257,6 +3568,7 @@
         "id": 203526, 
         "points": 476, 
         "rebounds": 120, 
+        "salary": 840000, 
         "steals": 62
     }, 
     {
@@ -3267,6 +3579,7 @@
         "id": 203094, 
         "points": 384, 
         "rebounds": 201, 
+        "salary": 2380593, 
         "steals": 10
     }, 
     {
@@ -3277,6 +3590,7 @@
         "id": 201149, 
         "points": 124, 
         "rebounds": 255, 
+        "salary": 13400000, 
         "steals": 18
     }, 
     {
@@ -3287,6 +3601,7 @@
         "id": 203457, 
         "points": 747, 
         "rebounds": 542, 
+        "salary": 3457800, 
         "steals": 118
     }, 
     {
@@ -3297,6 +3612,7 @@
         "id": 203512, 
         "points": 65, 
         "rebounds": 46, 
+        "salary": 1842000, 
         "steals": 12
     }, 
     {
@@ -3307,6 +3623,7 @@
         "id": 200779, 
         "points": 24, 
         "rebounds": 5, 
+        "salary": 3758017, 
         "steals": 0
     }, 
     {
@@ -3317,6 +3634,7 @@
         "id": 1717, 
         "points": 1372, 
         "rebounds": 489, 
+        "salary": 8333333, 
         "steals": 52
     }, 
     {
@@ -3327,6 +3645,7 @@
         "id": 203994, 
         "points": 263, 
         "rebounds": 175, 
+        "salary": 1842000, 
         "steals": 24
     }, 
     {
@@ -3337,6 +3656,7 @@
         "id": 1626266, 
         "points": 0, 
         "rebounds": 1, 
+        "salary": 30887, 
         "steals": 1
     }, 
     {
@@ -3357,6 +3677,7 @@
         "id": 203124, 
         "points": 309, 
         "rebounds": 250, 
+        "salary": 3750000, 
         "steals": 20
     }, 
     {
@@ -3367,6 +3688,7 @@
         "id": 1626143, 
         "points": 928, 
         "rebounds": 373, 
+        "salary": 4582680, 
         "steals": 22
     }, 
     {
@@ -3377,6 +3699,7 @@
         "id": 203506, 
         "points": 1153, 
         "rebounds": 345, 
+        "salary": 5192520, 
         "steals": 116
     }, 
     {
@@ -3387,6 +3710,7 @@
         "id": 203482, 
         "points": 687, 
         "rebounds": 281, 
+        "salary": 2165160, 
         "steals": 52
     }, 
     {
@@ -3407,6 +3731,7 @@
         "id": 2585, 
         "points": 650, 
         "rebounds": 718, 
+        "salary": 5200000, 
         "steals": 64
     }, 
     {
@@ -3417,6 +3742,7 @@
         "id": 203123, 
         "points": 67, 
         "rebounds": 40, 
+        "salary": 800320, 
         "steals": 13
     }, 
     {
@@ -3427,6 +3753,7 @@
         "id": 203953, 
         "points": 1070, 
         "rebounds": 395, 
+        "salary": 5152440, 
         "steals": 69
     }, 
     {
@@ -3437,6 +3764,7 @@
         "id": 2225, 
         "points": 857, 
         "rebounds": 176, 
+        "salary": 13437500, 
         "steals": 54
     }, 
     {
@@ -3447,6 +3775,7 @@
         "id": 202718, 
         "points": 837, 
         "rebounds": 285, 
+        "salary": 15361500, 
         "steals": 46
     }, 
     {
@@ -3457,6 +3786,7 @@
         "id": 203934, 
         "points": 84, 
         "rebounds": 50, 
+        "salary": 525093, 
         "steals": 9
     }, 
     {
@@ -3467,6 +3797,7 @@
         "id": 202335, 
         "points": 543, 
         "rebounds": 342, 
+        "salary": 6268675, 
         "steals": 53
     }, 
     {
@@ -3477,6 +3808,7 @@
         "id": 101108, 
         "points": 1446, 
         "rebounds": 310, 
+        "salary": 21468695, 
         "steals": 152
     }, 
     {
@@ -3487,6 +3819,7 @@
         "id": 203940, 
         "points": 132, 
         "rebounds": 111, 
+        "salary": 1938840, 
         "steals": 16
     }, 
     {
@@ -3497,6 +3830,7 @@
         "id": 1626166, 
         "points": 283, 
         "rebounds": 85, 
+        "salary": 2021520, 
         "steals": 36
     }, 
     {
@@ -3507,6 +3841,7 @@
         "id": 203901, 
         "points": 778, 
         "rebounds": 261, 
+        "salary": 2505720, 
         "steals": 89
     }, 
     {
@@ -3517,6 +3852,7 @@
         "id": 201593, 
         "points": 54, 
         "rebounds": 21, 
+        "salary": 12100000, 
         "steals": 1
     }, 
     {
@@ -3527,6 +3863,7 @@
         "id": 2570, 
         "points": 91, 
         "rebounds": 128, 
+        "salary": 1499187, 
         "steals": 11
     }, 
     {
@@ -3537,6 +3874,7 @@
         "id": 1718, 
         "points": 417, 
         "rebounds": 186, 
+        "salary": 3376000, 
         "steals": 33
     }, 
     {
@@ -3547,6 +3885,7 @@
         "id": 202353, 
         "points": 24, 
         "rebounds": 15, 
+        "salary": 2700000, 
         "steals": 1
     }, 
     {
@@ -3557,6 +3896,7 @@
         "id": 203486, 
         "points": 749, 
         "rebounds": 628, 
+        "salary": 1415520, 
         "steals": 68
     }, 
     {
@@ -3567,6 +3907,7 @@
         "id": 203101, 
         "points": 314, 
         "rebounds": 232, 
+        "salary": 2109293, 
         "steals": 21
     }, 
     {
@@ -3587,6 +3928,7 @@
         "id": 1626171, 
         "points": 436, 
         "rebounds": 337, 
+        "salary": 1344120, 
         "steals": 25
     }, 
     {
@@ -3597,6 +3939,7 @@
         "id": 204001, 
         "points": 1028, 
         "rebounds": 526, 
+        "salary": 4131720, 
         "steals": 53
     }, 
     {
@@ -3607,6 +3950,7 @@
         "id": 203939, 
         "points": 399, 
         "rebounds": 273, 
+        "salary": 845059, 
         "steals": 36
     }, 
     {
@@ -3617,6 +3961,7 @@
         "id": 1626181, 
         "points": 273, 
         "rebounds": 111, 
+        "salary": 650000, 
         "steals": 29
     }, 
     {
@@ -3627,6 +3972,7 @@
         "id": 203515, 
         "points": 77, 
         "rebounds": 31, 
+        "salary": 1014142, 
         "steals": 18
     }, 
     {
@@ -3637,6 +3983,7 @@
         "id": 101179, 
         "points": 331, 
         "rebounds": 99, 
+        "salary": 1499187, 
         "steals": 74
     }, 
     {
@@ -3647,6 +3994,7 @@
         "id": 203143, 
         "points": 145, 
         "rebounds": 114, 
+        "salary": 1421348, 
         "steals": 53
     }, 
     {
@@ -3657,6 +4005,7 @@
         "id": 2419, 
         "points": 221, 
         "rebounds": 147, 
+        "salary": 1499187, 
         "steals": 36
     }, 
     {
@@ -3667,6 +4016,7 @@
         "id": 203944, 
         "points": 919, 
         "rebounds": 829, 
+        "salary": 3132240, 
         "steals": 53
     }, 
     {
@@ -3677,6 +4027,7 @@
         "id": 2216, 
         "points": 1040, 
         "rebounds": 529, 
+        "salary": 10000000, 
         "steals": 43
     }, 
     {
@@ -3687,6 +4038,7 @@
         "id": 200755, 
         "points": 1226, 
         "rebounds": 139, 
+        "salary": 7085000, 
         "steals": 42
     }, 
     {
@@ -3697,6 +4049,7 @@
         "id": 203186, 
         "points": 182, 
         "rebounds": 122, 
+        "salary": 525093, 
         "steals": 6
     }, 
     {
@@ -3707,6 +4060,7 @@
         "id": 1626196, 
         "points": 341, 
         "rebounds": 107, 
+        "salary": 525093, 
         "steals": 36
     }, 
     {
@@ -3717,6 +4071,7 @@
         "id": 203085, 
         "points": 593, 
         "rebounds": 130, 
+        "salary": 3110796, 
         "steals": 48
     }, 
     {
@@ -3727,6 +4082,7 @@
         "id": 203460, 
         "points": 337, 
         "rebounds": 251, 
+        "salary": 1210800, 
         "steals": 53
     }, 
     {
@@ -3737,6 +4093,7 @@
         "id": 203148, 
         "points": 205, 
         "rebounds": 41, 
+        "salary": 2854940, 
         "steals": 10
     }, 
     {
@@ -3747,6 +4104,7 @@
         "id": 101126, 
         "points": 0, 
         "rebounds": 0, 
+        "salary": 26456, 
         "steals": 1
     }, 
     {
@@ -3757,6 +4115,7 @@
         "id": 203080, 
         "points": 307, 
         "rebounds": 359, 
+        "salary": 981348, 
         "steals": 39
     }, 
     {
@@ -3767,6 +4126,7 @@
         "id": 203922, 
         "points": 171, 
         "rebounds": 68, 
+        "salary": 1100000, 
         "steals": 17
     }, 
     {
@@ -3777,6 +4137,7 @@
         "id": 200765, 
         "points": 859, 
         "rebounds": 435, 
+        "salary": 9500000, 
         "steals": 141
     }, 
     {
@@ -3787,6 +4148,7 @@
         "id": 201565, 
         "points": 1080, 
         "rebounds": 225, 
+        "salary": 20093064, 
         "steals": 44
     }, 
     {
@@ -3797,6 +4159,7 @@
         "id": 203082, 
         "points": 720, 
         "rebounds": 185, 
+        "salary": 3553917, 
         "steals": 54
     }, 
     {
@@ -3807,6 +4170,7 @@
         "id": 1626179, 
         "points": 72, 
         "rebounds": 63, 
+        "salary": 1824360, 
         "steals": 6
     }, 
     {
@@ -3817,6 +4181,7 @@
         "id": 201937, 
         "points": 766, 
         "rebounds": 326, 
+        "salary": 12700000, 
         "steals": 162
     }, 
     {
@@ -3827,6 +4192,7 @@
         "id": 204014, 
         "points": 75, 
         "rebounds": 20, 
+        "salary": 1149500, 
         "steals": 3
     }, 
     {
@@ -3837,6 +4203,7 @@
         "id": 201575, 
         "points": 305, 
         "rebounds": 181, 
+        "salary": 1270964, 
         "steals": 20
     }, 
     {
@@ -3847,6 +4214,7 @@
         "id": 1626156, 
         "points": 1054, 
         "rebounds": 274, 
+        "salary": 5103120, 
         "steals": 93
     }, 
     {
@@ -3857,6 +4225,7 @@
         "id": 203135, 
         "points": 87, 
         "rebounds": 72, 
+        "salary": 981358, 
         "steals": 4
     }, 
     {
@@ -3867,6 +4236,7 @@
         "id": 203960, 
         "points": 374, 
         "rebounds": 190, 
+        "salary": 1103547, 
         "steals": 23
     }, 
     {
@@ -3887,6 +4257,7 @@
         "id": 2449, 
         "points": 664, 
         "rebounds": 360, 
+        "salary": 2900000, 
         "steals": 46
     }, 
     {
@@ -3897,6 +4268,7 @@
         "id": 203118, 
         "points": 464, 
         "rebounds": 206, 
+        "salary": 3333333, 
         "steals": 25
     }, 
     {
@@ -3907,6 +4279,7 @@
         "id": 200757, 
         "points": 480, 
         "rebounds": 334, 
+        "salary": 4000000, 
         "steals": 85
     }, 
     {
@@ -3917,6 +4290,7 @@
         "id": 202338, 
         "points": 187, 
         "rebounds": 126, 
+        "salary": 2814000, 
         "steals": 8
     }, 
     {
@@ -3927,6 +4301,7 @@
         "id": 201196, 
         "points": 810, 
         "rebounds": 203, 
+        "salary": 2170465, 
         "steals": 46
     }, 
     {
@@ -3937,6 +4312,7 @@
         "id": 202697, 
         "points": 311, 
         "rebounds": 203, 
+        "salary": 8988765, 
         "steals": 54
     }, 
     {
@@ -3947,6 +4323,7 @@
         "id": 203613, 
         "points": 331, 
         "rebounds": 96, 
+        "salary": 525093, 
         "steals": 24
     }, 
     {
@@ -3957,6 +4334,7 @@
         "id": 203156, 
         "points": 91, 
         "rebounds": 72, 
+        "salary": 161633, 
         "steals": 9
     }, 
     {
@@ -3967,6 +4345,7 @@
         "id": 202713, 
         "points": 231, 
         "rebounds": 141, 
+        "salary": 4500000, 
         "steals": 30
     }, 
     {
@@ -3977,6 +4356,7 @@
         "id": 202388, 
         "points": 424, 
         "rebounds": 173, 
+        "salary": 1015421, 
         "steals": 32
     }, 
     {
@@ -3987,6 +4367,7 @@
         "id": 203935, 
         "points": 558, 
         "rebounds": 255, 
+        "salary": 3431040, 
         "steals": 91
     }, 
     {
@@ -3997,6 +4378,7 @@
         "id": 202962, 
         "points": 43, 
         "rebounds": 42, 
+        "salary": 197111, 
         "steals": 4
     }, 
     {
@@ -4017,6 +4399,7 @@
         "id": 2747, 
         "points": 955, 
         "rebounds": 217, 
+        "salary": 5000000, 
         "steals": 81
     }, 
     {
@@ -4027,6 +4410,7 @@
         "id": 201160, 
         "points": 546, 
         "rebounds": 219, 
+        "salary": 4300000, 
         "steals": 33
     }, 
     {
@@ -4037,6 +4421,7 @@
         "id": 2746, 
         "points": 332, 
         "rebounds": 192, 
+        "salary": 6830916, 
         "steals": 34
     }, 
     {
@@ -4047,6 +4432,7 @@
         "id": 203893, 
         "points": 23, 
         "rebounds": 9, 
+        "salary": 845059, 
         "steals": 5
     }, 
     {
@@ -4057,6 +4443,7 @@
         "id": 203503, 
         "points": 338, 
         "rebounds": 199, 
+        "salary": 1535880, 
         "steals": 16
     }, 
     {
@@ -4067,6 +4454,7 @@
         "id": 201578, 
         "points": 512, 
         "rebounds": 239, 
+        "salary": 3815500, 
         "steals": 19
     }, 
     {
@@ -4077,6 +4465,7 @@
         "id": 201168, 
         "points": 201, 
         "rebounds": 120, 
+        "salary": 8500000, 
         "steals": 20
     }, 
     {
@@ -4087,6 +4476,7 @@
         "id": 203917, 
         "points": 617, 
         "rebounds": 183, 
+        "salary": 2869440, 
         "steals": 44
     }, 
     {
@@ -4097,6 +4487,7 @@
         "id": 202362, 
         "points": 573, 
         "rebounds": 223, 
+        "salary": 9000000, 
         "steals": 43
     }, 
     {
@@ -4107,6 +4498,7 @@
         "id": 1627293, 
         "points": 22, 
         "rebounds": 28, 
+        "salary": 92662, 
         "steals": 1
     }, 
     {
@@ -4117,6 +4509,7 @@
         "id": 203950, 
         "points": 7, 
         "rebounds": 4, 
+        "salary": 845059, 
         "steals": 1
     }, 
     {
@@ -4137,6 +4530,7 @@
         "id": 201155, 
         "points": 517, 
         "rebounds": 156, 
+        "salary": 7000000, 
         "steals": 43
     }, 
     {
@@ -4147,6 +4541,7 @@
         "id": 203096, 
         "points": 834, 
         "rebounds": 673, 
+        "salary": 2269260, 
         "steals": 75
     }, 
     {
@@ -4167,6 +4562,7 @@
         "id": 201952, 
         "points": 1239, 
         "rebounds": 214, 
+        "salary": 8000000, 
         "steals": 97
     }, 
     {
@@ -4177,6 +4573,7 @@
         "id": 203141, 
         "points": 965, 
         "rebounds": 302, 
+        "salary": 5500000, 
         "steals": 32
     }, 
     {
@@ -4187,6 +4584,7 @@
         "id": 202066, 
         "points": 582, 
         "rebounds": 212, 
+        "salary": 1100602, 
         "steals": 69
     }, 
     {
@@ -4197,6 +4595,7 @@
         "id": 1891, 
         "points": 422, 
         "rebounds": 79, 
+        "salary": 1499187, 
         "steals": 47
     }, 
     {
@@ -4207,6 +4606,7 @@
         "id": 202738, 
         "points": 1823, 
         "rebounds": 243, 
+        "salary": 6912869, 
         "steals": 91
     }, 
     {
@@ -4217,6 +4617,7 @@
         "id": 202498, 
         "points": 484, 
         "rebounds": 131, 
+        "salary": 1636842, 
         "steals": 22
     }, 
     {
@@ -4227,6 +4628,7 @@
         "id": 203138, 
         "points": 758, 
         "rebounds": 272, 
+        "salary": 947276, 
         "steals": 36
     }, 
     {
@@ -4237,6 +4639,7 @@
         "id": 201574, 
         "points": 147, 
         "rebounds": 134, 
+        "salary": 6752729, 
         "steals": 12
     }, 
     {
@@ -4247,6 +4650,7 @@
         "id": 202691, 
         "points": 1771, 
         "rebounds": 306, 
+        "salary": 15501000, 
         "steals": 60
     }, 
     {
@@ -4257,6 +4661,7 @@
         "id": 202684, 
         "points": 643, 
         "rebounds": 738, 
+        "salary": 14260000, 
         "steals": 38
     }, 
     {
@@ -4267,6 +4672,7 @@
         "id": 201977, 
         "points": 590, 
         "rebounds": 150, 
+        "salary": 1436891, 
         "steals": 47
     }, 
     {
@@ -4277,6 +4683,7 @@
         "id": 201229, 
         "points": 383, 
         "rebounds": 229, 
+        "salary": 3000000, 
         "steals": 26
     }, 
     {
@@ -4287,6 +4694,7 @@
         "id": 1626253, 
         "points": 76, 
         "rebounds": 31, 
+        "salary": 61775, 
         "steals": 7
     }, 
     {
@@ -4297,6 +4705,7 @@
         "id": 1626157, 
         "points": 1503, 
         "rebounds": 858, 
+        "salary": 5703600, 
         "steals": 58
     }, 
     {
@@ -4307,6 +4716,7 @@
         "id": 200782, 
         "points": 652, 
         "rebounds": 512, 
+        "salary": 5500000, 
         "steals": 106
     }, 
     {
@@ -4317,6 +4727,7 @@
         "id": 202323, 
         "points": 854, 
         "rebounds": 397, 
+        "salary": 3425510, 
         "steals": 80
     }, 
     {
@@ -4327,6 +4738,7 @@
         "id": 1626167, 
         "points": 619, 
         "rebounds": 332, 
+        "salary": 2277960, 
         "steals": 25
     }, 
     {
@@ -4337,6 +4749,7 @@
         "id": 2757, 
         "points": 205, 
         "rebounds": 72, 
+        "salary": 2080465, 
         "steals": 14
     }, 
     {
@@ -4347,6 +4760,7 @@
         "id": 202685, 
         "points": 768, 
         "rebounds": 547, 
+        "salary": 4660482, 
         "steals": 25
     }, 
     {
@@ -4357,6 +4771,7 @@
         "id": 2760, 
         "points": 138, 
         "rebounds": 141, 
+        "salary": 10158574, 
         "steals": 16
     }, 
     {
@@ -4367,6 +4782,7 @@
         "id": 202349, 
         "points": 130, 
         "rebounds": 47, 
+        "salary": 6600000, 
         "steals": 10
     }, 
     {
@@ -4377,6 +4793,7 @@
         "id": 1626173, 
         "points": 217, 
         "rebounds": 88, 
+        "salary": 1733040, 
         "steals": 29
     }, 
     {
@@ -4387,6 +4804,7 @@
         "id": 101111, 
         "points": 319, 
         "rebounds": 152, 
+        "salary": 1499187, 
         "steals": 18
     }, 
     {
@@ -4397,6 +4815,7 @@
         "id": 203943, 
         "points": 283, 
         "rebounds": 305, 
+        "salary": 2637720, 
         "steals": 27
     }, 
     {
@@ -4407,6 +4826,7 @@
         "id": 202696, 
         "points": 1181, 
         "rebounds": 576, 
+        "salary": 11250000, 
         "steals": 53
     }, 
     {
@@ -4417,6 +4837,7 @@
         "id": 2756, 
         "points": 296, 
         "rebounds": 149, 
+        "salary": 1356146, 
         "steals": 34
     }, 
     {
@@ -4427,6 +4848,7 @@
         "id": 2548, 
         "points": 1409, 
         "rebounds": 302, 
+        "salary": 20000000, 
         "steals": 79
     }, 
     {
@@ -4437,6 +4859,7 @@
         "id": 203079, 
         "points": 762, 
         "rebounds": 202, 
+        "salary": 5138430, 
         "steals": 81
     }, 
     {
@@ -4447,6 +4870,7 @@
         "id": 202689, 
         "points": 1689, 
         "rebounds": 357, 
+        "salary": 12000000, 
         "steals": 126
     }, 
     {
@@ -4457,6 +4881,7 @@
         "id": 202322, 
         "points": 1531, 
         "rebounds": 379, 
+        "salary": 14728844, 
         "steals": 145
     }, 
     {
@@ -4467,6 +4892,7 @@
         "id": 203933, 
         "points": 515, 
         "rebounds": 147, 
+        "salary": 2041080, 
         "steals": 37
     }, 
     {
@@ -4487,6 +4913,7 @@
         "id": 1627362, 
         "points": 31, 
         "rebounds": 25, 
+        "salary": 61774, 
         "steals": 9
     }, 
     {
@@ -4497,6 +4924,7 @@
         "id": 201603, 
         "points": 107, 
         "rebounds": 53, 
+        "salary": 2814000, 
         "steals": 10
     }, 
     {
@@ -4507,6 +4935,7 @@
         "id": 2561, 
         "points": 554, 
         "rebounds": 309, 
+        "salary": 1499187, 
         "steals": 44
     }, 
     {
@@ -4517,6 +4946,7 @@
         "id": 201566, 
         "points": 1878, 
         "rebounds": 626, 
+        "salary": 16744218, 
         "steals": 163
     }, 
     {
@@ -4527,6 +4957,7 @@
         "id": 202355, 
         "points": 1040, 
         "rebounds": 865, 
+        "salary": 981348, 
         "steals": 44
     }, 
     {
@@ -4537,6 +4968,7 @@
         "id": 203963, 
         "points": 11, 
         "rebounds": 12, 
+        "salary": 845059, 
         "steals": 1
     }, 
     {
@@ -4547,6 +4979,7 @@
         "id": 203952, 
         "points": 1675, 
         "rebounds": 291, 
+        "salary": 5758680, 
         "steals": 78
     }, 
     {
@@ -4557,6 +4990,7 @@
         "id": 203912, 
         "points": 70, 
         "rebounds": 12, 
+        "salary": 1159680, 
         "steals": 10
     }, 
     {
@@ -4567,6 +5001,7 @@
         "id": 1626210, 
         "points": 29, 
         "rebounds": 38, 
+        "salary": 114284, 
         "steals": 4
     }, 
     {
@@ -4577,6 +5012,7 @@
         "id": 101114, 
         "points": 918, 
         "rebounds": 190, 
+        "salary": 10853761, 
         "steals": 61
     }, 
     {
@@ -4587,6 +5023,7 @@
         "id": 202682, 
         "points": 746, 
         "rebounds": 296, 
+        "salary": 4400000, 
         "steals": 29
     }, 
     {
@@ -4597,6 +5034,7 @@
         "id": 202343, 
         "points": 8, 
         "rebounds": 4, 
+        "salary": 57726, 
         "steals": 0
     }, 
     {
@@ -4617,6 +5055,7 @@
         "id": 101107, 
         "points": 948, 
         "rebounds": 521, 
+        "salary": 7000000, 
         "steals": 58
     }, 
     {
@@ -4637,6 +5076,7 @@
         "id": 1626159, 
         "points": 502, 
         "rebounds": 403, 
+        "salary": 2481720, 
         "steals": 68
     }, 
     {
@@ -4647,6 +5087,7 @@
         "id": 203481, 
         "points": 217, 
         "rebounds": 173, 
+        "salary": 947276, 
         "steals": 21
     }, 
     {
@@ -4657,6 +5098,7 @@
         "id": 1626174, 
         "points": 61, 
         "rebounds": 38, 
+        "salary": 339762, 
         "steals": 5
     }, 
     {
@@ -4667,6 +5109,7 @@
         "id": 1897, 
         "points": 176, 
         "rebounds": 89, 
+        "salary": 1499187, 
         "steals": 22
     }, 
     {
@@ -4677,6 +5120,7 @@
         "id": 201148, 
         "points": 83, 
         "rebounds": 43, 
+        "salary": 5464000, 
         "steals": 5
     }, 
     {
@@ -4687,6 +5131,7 @@
         "id": 1626153, 
         "points": 103, 
         "rebounds": 37, 
+        "salary": 1509360, 
         "steals": 8
     }, 
     {
@@ -4697,6 +5142,7 @@
         "id": 203100, 
         "points": 67, 
         "rebounds": 21, 
+        "salary": 2346760, 
         "steals": 3
     }, 
     {
@@ -4707,6 +5153,7 @@
         "id": 203923, 
         "points": 29, 
         "rebounds": 26, 
+        "salary": 1749840, 
         "steals": 6
     }, 
     {
@@ -4727,6 +5174,7 @@
         "id": 201156, 
         "points": 392, 
         "rebounds": 97, 
+        "salary": 5219169, 
         "steals": 23
     }, 
     {
@@ -4737,6 +5185,7 @@
         "id": 201152, 
         "points": 1102, 
         "rebounds": 660, 
+        "salary": 11235955, 
         "steals": 112
     }, 
     {
@@ -4747,6 +5196,7 @@
         "id": 203469, 
         "points": 638, 
         "rebounds": 455, 
+        "salary": 4204200, 
         "steals": 57
     }, 
     {
@@ -4757,6 +5207,7 @@
         "id": 203092, 
         "points": 364, 
         "rebounds": 178, 
+        "salary": 2616975, 
         "steals": 10
     }
 ]
