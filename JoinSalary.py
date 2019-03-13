@@ -1,7 +1,7 @@
 import json
 
-salaryFileRef = './Salaries/salary-15-16.json'
-fantasyFileRef = './PlayerStats/PlayerStats-15-16.json'
+salaryFileRef = './Salaries/salary-17-18.json'
+fantasyFileRef = './PlayerStats/PlayerStats-17-18.json'
 
 with open(fantasyFileRef) as f:
     fantasyData = json.load(f)
