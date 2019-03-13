@@ -1,5 +1,11 @@
 import matplotlib.pyplot as plt
 import pymysql.cursors
+import mplcursors as mcur
+
+
+
+year = input("Enter a year: ")
+
 
 # Connect to the database
 connection = pymysql.connect(host='classmysql.engr.oregonstate.edu',
@@ -11,7 +17,7 @@ connection = pymysql.connect(host='classmysql.engr.oregonstate.edu',
 
 try:
     with connection.cursor() as cursor:
-        sql = "SELECT `fantasy_points`, `salary` FROM `players-17-18`"
+        sql = "SELECT `fantasy_points`, `salary`, `full_name` FROM `players-" + year + "`"
         cursor.execute(sql)
         result = cursor.fetchall()
         #print(result, flush=True)
@@ -25,13 +31,20 @@ for player in result:
     fantasy_points.append(player['fantasy_points'])
     salaries.append(player['salary'])
 
-girls_grades = [89, 90, 70, 89, 50, 80, 90, 50, 80, 34]
-boys_grades = [30, 29, 49, 48, 50, 48, 38, 45, 20, 30]
-grades_range = [10, 20, 30, 40, 50, 60, 70, 80, 90, 100]
-test = [10, 20, 30, 40, 50, 60, 70, 80, 90, 100]
-#plt.scatter(grades_range, girls_grades, color='r')
+
+fig,ax = plt.subplots()
+
 plt.scatter(fantasy_points, salaries, color='g')
+
 plt.xlabel('Fantasy Score')
 plt.ylabel('Salary')
-plt.title('Salary vs. Fantasy Score in the 2017-2018 Basketball Season')
+
+a,b = year.split('-')
+
+plt.title('Salary vs. Fantasy Score in the 20{}-20{} Basketball Season'.format(a,b))
+
+
+mcur.cursor(hover=True).connect(
+    "add", lambda sel: sel.annotation.set_text(result[sel.target.index]['full_name']))
+
 plt.show()
