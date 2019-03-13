@@ -1,2002 +1,2002 @@
 [
     {
-        "name": "Aaron Brooks",
-        "salary": "$2,250,000"
-    },
-    {
-        "name": "Aaron Gordon",
-        "salary": "$4,171,680"
-    },
-    {
-        "name": "Aaron Gray",
-        "salary": "$1,356,146"
-    },
-    {
-        "name": "Aaron Harrison",
-        "salary": "$525,093"
-    },
-    {
-        "name": "Adreian Payne",
-        "salary": "$1,938,840"
-    },
-    {
-        "name": "Al Horford",
-        "salary": "$12,000,000"
-    },
-    {
-        "name": "Al Jefferson",
-        "salary": "$13,500,000"
-    },
-    {
-        "name": "Al-Farouq Aminu",
-        "salary": "$8,042,895"
-    },
-    {
-        "name": "Alan Anderson",
-        "salary": "$4,000,000"
-    },
-    {
-        "name": "Alan Williams",
-        "salary": "$114,284"
-    },
-    {
-        "name": "Alec Burks",
-        "salary": "$9,213,484"
-    },
-    {
-        "name": "Alex Len",
-        "salary": "$3,807,120"
-    },
-    {
-        "name": "Alex Stepheson",
-        "salary": "$92,662"
-    },
-    {
-        "name": "Alexis Ajinca",
-        "salary": "$4,539,607"
-    },
-    {
-        "name": "Allen Crabbe",
-        "salary": "$947,276"
-    },
-    {
-        "name": "Alonzo Gee",
-        "salary": "$1,320,000"
-    },
-    {
-        "name": "Amare Stoudemire",
-        "salary": "$1,499,187"
-    },
-    {
-        "name": "Amir Johnson",
-        "salary": "$12,000,000"
-    },
-    {
-        "name": "Anderson Varejao",
-        "salary": "$10,158,574"
-    },
-    {
-        "name": "Andre Drummond",
-        "salary": "$3,272,090"
-    },
-    {
-        "name": "Andre Iguodala",
-        "salary": "$11,710,456"
-    },
-    {
-        "name": "Andre Miller",
-        "salary": "$1,490,369"
-    },
-    {
-        "name": "Andre Roberson",
-        "salary": "$1,210,800"
-    },
-    {
-        "name": "Andrea Bargnani",
-        "salary": "$1,362,897"
-    },
-    {
-        "name": "Andrew Bogut",
-        "salary": "$12,000,000"
-    },
-    {
-        "name": "Andrew Goudelock",
-        "salary": "$200,600"
-    },
-    {
-        "name": "Andrew Nicholson",
-        "salary": "$2,380,593"
-    },
-    {
-        "name": "Andrew Wiggins",
-        "salary": "$5,758,680"
-    },
-    {
-        "name": "Anthony Bennett",
-        "salary": "$4,597,276"
-    },
-    {
-        "name": "Anthony Brown",
-        "salary": "$525,093"
-    },
-    {
-        "name": "Anthony Davis",
-        "salary": "$7,070,730"
-    },
-    {
-        "name": "Anthony Morrow",
-        "salary": "$3,344,000"
-    },
-    {
-        "name": "Anthony Tolliver",
-        "salary": "$3,000,000"
-    },
-    {
-        "name": "Archie Goodwin",
-        "salary": "$1,160,160"
-    },
-    {
-        "name": "Aron Baynes",
-        "salary": "$6,500,000"
-    },
-    {
-        "name": "Arron Afflalo",
-        "salary": "$8,000,000"
-    },
-    {
-        "name": "Austin Rivers",
-        "salary": "$3,110,796"
-    },
-    {
-        "name": "Avery Bradley",
-        "salary": "$7,730,337"
-    },
-    {
-        "name": "Axel Toupane",
-        "salary": "$61,775"
-    },
-    {
-        "name": "Ben McLemore",
-        "salary": "$3,156,600"
-    },
-    {
-        "name": "Beno Udrih",
-        "salary": "$2,080,465"
-    },
-    {
-        "name": "Bismack Biyombo",
-        "salary": "$2,814,000"
-    },
-    {
-        "name": "Blake Griffin",
-        "salary": "$18,862,876"
-    },
-    {
-        "name": "Boban Marjanovic",
-        "salary": "$1,200,000"
-    },
-    {
-        "name": "Bobby Portis",
-        "salary": "$1,344,120"
-    },
-    {
-        "name": "Bojan Bogdanovic",
-        "salary": "$3,425,510"
-    },
-    {
-        "name": "Boris Diaw",
-        "salary": "$7,500,000"
-    },
-    {
-        "name": "Bradley Beal",
-        "salary": "$5,694,673"
-    },
-    {
-        "name": "Brandan Wright",
-        "salary": "$5,464,000"
-    },
-    {
-        "name": "Branden Dawson",
-        "salary": "$525,093"
-    },
-    {
-        "name": "Brandon Bass",
-        "salary": "$3,000,000"
-    },
-    {
-        "name": "Brandon Jennings",
-        "salary": "$8,344,497"
-    },
-    {
-        "name": "Brandon Knight",
-        "salary": "$13,500,000"
-    },
-    {
-        "name": "Brandon Rush",
-        "salary": "$1,270,964"
-    },
-    {
-        "name": "Brian Roberts",
-        "salary": "$2,854,940"
-    },
-    {
-        "name": "Briante Weber",
-        "salary": "$61,774"
-    },
-    {
-        "name": "Brook Lopez",
-        "salary": "$19,689,000"
-    },
-    {
-        "name": "Bruno Caboclo",
-        "salary": "$1,524,000"
-    },
-    {
-        "name": "Bryce Cotton",
-        "salary": "$99,418"
-    },
-    {
-        "name": "Bryce Dejean-Jones",
-        "salary": "$61,775"
-    },
-    {
-        "name": "Cameron Bairstow",
-        "salary": "$845,059"
-    },
-    {
-        "name": "Cameron Payne",
-        "salary": "$2,021,520"
-    },
-    {
-        "name": "Carl Landry",
-        "salary": "$6,750,000"
-    },
-    {
-        "name": "Carmelo Anthony",
-        "salary": "$22,875,000"
-    },
-    {
-        "name": "Caron Butler",
-        "salary": "$1,499,187"
-    },
-    {
-        "name": "Cartier Martin",
-        "salary": "$1,270,964"
-    },
-    {
-        "name": "Chandler Parsons",
-        "salary": "$15,361,500"
-    },
-    {
-        "name": "Channing Frye",
-        "salary": "$8,193,029"
-    },
-    {
-        "name": "Charlie Villanueva",
-        "salary": "$1,499,187"
-    },
-    {
-        "name": "Chase Budinger",
-        "salary": "$5,258,082"
-    },
-    {
-        "name": "Chris Andersen",
-        "salary": "$5,000,000"
-    },
-    {
-        "name": "Chris Bosh",
-        "salary": "$22,192,730"
-    },
-    {
-        "name": "Chris Copeland",
-        "salary": "$1,150,000"
-    },
-    {
-        "name": "Chris Kaman",
-        "salary": "$5,000,000"
-    },
-    {
-        "name": "Chris McCullough",
-        "salary": "$1,140,240"
-    },
-    {
-        "name": "Chris Paul",
-        "salary": "$21,468,695"
-    },
-    {
-        "name": "Christapher Johnson",
-        "salary": "$981,348"
-    },
-    {
-        "name": "Christian Wood",
-        "salary": "$339,762"
-    },
-    {
-        "name": "Chuck Hayes",
-        "salary": "$70,549"
-    },
-    {
-        "name": "CJ McCollum",
-        "salary": "$2,525,160"
-    },
-    {
-        "name": "CJ Miles",
-        "salary": "$4,394,225"
-    },
-    {
-        "name": "CJ Watson",
-        "salary": "$5,000,000"
-    },
-    {
-        "name": "CJ Wilcox",
-        "salary": "$1,159,680"
-    },
-    {
-        "name": "Cleanthony Early",
-        "salary": "$845,059"
-    },
-    {
-        "name": "Cliff Alexander",
-        "salary": "$525,093"
-    },
-    {
-        "name": "Clint Capela",
-        "salary": "$1,242,720"
-    },
-    {
-        "name": "Cody Zeller",
-        "salary": "$4,204,200"
-    },
-    {
-        "name": "Cole Aldrich",
-        "salary": "$1,100,602"
-    },
-    {
-        "name": "Corey Brewer",
-        "salary": "$8,229,375"
-    },
-    {
-        "name": "Cory Jefferson",
-        "salary": "$362,878"
-    },
-    {
-        "name": "Cory Joseph",
-        "salary": "$7,000,000"
-    },
-    {
-        "name": "Coty Clarke",
-        "salary": "$61,774"
-    },
-    {
-        "name": "Courtney Lee",
-        "salary": "$5,675,000"
-    },
-    {
-        "name": "Cristiano Felicio",
-        "salary": "$525,093"
-    },
-    {
-        "name": "D'Angelo Russell",
-        "salary": "$5,103,120"
-    },
-    {
-        "name": "Damian Lillard",
-        "salary": "$4,236,286"
-    },
-    {
-        "name": "Damien Inglis",
-        "salary": "$855,000"
-    },
-    {
-        "name": "Damjan Rudez",
-        "salary": "$1,149,500"
-    },
-    {
-        "name": "Danilo Gallinari",
-        "salary": "$14,000,000"
-    },
-    {
-        "name": "Danny Granger",
-        "salary": "$2,100,000"
-    },
-    {
-        "name": "Danny Green",
-        "salary": "$10,000,000"
-    },
-    {
-        "name": "Dante Cunningham",
-        "salary": "$2,850,000"
-    },
-    {
-        "name": "Dante Exum",
-        "salary": "$3,777,720"
-    },
-    {
-        "name": "Darrell Arthur",
-        "salary": "$2,814,000"
-    },
-    {
-        "name": "Darren Collison",
-        "salary": "$5,013,559"
-    },
-    {
-        "name": "Darrun Hilliard",
-        "salary": "$600,000"
-    },
-    {
-        "name": "David Lee",
-        "salary": "$17,120,776"
-    },
-    {
-        "name": "David West",
-        "salary": "$1,499,187"
-    },
-    {
-        "name": "DeAndre Jordan",
-        "salary": "$19,689,000"
-    },
-    {
-        "name": "DeJuan Blair",
-        "salary": "$2,000,000"
-    },
-    {
-        "name": "Delon Wright",
-        "salary": "$1,509,360"
-    },
-    {
-        "name": "DeMar DeRozan",
-        "salary": "$9,500,000"
-    },
-    {
-        "name": "DeMarcus Cousins",
-        "salary": "$14,728,844"
-    },
-    {
-        "name": "DeMarre Carroll",
-        "salary": "$13,600,000"
-    },
-    {
-        "name": "Dennis Schroeder",
-        "salary": "$1,763,400"
-    },
-    {
-        "name": "Deron Williams",
-        "salary": "$10,853,761"
-    },
-    {
-        "name": "Derrick Favors",
-        "salary": "$12,000,000"
-    },
-    {
-        "name": "Derrick Rose",
-        "salary": "$20,093,064"
-    },
-    {
-        "name": "Derrick Williams",
-        "salary": "$4,400,000"
-    },
-    {
-        "name": "Devin Booker",
-        "salary": "$2,055,840"
-    },
-    {
-        "name": "Devin Harris",
-        "salary": "$4,053,446"
-    },
-    {
-        "name": "Devyn Marble",
-        "salary": "$845,059"
-    },
-    {
-        "name": "Dewayne Dedmon",
-        "salary": "$947,276"
-    },
-    {
-        "name": "Dion Waiters",
-        "salary": "$5,138,430"
-    },
-    {
-        "name": "Dirk Nowitzki",
-        "salary": "$8,333,333"
-    },
-    {
-        "name": "DJ Augustin",
-        "salary": "$3,000,000"
-    },
-    {
-        "name": "Donald Sloan",
-        "salary": "$1,015,421"
-    },
-    {
-        "name": "Dorell Wright",
-        "salary": "$17,637"
-    },
-    {
-        "name": "Doug McDermott",
-        "salary": "$2,380,440"
-    },
-    {
-        "name": "Draymond Green",
-        "salary": "$14,260,870"
-    },
-    {
-        "name": "Drew Gooden",
-        "salary": "$3,300,000"
-    },
-    {
-        "name": "Duje Dukan",
-        "salary": "$525,093"
-    },
-    {
-        "name": "Dwight Howard",
-        "salary": "$22,359,364"
-    },
-    {
-        "name": "Dwight Powell",
-        "salary": "$845,059"
-    },
-    {
-        "name": "Dwyane Wade",
-        "salary": "$20,000,000"
-    },
-    {
-        "name": "E'Twaun Moore",
-        "salary": "$1,015,421"
-    },
-    {
-        "name": "Ed Davis",
-        "salary": "$6,980,802"
-    },
-    {
-        "name": "Elfrid Payton",
-        "salary": "$2,505,720"
-    },
-    {
-        "name": "Elijah Millsap",
-        "salary": "$352,936"
-    },
-    {
-        "name": "Elliot Williams",
-        "salary": "$57,726"
-    },
-    {
-        "name": "Elton Brand",
-        "salary": "$890,693"
-    },
-    {
-        "name": "Emmanuel Mudiay",
-        "salary": "$3,102,240"
-    },
-    {
-        "name": "Enes Kanter",
-        "salary": "$16,407,500"
-    },
-    {
-        "name": "Eric Bledsoe",
-        "salary": "$13,500,000"
-    },
-    {
-        "name": "Eric Gordon",
-        "salary": "$15,514,031"
-    },
-    {
-        "name": "Eric Moreland",
-        "salary": "$845,059"
-    },
-    {
-        "name": "Erick Green",
-        "salary": "$199,418"
-    },
-    {
-        "name": "Ersan Ilyasova",
-        "salary": "$7,900,000"
-    },
-    {
-        "name": "Evan Fournier",
-        "salary": "$2,288,204"
-    },
-    {
-        "name": "Evan Turner",
-        "salary": "$3,425,510"
-    },
-    {
-        "name": "Festus Ezeli",
-        "salary": "$2,008,748"
-    },
-    {
-        "name": "Frank Kaminsky",
-        "salary": "$2,612,520"
-    },
-    {
-        "name": "Furkan Aldemir",
-        "salary": "$2,683,841"
-    },
-    {
-        "name": "Gal Mekel",
-        "salary": "$947,276"
-    },
-    {
-        "name": "Garrett Temple",
-        "salary": "$1,100,602"
-    },
-    {
-        "name": "Gary Harris",
-        "salary": "$1,587,480"
-    },
-    {
-        "name": "Gary Neal",
-        "salary": "$2,139,000"
-    },
-    {
-        "name": "George Hill",
-        "salary": "$8,000,000"
-    },
-    {
-        "name": "Gerald Green",
-        "salary": "$1,362,897"
-    },
-    {
-        "name": "Gerald Henderson",
-        "salary": "$6,000,000"
-    },
-    {
-        "name": "Gerald Wallace",
-        "salary": "$10,105,855"
-    },
-    {
-        "name": "Giannis Antetokounmpo",
-        "salary": "$1,953,960"
-    },
-    {
-        "name": "Glenn Robinson III",
-        "salary": "$1,100,000"
-    },
-    {
-        "name": "Goran Dragic",
-        "salary": "$14,783,000"
-    },
-    {
-        "name": "Gordon Hayward",
-        "salary": "$15,409,570"
-    },
-    {
-        "name": "Gorgui Dieng",
-        "salary": "$1,474,440"
-    },
-    {
-        "name": "Greg Monroe",
-        "salary": "$16,407,500"
-    },
-    {
-        "name": "Greg Smith",
-        "salary": "$197,111"
-    },
-    {
-        "name": "Greivis Vasquez",
-        "salary": "$6,600,000"
-    },
-    {
-        "name": "Harrison Barnes",
-        "salary": "$3,873,398"
-    },
-    {
-        "name": "Hassan Whiteside",
-        "salary": "$981,348"
-    },
-    {
-        "name": "Henry Sims",
-        "salary": "$161,633"
-    },
-    {
-        "name": "Hollis Thompson",
-        "salary": "$947,276"
-    },
-    {
-        "name": "Ian Clark",
-        "salary": "$947,276"
-    },
-    {
-        "name": "Ian Mahinmi",
-        "salary": "$4,000,000"
-    },
-    {
-        "name": "Iman Shumpert",
-        "salary": "$8,988,765"
-    },
-    {
-        "name": "Isaiah Canaan",
-        "salary": "$947,276"
-    },
-    {
-        "name": "Isaiah Thomas",
-        "salary": "$6,912,869"
-    },
-    {
-        "name": "Ishmael Smith",
-        "salary": "$1,100,602"
-    },
-    {
-        "name": "Jabari Parker",
-        "salary": "$5,152,440"
-    },
-    {
-        "name": "Jae Crowder",
-        "salary": "$6,796,117"
-    },
-    {
-        "name": "Jahlil Okafor",
-        "salary": "$4,582,680"
-    },
-    {
-        "name": "JaKarr Sampson",
-        "salary": "$1,103,547"
-    },
-    {
-        "name": "Jamal Crawford",
-        "salary": "$5,675,000"
-    },
-    {
-        "name": "Jameer Nelson",
-        "salary": "$4,345,000"
-    },
-    {
-        "name": "James Anderson",
-        "salary": "$1,015,421"
-    },
-    {
-        "name": "James Ennis",
-        "salary": "$944,477"
-    },
-    {
-        "name": "James Harden",
-        "salary": "$15,719,062"
-    },
-    {
-        "name": "James Johnson",
-        "salary": "$2,500,000"
-    },
-    {
-        "name": "James Jones",
-        "salary": "$1,499,187"
-    },
-    {
-        "name": "James Michael McAdoo",
-        "salary": "$845,059"
-    },
-    {
-        "name": "James Young",
-        "salary": "$1,749,840"
-    },
-    {
-        "name": "JaMychal Green",
-        "salary": "$845,059"
-    },
-    {
-        "name": "Jared Cunningham",
-        "salary": "$1,039,074"
-    },
-    {
-        "name": "Jared Dudley",
-        "salary": "$4,250,000"
-    },
-    {
-        "name": "Jared Sullinger",
-        "salary": "$2,269,260"
-    },
-    {
-        "name": "Jarell Eddie",
-        "salary": "$349,032"
-    },
-    {
-        "name": "Jarell Martin",
-        "salary": "$1,230,840"
-    },
-    {
-        "name": "Jarnell Stokes",
-        "salary": "$845,059"
-    },
-    {
-        "name": "Jarrett Jack",
-        "salary": "$6,300,000"
-    },
-    {
-        "name": "Jason Smith",
-        "salary": "$4,300,000"
-    },
-    {
-        "name": "Jason Terry",
-        "salary": "$1,499,187"
-    },
-    {
-        "name": "Jason Thompson",
-        "salary": "$6,752,729"
-    },
-    {
-        "name": "JaVale McGee",
-        "salary": "$13,270,964"
-    },
-    {
-        "name": "Jeff Ayres",
-        "salary": "$251,890"
-    },
-    {
-        "name": "Jeff Green",
-        "salary": "$9,200,000"
-    },
-    {
-        "name": "Jeff Teague",
-        "salary": "$8,000,000"
-    },
-    {
-        "name": "Jeff Withey",
-        "salary": "$947,276"
-    },
-    {
-        "name": "Jerami Grant",
-        "salary": "$845,059"
-    },
-    {
-        "name": "Jeremy Evans",
-        "salary": "$1,185,784"
-    },
-    {
-        "name": "Jeremy Lamb",
-        "salary": "$3,034,356"
-    },
-    {
-        "name": "Jeremy Lin",
-        "salary": "$2,139,000"
-    },
-    {
-        "name": "Jerian Grant",
-        "salary": "$1,572,360"
-    },
-    {
-        "name": "Jerryd Bayless",
-        "salary": "$3,000,000"
-    },
-    {
-        "name": "Jimmer Fredette",
-        "salary": "$625,167"
-    },
-    {
-        "name": "Jimmy Butler",
-        "salary": "$16,407,500"
-    },
-    {
-        "name": "JJ Hickson",
-        "salary": "$5,583,413"
-    },
-    {
-        "name": "JJ O'Brien",
-        "salary": "$30,887"
-    },
-    {
-        "name": "JJ Redick",
-        "salary": "$7,085,000"
-    },
-    {
-        "name": "Joakim Noah",
-        "salary": "$13,400,000"
-    },
-    {
-        "name": "Jodie Meeks",
-        "salary": "$6,270,000"
-    },
-    {
-        "name": "Joe Harris",
-        "salary": "$845,059"
-    },
-    {
-        "name": "Joe Ingles",
-        "salary": "$2,100,000"
-    },
-    {
-        "name": "Joe Johnson",
-        "salary": "$22,309,344"
-    },
-    {
-        "name": "Joel Anthony",
-        "salary": "$2,500,000"
-    },
-    {
-        "name": "Joel Embiid",
-        "salary": "$4,626,960"
-    },
-    {
-        "name": "Joey Dorsey",
-        "salary": "$1,015,421"
-    },
-    {
-        "name": "Joffrey Lauvergne",
-        "salary": "$1,709,719"
-    },
-    {
-        "name": "John Henson",
-        "salary": "$2,943,220"
-    },
-    {
-        "name": "John Holland",
-        "salary": "$9,266"
-    },
-    {
-        "name": "John Jenkins",
-        "salary": "$981,349"
-    },
-    {
-        "name": "John Wall",
-        "salary": "$14,728,844"
-    },
-    {
-        "name": "Johnny O'Bryant",
-        "salary": "$845,059"
-    },
-    {
-        "name": "Jon Leuer",
-        "salary": "$1,035,000"
-    },
-    {
-        "name": "Jonas Jerebko",
-        "salary": "$5,000,000"
-    },
-    {
-        "name": "Jonas Valanciunas",
-        "salary": "$4,660,482"
-    },
-    {
-        "name": "Jonathan Holmes",
-        "salary": "$100,000"
-    },
-    {
-        "name": "Jonathon Simmons",
-        "salary": "$525,093"
-    },
-    {
-        "name": "Jordan Adams",
-        "salary": "$1,404,600"
-    },
-    {
-        "name": "Jordan Clarkson",
-        "salary": "$845,059"
-    },
-    {
-        "name": "Jordan Farmar",
-        "salary": "$2,291,455"
-    },
-    {
-        "name": "Jordan Hamilton",
-        "salary": "$119,461"
-    },
-    {
-        "name": "Jordan Hill",
-        "salary": "$4,000,000"
-    },
-    {
-        "name": "Jordan McRae",
-        "salary": "$172,971"
-    },
-    {
-        "name": "Jordan Mickey",
-        "salary": "$1,170,960"
-    },
-    {
-        "name": "Jorge Gutierrez",
-        "salary": "$300,899"
-    },
-    {
-        "name": "Jose Calderon",
-        "salary": "$7,402,812"
-    },
-    {
-        "name": "Jose Juan Barea",
-        "salary": "$4,290,000"
-    },
-    {
-        "name": "Joseph Young",
-        "salary": "$1,007,026"
-    },
-    {
-        "name": "Josh Huestis",
-        "salary": "$1,140,240"
-    },
-    {
-        "name": "Josh McRoberts",
-        "salary": "$5,543,725"
-    },
-    {
-        "name": "Josh Richardson",
-        "salary": "$525,093"
-    },
-    {
-        "name": "Josh Smith",
-        "salary": "$6,830,916"
-    },
-    {
-        "name": "JR Smith",
-        "salary": "$5,000,000"
-    },
-    {
-        "name": "Jrue Holiday",
-        "salary": "$11,000,000"
-    },
-    {
-        "name": "Julius Randle",
-        "salary": "$3,132,240"
-    },
-    {
-        "name": "Justin Anderson",
-        "salary": "$1,449,000"
-    },
-    {
-        "name": "Justin Harper",
-        "salary": "$99,418"
-    },
-    {
-        "name": "Justin Holiday",
-        "salary": "$947,276"
-    },
-    {
-        "name": "Justise Winslow",
-        "salary": "$2,481,720"
-    },
-    {
-        "name": "Jusuf Nurkic",
-        "salary": "$1,842,000"
-    },
-    {
-        "name": "Karl-Anthony Towns",
-        "salary": "$5,703,600"
-    },
-    {
-        "name": "Kawhi Leonard",
-        "salary": "$16,407,500"
-    },
-    {
-        "name": "Keith Appling",
-        "salary": "$61,775"
-    },
-    {
-        "name": "Kelly Olynyk",
-        "salary": "$2,165,160"
-    },
-    {
-        "name": "Kelly Oubre",
-        "salary": "$1,920,240"
-    },
-    {
-        "name": "Kemba Walker",
-        "salary": "$12,000,000"
-    },
-    {
-        "name": "Kendall Marshall",
-        "salary": "$2,144,772"
-    },
-    {
-        "name": "Kendrick Perkins",
-        "salary": "$1,499,187"
-    },
-    {
-        "name": "Kenneth Faried",
-        "salary": "$11,235,955"
-    },
-    {
-        "name": "Kent Bazemore",
-        "salary": "$2,000,000"
-    },
-    {
-        "name": "Kentavious Caldwell-Pope",
-        "salary": "$2,891,760"
-    },
-    {
-        "name": "Kevin Durant",
-        "salary": "$21,971,850"
-    },
-    {
-        "name": "Kevin Garnett",
-        "salary": "$8,500,000"
-    },
-    {
-        "name": "Kevin Love",
-        "salary": "$19,689,000"
-    },
-    {
-        "name": "Kevin Martin",
-        "salary": "$7,402,474"
-    },
-    {
-        "name": "Kevin Seraphin",
-        "salary": "$2,814,000"
-    },
-    {
-        "name": "Kevon Looney",
-        "salary": "$1,131,960"
-    },
-    {
-        "name": "Khris Middleton",
-        "salary": "$14,700,000"
-    },
-    {
-        "name": "Kirk Hinrich",
-        "salary": "$2,870,000"
-    },
-    {
-        "name": "KJ McDaniels",
-        "salary": "$3,189,794"
-    },
-    {
-        "name": "Klay Thompson",
-        "salary": "$15,501,000"
-    },
-    {
-        "name": "Kobe Bryant",
-        "salary": "$25,000,000"
-    },
-    {
-        "name": "Kosta Koufos",
-        "salary": "$7,700,000"
-    },
-    {
-        "name": "Kostas Papanikolaou",
-        "salary": "$800,320"
-    },
-    {
-        "name": "Kris Humphries",
-        "salary": "$4,440,000"
-    },
-    {
-        "name": "Kristaps Porzingis",
-        "salary": "$4,131,720"
-    },
-    {
-        "name": "Kyle Anderson",
-        "salary": "$1,142,880"
-    },
-    {
-        "name": "Kyle Korver",
-        "salary": "$5,746,479"
-    },
-    {
-        "name": "Kyle Lowry",
-        "salary": "$12,000,000"
-    },
-    {
-        "name": "Kyle O'Quinn",
-        "salary": "$3,750,000"
-    },
-    {
-        "name": "Kyle Singler",
-        "salary": "$4,500,000"
-    },
-    {
-        "name": "Kyrie Irving",
-        "salary": "$16,407,500"
-    },
-    {
-        "name": "Lamar Patterson",
-        "salary": "$525,093"
-    },
-    {
-        "name": "LaMarcus Aldridge",
-        "salary": "$19,689,000"
-    },
-    {
-        "name": "Lance Stephenson",
-        "salary": "$9,000,000"
-    },
-    {
-        "name": "Lance Thomas",
-        "salary": "$1,636,842"
-    },
-    {
-        "name": "Langston Galloway",
-        "salary": "$845,059"
-    },
-    {
-        "name": "Larry Nance Jr",
-        "salary": "$1,155,600"
-    },
-    {
-        "name": "Larry Sanders",
-        "salary": "$5,000,000"
-    },
-    {
-        "name": "Lavoy Allen",
-        "salary": "$3,550,000"
-    },
-    {
-        "name": "Leandro Barbosa",
-        "salary": "$2,500,000"
-    },
-    {
-        "name": "LeBron James",
-        "salary": "$22,970,500"
-    },
-    {
-        "name": "Lorenzo Brown",
-        "salary": "$222,888"
-    },
-    {
-        "name": "Louis Amundson",
-        "salary": "$1,700,000"
-    },
-    {
-        "name": "Louis Williams",
-        "salary": "$7,000,000"
-    },
-    {
-        "name": "Luc Mbah a Moute",
-        "salary": "$1,270,964"
-    },
-    {
-        "name": "Lucas Nogueira",
-        "salary": "$1,842,000"
-    },
-    {
-        "name": "Luis Montero",
-        "salary": "$525,093"
-    },
-    {
-        "name": "Luis Scola",
-        "salary": "$2,900,000"
-    },
-    {
-        "name": "Luke Babbitt",
-        "salary": "$1,100,602"
-    },
-    {
-        "name": "Luol Deng",
-        "salary": "$10,151,612"
-    },
-    {
-        "name": "Manu Ginobili",
-        "salary": "$2,814,000"
-    },
-    {
-        "name": "Marc Gasol",
-        "salary": "$19,689,000"
-    },
-    {
-        "name": "Marcelo Huertas",
-        "salary": "$525,093"
-    },
-    {
-        "name": "Marcin Gortat",
-        "salary": "$11,217,391"
-    },
-    {
-        "name": "Marco Belinelli",
-        "salary": "$6,060,606"
-    },
-    {
-        "name": "Marcus Morris",
-        "salary": "$5,000,000"
-    },
-    {
-        "name": "Marcus Smart",
-        "salary": "$3,431,040"
-    },
-    {
-        "name": "Marcus Thornton",
-        "salary": "$1,436,891"
-    },
-    {
-        "name": "Mario Chalmers",
-        "salary": "$4,300,000"
-    },
-    {
-        "name": "Mario Hezonja",
-        "salary": "$3,741,480"
-    },
-    {
-        "name": "Markel Brown",
-        "salary": "$845,059"
-    },
-    {
-        "name": "Markieff Morris",
-        "salary": "$8,000,000"
-    },
-    {
-        "name": "Marreese Speights",
-        "salary": "$3,815,500"
-    },
-    {
-        "name": "Martell Webster",
-        "salary": "$5,713,500"
-    },
-    {
-        "name": "Marvin Williams",
-        "salary": "$7,000,000"
-    },
-    {
-        "name": "Mason Plumlee",
-        "salary": "$1,415,520"
-    },
-    {
-        "name": "Matt Barnes",
-        "salary": "$3,542,500"
-    },
-    {
-        "name": "Matt Bonner",
-        "salary": "$1,499,187"
-    },
-    {
-        "name": "Matthew Dellavedova",
-        "salary": "$1,347,276"
-    },
-    {
-        "name": "Maurice Ndour",
-        "salary": "$525,093"
-    },
-    {
-        "name": "Maurice Williams",
-        "salary": "$2,100,000"
-    },
-    {
-        "name": "Metta World Peace",
-        "salary": "$1,499,187"
-    },
-    {
-        "name": "Meyers Leonard",
-        "salary": "$3,075,879"
-    },
-    {
-        "name": "Michael Beasley",
-        "salary": "$306,526"
-    },
-    {
-        "name": "Michael Carter-Williams",
-        "salary": "$2,399,040"
-    },
-    {
-        "name": "Michael Frazier",
-        "salary": "$525,093"
-    },
-    {
-        "name": "Michael Kidd-Gilchrist",
-        "salary": "$6,331,403"
-    },
-    {
-        "name": "Mike Conley",
-        "salary": "$9,680,000"
-    },
-    {
-        "name": "Mike Dunleavy",
-        "salary": "$4,837,500"
-    },
-    {
-        "name": "Mike Miller",
-        "salary": "$4,354,127"
-    },
-    {
-        "name": "Mike Muscala",
-        "salary": "$947,276"
-    },
-    {
-        "name": "Mike Scott",
-        "salary": "$3,333,333"
-    },
-    {
-        "name": "Miles Plumlee",
-        "salary": "$2,109,293"
-    },
-    {
-        "name": "Mirza Teletovic",
-        "salary": "$5,500,000"
-    },
-    {
-        "name": "Mitch McGary",
-        "salary": "$1,463,040"
-    },
-    {
-        "name": "Moe Harkless",
-        "salary": "$2,894,058"
-    },
-    {
-        "name": "Monta Ellis",
-        "salary": "$10,300,000"
-    },
-    {
-        "name": "Montrezl Harrell",
-        "salary": "$1,000,000"
-    },
-    {
-        "name": "Myles Turner",
-        "salary": "$2,277,960"
-    },
-    {
-        "name": "Nate Robinson",
-        "salary": "$26,456"
-    },
-    {
-        "name": "Nazr Mohammed",
-        "salary": "$352,749"
-    },
-    {
-        "name": "Nemanja Bjelica",
-        "salary": "$3,950,000"
-    },
-    {
-        "name": "Nen\u00c3\u00aa",
-        "salary": "$13,000,000"
-    },
-    {
-        "name": "Nerlens Noel",
-        "salary": "$3,457,800"
-    },
-    {
-        "name": "Nick Collison",
-        "salary": "$3,750,000"
-    },
-    {
-        "name": "Nick Johnson",
-        "salary": "$845,059"
-    },
-    {
-        "name": "Nick Young",
-        "salary": "$5,219,169"
-    },
-    {
-        "name": "Nicolas Batum",
-        "salary": "$11,860,750"
-    },
-    {
-        "name": "Nik Stauskas",
-        "salary": "$2,869,440"
-    },
-    {
-        "name": "Nikola Jokic",
-        "salary": "$1,300,000"
-    },
-    {
-        "name": "Nikola Mirotic",
-        "salary": "$5,543,725"
-    },
-    {
-        "name": "Nikola Pekovic",
-        "salary": "$12,100,000"
-    },
-    {
-        "name": "Nikola Vucevic",
-        "salary": "$11,250,000"
-    },
-    {
-        "name": "Noah Vonleh",
-        "salary": "$2,637,720"
-    },
-    {
-        "name": "Norman Powell",
-        "salary": "$650,000"
-    },
-    {
-        "name": "Norris Cole",
-        "salary": "$3,203,780"
-    },
-    {
-        "name": "OJ Mayo",
-        "salary": "$8,000,000"
-    },
-    {
-        "name": "Omer Asik",
-        "salary": "$9,213,483"
-    },
-    {
-        "name": "Omri Casspi",
-        "salary": "$2,836,186"
-    },
-    {
-        "name": "Orlando Johnson",
-        "salary": "$111,444"
-    },
-    {
-        "name": "Otto Porter",
-        "salary": "$4,662,960"
-    },
-    {
-        "name": "Pablo Prigioni",
-        "salary": "$1,421,348"
-    },
-    {
-        "name": "Pat Connaughton",
-        "salary": "$625,093"
-    },
-    {
-        "name": "Patrick Beverley",
-        "salary": "$6,486,486"
-    },
-    {
-        "name": "Patrick Mills",
-        "salary": "$3,200,000"
-    },
-    {
-        "name": "Patrick Patterson",
-        "salary": "$6,268,675"
-    },
-    {
-        "name": "Pau Gasol",
-        "salary": "$7,448,760"
-    },
-    {
-        "name": "Paul George",
-        "salary": "$16,900,000"
-    },
-    {
-        "name": "Paul Millsap",
-        "salary": "$18,671,659"
-    },
-    {
-        "name": "Paul Pierce",
-        "salary": "$3,376,000"
-    },
-    {
-        "name": "Perry Jones",
-        "salary": "$2,038,206"
-    },
-    {
-        "name": "Phil Pressey",
-        "salary": "$1,014,142"
-    },
-    {
-        "name": "Pierre Jackson",
-        "salary": "$750,000"
-    },
-    {
-        "name": "PJ Hairston",
-        "salary": "$1,201,440"
-    },
-    {
-        "name": "PJ Tucker",
-        "salary": "$5,500,000"
-    },
-    {
-        "name": "Quincy Acy",
-        "salary": "$981,348"
-    },
-    {
-        "name": "Quincy Miller",
-        "salary": "$50,000"
-    },
-    {
-        "name": "Quincy Pondexter",
-        "salary": "$3,382,023"
-    },
-    {
-        "name": "Rajon Rondo",
-        "salary": "$9,500,000"
-    },
-    {
-        "name": "Rakeem Christmas",
-        "salary": "$1,007,026"
-    },
-    {
-        "name": "Ramon Sessions",
-        "salary": "$2,170,465"
-    },
-    {
-        "name": "Randy Foye",
-        "salary": "$3,135,000"
-    },
-    {
-        "name": "Rashad Vaughn",
-        "salary": "$1,733,040"
-    },
-    {
-        "name": "Rasual Butler",
-        "salary": "$1,499,187"
-    },
-    {
-        "name": "Raul Neto",
-        "salary": "$840,000"
-    },
-    {
-        "name": "Ray McCallum",
-        "salary": "$1,076,758"
-    },
-    {
-        "name": "Raymond Felton",
-        "salary": "$4,540,000"
-    },
-    {
-        "name": "Reggie Bullock",
-        "salary": "$1,252,400"
-    },
-    {
-        "name": "Reggie Jackson",
-        "salary": "$13,913,044"
-    },
-    {
-        "name": "Richard Jefferson",
-        "salary": "$1,499,187"
-    },
-    {
-        "name": "Richaun Holmes",
-        "salary": "$1,075,000"
-    },
-    {
-        "name": "Ricky Rubio",
-        "salary": "$12,700,000"
-    },
-    {
-        "name": "RJ Hunter",
-        "salary": "$1,148,640"
-    },
-    {
-        "name": "Robert Covington",
-        "salary": "$1,000,000"
-    },
-    {
-        "name": "Robert Sacre",
-        "salary": "$981,358"
-    },
-    {
-        "name": "Robin Lopez",
-        "salary": "$12,650,000"
-    },
-    {
-        "name": "Rodney Hood",
-        "salary": "$1,348,440"
-    },
-    {
-        "name": "Rodney Stuckey",
-        "salary": "$7,000,000"
-    },
-    {
-        "name": "Rondae Hollis-Jefferson",
-        "salary": "$1,335,480"
-    },
-    {
-        "name": "Ronnie Price",
-        "salary": "$1,499,187"
-    },
-    {
-        "name": "Roy Hibbert",
-        "salary": "$15,514,031"
-    },
-    {
-        "name": "Rudy Gay",
-        "salary": "$12,403,101"
-    },
-    {
-        "name": "Rudy Gobert",
-        "salary": "$1,175,880"
-    },
-    {
-        "name": "Russ Smith",
-        "salary": "$845,059"
-    },
-    {
-        "name": "Russell Westbrook",
-        "salary": "$16,744,218"
-    },
-    {
-        "name": "Ryan Anderson",
-        "salary": "$8,500,000"
-    },
-    {
-        "name": "Ryan Hollins",
-        "salary": "$615,906"
-    },
-    {
-        "name": "Ryan Kelly",
-        "salary": "$1,724,250"
-    },
-    {
-        "name": "Salah Mejri",
-        "salary": "$525,093"
-    },
-    {
-        "name": "Sam Dekker",
-        "salary": "$1,646,400"
-    },
-    {
-        "name": "Samuel Dalembert",
-        "salary": "$1,499,187"
-    },
-    {
-        "name": "Sasha Kaun",
-        "salary": "$1,276,000"
-    },
-    {
-        "name": "Sasha Vujacic",
-        "salary": "$1,356,146"
-    },
-    {
-        "name": "Scottie Wilbekin",
-        "salary": "$200,000"
-    },
-    {
-        "name": "Sean Kilpatrick",
-        "salary": "$320,594"
-    },
-    {
-        "name": "Serge Ibaka",
-        "salary": "$12,250,000"
-    },
-    {
-        "name": "Sergey Karasev",
-        "salary": "$1,599,840"
-    },
-    {
-        "name": "Seth Curry",
-        "salary": "$947,276"
-    },
-    {
-        "name": "Shabazz Muhammad",
-        "salary": "$2,056,920"
-    },
-    {
-        "name": "Shabazz Napier",
-        "salary": "$1,294,440"
-    },
-    {
-        "name": "Shane Larkin",
-        "salary": "$1,500,000"
-    },
-    {
-        "name": "Shaun Livingston",
-        "salary": "$5,543,725"
-    },
-    {
-        "name": "Shayne Whittington",
-        "salary": "$845,059"
-    },
-    {
-        "name": "Shelvin Mack",
-        "salary": "$2,433,333"
-    },
-    {
-        "name": "Solomon Hill",
-        "salary": "$1,358,880"
-    },
-    {
-        "name": "Sonny Weems",
-        "salary": "$2,814,000"
-    },
-    {
-        "name": "Spencer Dinwiddie",
-        "salary": "$845,059"
-    },
-    {
-        "name": "Spencer Hawes",
-        "salary": "$5,543,725"
-    },
-    {
-        "name": "Stanley Johnson",
-        "salary": "$2,841,960"
-    },
-    {
-        "name": "Stephen Curry",
-        "salary": "$11,370,786"
-    },
-    {
-        "name": "Steve Blake",
-        "salary": "$2,100,000"
-    },
-    {
-        "name": "Steve Novak",
-        "salary": "$3,758,017"
-    },
-    {
-        "name": "Steven Adams",
-        "salary": "$2,279,040"
-    },
-    {
-        "name": "Taj Gibson",
-        "salary": "$8,500,000"
-    },
-    {
-        "name": "Tarik Black",
-        "salary": "$845,059"
-    },
-    {
-        "name": "Tayshaun Prince",
-        "salary": "$1,499,187"
-    },
-    {
-        "name": "Terrence Jones",
-        "salary": "$2,489,529"
-    },
-    {
-        "name": "Terrence Ross",
-        "salary": "$3,553,917"
-    },
-    {
-        "name": "Terry Rozier",
-        "salary": "$1,824,360"
-    },
-    {
-        "name": "Thabo Sefolosha",
-        "salary": "$4,000,000"
-    },
-    {
-        "name": "Thaddeus Young",
-        "salary": "$11,235,955"
-    },
-    {
-        "name": "Thanasis Antetokounmpo",
-        "salary": "$30,887"
-    },
-    {
-        "name": "Thomas Robinson",
-        "salary": "$981,348"
-    },
-    {
-        "name": "Tiago Splitter",
-        "salary": "$8,500,000"
-    },
-    {
-        "name": "Tibor Pleiss",
-        "salary": "$2,700,000"
-    },
-    {
-        "name": "Tim Duncan",
-        "salary": "$5,250,000"
-    },
-    {
-        "name": "Tim Frazier",
-        "salary": "$989,216"
-    },
-    {
-        "name": "Tim Hardaway Jr",
-        "salary": "$1,304,520"
-    },
-    {
-        "name": "Timofey Mozgov",
-        "salary": "$4,950,000"
-    },
-    {
-        "name": "TJ McConnell",
-        "salary": "$525,093"
-    },
-    {
-        "name": "TJ Warren",
-        "salary": "$2,041,080"
-    },
-    {
-        "name": "Tobias Harris",
-        "salary": "$16,000,000"
-    },
-    {
-        "name": "Toney Douglas",
-        "salary": "$2,971,568"
-    },
-    {
-        "name": "Tony Allen",
-        "salary": "$5,000,000"
-    },
-    {
-        "name": "Tony Parker",
-        "salary": "$13,437,500"
-    },
-    {
-        "name": "Tony Snell",
-        "salary": "$1,535,880"
-    },
-    {
-        "name": "Tony Wroten",
-        "salary": "$2,346,760"
-    },
-    {
-        "name": "Treveon Graham",
-        "salary": "$525,093"
-    },
-    {
-        "name": "Trevor Ariza",
-        "salary": "$8,200,000"
-    },
-    {
-        "name": "Trevor Booker",
-        "salary": "$4,775,000"
-    },
-    {
-        "name": "Trey Burke",
-        "salary": "$2,658,240"
-    },
-    {
-        "name": "Trey Lyles",
-        "salary": "$2,239,800"
-    },
-    {
-        "name": "Tristan Thompson",
-        "salary": "$14,260,000"
-    },
-    {
-        "name": "Troy Daniels",
-        "salary": "$947,276"
-    },
-    {
-        "name": "Ty Lawson",
-        "salary": "$12,444,552"
-    },
-    {
-        "name": "Tyler Ennis",
-        "salary": "$1,662,360"
-    },
-    {
-        "name": "Tyler Hansbrough",
-        "salary": "$1,185,784"
-    },
-    {
-        "name": "Tyler Johnson",
-        "salary": "$845,059"
-    },
-    {
-        "name": "Tyler Zeller",
-        "salary": "$2,616,975"
-    },
-    {
-        "name": "Tyreke Evans",
-        "salary": "$10,734,586"
-    },
-    {
-        "name": "Tyson Chandler",
-        "salary": "$13,000,000"
-    },
-    {
-        "name": "Tyus Jones",
-        "salary": "$1,282,080"
-    },
-    {
-        "name": "Udonis Haslem",
-        "salary": "$2,854,940"
-    },
-    {
-        "name": "Victor Oladipo",
-        "salary": "$5,192,520"
-    },
-    {
-        "name": "Vince Carter",
-        "salary": "$4,088,019"
-    },
-    {
-        "name": "Walter Tavares",
-        "salary": "$1,000,000"
-    },
-    {
-        "name": "Wayne Ellington",
-        "salary": "$1,500,000"
-    },
-    {
-        "name": "Wesley Johnson",
-        "salary": "$1,100,602"
-    },
-    {
-        "name": "Wesley Matthews",
-        "salary": "$16,407,500"
-    },
-    {
-        "name": "Will Barton",
-        "salary": "$3,533,333"
-    },
-    {
-        "name": "Willie Cauley-Stein",
-        "salary": "$3,398,280"
-    },
-    {
-        "name": "Willie Reed",
-        "salary": "$525,093"
-    },
-    {
-        "name": "Wilson Chandler",
-        "salary": "$10,449,438"
-    },
-    {
-        "name": "Xavier Munford",
-        "salary": "$123,548"
-    },
-    {
-        "name": "Zach LaVine",
-        "salary": "$2,148,360"
-    },
-    {
-        "name": "Zach Randolph",
-        "salary": "$10,000,000"
-    },
-    {
-        "name": "Zaza Pachulia",
-        "salary": "$5,200,000"
-    },
-    {
-        "name": "Zoran Dragic",
-        "salary": "$1,756,500"
+        "name": "Aaron Brooks", 
+        "salary": 2250000
+    }, 
+    {
+        "name": "Aaron Gordon", 
+        "salary": 4171680
+    }, 
+    {
+        "name": "Aaron Gray", 
+        "salary": 1356146
+    }, 
+    {
+        "name": "Aaron Harrison", 
+        "salary": 525093
+    }, 
+    {
+        "name": "Adreian Payne", 
+        "salary": 1938840
+    }, 
+    {
+        "name": "Al Horford", 
+        "salary": 12000000
+    }, 
+    {
+        "name": "Al Jefferson", 
+        "salary": 13500000
+    }, 
+    {
+        "name": "Al-Farouq Aminu", 
+        "salary": 8042895
+    }, 
+    {
+        "name": "Alan Anderson", 
+        "salary": 4000000
+    }, 
+    {
+        "name": "Alan Williams", 
+        "salary": 114284
+    }, 
+    {
+        "name": "Alec Burks", 
+        "salary": 9213484
+    }, 
+    {
+        "name": "Alex Len", 
+        "salary": 3807120
+    }, 
+    {
+        "name": "Alex Stepheson", 
+        "salary": 92662
+    }, 
+    {
+        "name": "Alexis Ajinca", 
+        "salary": 4539607
+    }, 
+    {
+        "name": "Allen Crabbe", 
+        "salary": 947276
+    }, 
+    {
+        "name": "Alonzo Gee", 
+        "salary": 1320000
+    }, 
+    {
+        "name": "Amare Stoudemire", 
+        "salary": 1499187
+    }, 
+    {
+        "name": "Amir Johnson", 
+        "salary": 12000000
+    }, 
+    {
+        "name": "Anderson Varejao", 
+        "salary": 10158574
+    }, 
+    {
+        "name": "Andre Drummond", 
+        "salary": 3272090
+    }, 
+    {
+        "name": "Andre Iguodala", 
+        "salary": 11710456
+    }, 
+    {
+        "name": "Andre Miller", 
+        "salary": 1490369
+    }, 
+    {
+        "name": "Andre Roberson", 
+        "salary": 1210800
+    }, 
+    {
+        "name": "Andrea Bargnani", 
+        "salary": 1362897
+    }, 
+    {
+        "name": "Andrew Bogut", 
+        "salary": 12000000
+    }, 
+    {
+        "name": "Andrew Goudelock", 
+        "salary": 200600
+    }, 
+    {
+        "name": "Andrew Nicholson", 
+        "salary": 2380593
+    }, 
+    {
+        "name": "Andrew Wiggins", 
+        "salary": 5758680
+    }, 
+    {
+        "name": "Anthony Bennett", 
+        "salary": 4597276
+    }, 
+    {
+        "name": "Anthony Brown", 
+        "salary": 525093
+    }, 
+    {
+        "name": "Anthony Davis", 
+        "salary": 7070730
+    }, 
+    {
+        "name": "Anthony Morrow", 
+        "salary": 3344000
+    }, 
+    {
+        "name": "Anthony Tolliver", 
+        "salary": 3000000
+    }, 
+    {
+        "name": "Archie Goodwin", 
+        "salary": 1160160
+    }, 
+    {
+        "name": "Aron Baynes", 
+        "salary": 6500000
+    }, 
+    {
+        "name": "Arron Afflalo", 
+        "salary": 8000000
+    }, 
+    {
+        "name": "Austin Rivers", 
+        "salary": 3110796
+    }, 
+    {
+        "name": "Avery Bradley", 
+        "salary": 7730337
+    }, 
+    {
+        "name": "Axel Toupane", 
+        "salary": 61775
+    }, 
+    {
+        "name": "Ben McLemore", 
+        "salary": 3156600
+    }, 
+    {
+        "name": "Beno Udrih", 
+        "salary": 2080465
+    }, 
+    {
+        "name": "Bismack Biyombo", 
+        "salary": 2814000
+    }, 
+    {
+        "name": "Blake Griffin", 
+        "salary": 18862876
+    }, 
+    {
+        "name": "Boban Marjanovic", 
+        "salary": 1200000
+    }, 
+    {
+        "name": "Bobby Portis", 
+        "salary": 1344120
+    }, 
+    {
+        "name": "Bojan Bogdanovic", 
+        "salary": 3425510
+    }, 
+    {
+        "name": "Boris Diaw", 
+        "salary": 7500000
+    }, 
+    {
+        "name": "Bradley Beal", 
+        "salary": 5694673
+    }, 
+    {
+        "name": "Brandan Wright", 
+        "salary": 5464000
+    }, 
+    {
+        "name": "Branden Dawson", 
+        "salary": 525093
+    }, 
+    {
+        "name": "Brandon Bass", 
+        "salary": 3000000
+    }, 
+    {
+        "name": "Brandon Jennings", 
+        "salary": 8344497
+    }, 
+    {
+        "name": "Brandon Knight", 
+        "salary": 13500000
+    }, 
+    {
+        "name": "Brandon Rush", 
+        "salary": 1270964
+    }, 
+    {
+        "name": "Brian Roberts", 
+        "salary": 2854940
+    }, 
+    {
+        "name": "Briante Weber", 
+        "salary": 61774
+    }, 
+    {
+        "name": "Brook Lopez", 
+        "salary": 19689000
+    }, 
+    {
+        "name": "Bruno Caboclo", 
+        "salary": 1524000
+    }, 
+    {
+        "name": "Bryce Cotton", 
+        "salary": 99418
+    }, 
+    {
+        "name": "Bryce Dejean-Jones", 
+        "salary": 61775
+    }, 
+    {
+        "name": "Cameron Bairstow", 
+        "salary": 845059
+    }, 
+    {
+        "name": "Cameron Payne", 
+        "salary": 2021520
+    }, 
+    {
+        "name": "Carl Landry", 
+        "salary": 6750000
+    }, 
+    {
+        "name": "Carmelo Anthony", 
+        "salary": 22875000
+    }, 
+    {
+        "name": "Caron Butler", 
+        "salary": 1499187
+    }, 
+    {
+        "name": "Cartier Martin", 
+        "salary": 1270964
+    }, 
+    {
+        "name": "Chandler Parsons", 
+        "salary": 15361500
+    }, 
+    {
+        "name": "Channing Frye", 
+        "salary": 8193029
+    }, 
+    {
+        "name": "Charlie Villanueva", 
+        "salary": 1499187
+    }, 
+    {
+        "name": "Chase Budinger", 
+        "salary": 5258082
+    }, 
+    {
+        "name": "Chris Andersen", 
+        "salary": 5000000
+    }, 
+    {
+        "name": "Chris Bosh", 
+        "salary": 22192730
+    }, 
+    {
+        "name": "Chris Copeland", 
+        "salary": 1150000
+    }, 
+    {
+        "name": "Chris Kaman", 
+        "salary": 5000000
+    }, 
+    {
+        "name": "Chris McCullough", 
+        "salary": 1140240
+    }, 
+    {
+        "name": "Chris Paul", 
+        "salary": 21468695
+    }, 
+    {
+        "name": "Christapher Johnson", 
+        "salary": 981348
+    }, 
+    {
+        "name": "Christian Wood", 
+        "salary": 339762
+    }, 
+    {
+        "name": "Chuck Hayes", 
+        "salary": 70549
+    }, 
+    {
+        "name": "CJ McCollum", 
+        "salary": 2525160
+    }, 
+    {
+        "name": "CJ Miles", 
+        "salary": 4394225
+    }, 
+    {
+        "name": "CJ Watson", 
+        "salary": 5000000
+    }, 
+    {
+        "name": "CJ Wilcox", 
+        "salary": 1159680
+    }, 
+    {
+        "name": "Cleanthony Early", 
+        "salary": 845059
+    }, 
+    {
+        "name": "Cliff Alexander", 
+        "salary": 525093
+    }, 
+    {
+        "name": "Clint Capela", 
+        "salary": 1242720
+    }, 
+    {
+        "name": "Cody Zeller", 
+        "salary": 4204200
+    }, 
+    {
+        "name": "Cole Aldrich", 
+        "salary": 1100602
+    }, 
+    {
+        "name": "Corey Brewer", 
+        "salary": 8229375
+    }, 
+    {
+        "name": "Cory Jefferson", 
+        "salary": 362878
+    }, 
+    {
+        "name": "Cory Joseph", 
+        "salary": 7000000
+    }, 
+    {
+        "name": "Coty Clarke", 
+        "salary": 61774
+    }, 
+    {
+        "name": "Courtney Lee", 
+        "salary": 5675000
+    }, 
+    {
+        "name": "Cristiano Felicio", 
+        "salary": 525093
+    }, 
+    {
+        "name": "D'Angelo Russell", 
+        "salary": 5103120
+    }, 
+    {
+        "name": "Damian Lillard", 
+        "salary": 4236286
+    }, 
+    {
+        "name": "Damien Inglis", 
+        "salary": 855000
+    }, 
+    {
+        "name": "Damjan Rudez", 
+        "salary": 1149500
+    }, 
+    {
+        "name": "Danilo Gallinari", 
+        "salary": 14000000
+    }, 
+    {
+        "name": "Danny Granger", 
+        "salary": 2100000
+    }, 
+    {
+        "name": "Danny Green", 
+        "salary": 10000000
+    }, 
+    {
+        "name": "Dante Cunningham", 
+        "salary": 2850000
+    }, 
+    {
+        "name": "Dante Exum", 
+        "salary": 3777720
+    }, 
+    {
+        "name": "Darrell Arthur", 
+        "salary": 2814000
+    }, 
+    {
+        "name": "Darren Collison", 
+        "salary": 5013559
+    }, 
+    {
+        "name": "Darrun Hilliard", 
+        "salary": 600000
+    }, 
+    {
+        "name": "David Lee", 
+        "salary": 17120776
+    }, 
+    {
+        "name": "David West", 
+        "salary": 1499187
+    }, 
+    {
+        "name": "DeAndre Jordan", 
+        "salary": 19689000
+    }, 
+    {
+        "name": "DeJuan Blair", 
+        "salary": 2000000
+    }, 
+    {
+        "name": "Delon Wright", 
+        "salary": 1509360
+    }, 
+    {
+        "name": "DeMar DeRozan", 
+        "salary": 9500000
+    }, 
+    {
+        "name": "DeMarcus Cousins", 
+        "salary": 14728844
+    }, 
+    {
+        "name": "DeMarre Carroll", 
+        "salary": 13600000
+    }, 
+    {
+        "name": "Dennis Schroeder", 
+        "salary": 1763400
+    }, 
+    {
+        "name": "Deron Williams", 
+        "salary": 10853761
+    }, 
+    {
+        "name": "Derrick Favors", 
+        "salary": 12000000
+    }, 
+    {
+        "name": "Derrick Rose", 
+        "salary": 20093064
+    }, 
+    {
+        "name": "Derrick Williams", 
+        "salary": 4400000
+    }, 
+    {
+        "name": "Devin Booker", 
+        "salary": 2055840
+    }, 
+    {
+        "name": "Devin Harris", 
+        "salary": 4053446
+    }, 
+    {
+        "name": "Devyn Marble", 
+        "salary": 845059
+    }, 
+    {
+        "name": "Dewayne Dedmon", 
+        "salary": 947276
+    }, 
+    {
+        "name": "Dion Waiters", 
+        "salary": 5138430
+    }, 
+    {
+        "name": "Dirk Nowitzki", 
+        "salary": 8333333
+    }, 
+    {
+        "name": "DJ Augustin", 
+        "salary": 3000000
+    }, 
+    {
+        "name": "Donald Sloan", 
+        "salary": 1015421
+    }, 
+    {
+        "name": "Dorell Wright", 
+        "salary": 17637
+    }, 
+    {
+        "name": "Doug McDermott", 
+        "salary": 2380440
+    }, 
+    {
+        "name": "Draymond Green", 
+        "salary": 14260870
+    }, 
+    {
+        "name": "Drew Gooden", 
+        "salary": 3300000
+    }, 
+    {
+        "name": "Duje Dukan", 
+        "salary": 525093
+    }, 
+    {
+        "name": "Dwight Howard", 
+        "salary": 22359364
+    }, 
+    {
+        "name": "Dwight Powell", 
+        "salary": 845059
+    }, 
+    {
+        "name": "Dwyane Wade", 
+        "salary": 20000000
+    }, 
+    {
+        "name": "E'Twaun Moore", 
+        "salary": 1015421
+    }, 
+    {
+        "name": "Ed Davis", 
+        "salary": 6980802
+    }, 
+    {
+        "name": "Elfrid Payton", 
+        "salary": 2505720
+    }, 
+    {
+        "name": "Elijah Millsap", 
+        "salary": 352936
+    }, 
+    {
+        "name": "Elliot Williams", 
+        "salary": 57726
+    }, 
+    {
+        "name": "Elton Brand", 
+        "salary": 890693
+    }, 
+    {
+        "name": "Emmanuel Mudiay", 
+        "salary": 3102240
+    }, 
+    {
+        "name": "Enes Kanter", 
+        "salary": 16407500
+    }, 
+    {
+        "name": "Eric Bledsoe", 
+        "salary": 13500000
+    }, 
+    {
+        "name": "Eric Gordon", 
+        "salary": 15514031
+    }, 
+    {
+        "name": "Eric Moreland", 
+        "salary": 845059
+    }, 
+    {
+        "name": "Erick Green", 
+        "salary": 199418
+    }, 
+    {
+        "name": "Ersan Ilyasova", 
+        "salary": 7900000
+    }, 
+    {
+        "name": "Evan Fournier", 
+        "salary": 2288204
+    }, 
+    {
+        "name": "Evan Turner", 
+        "salary": 3425510
+    }, 
+    {
+        "name": "Festus Ezeli", 
+        "salary": 2008748
+    }, 
+    {
+        "name": "Frank Kaminsky", 
+        "salary": 2612520
+    }, 
+    {
+        "name": "Furkan Aldemir", 
+        "salary": 2683841
+    }, 
+    {
+        "name": "Gal Mekel", 
+        "salary": 947276
+    }, 
+    {
+        "name": "Garrett Temple", 
+        "salary": 1100602
+    }, 
+    {
+        "name": "Gary Harris", 
+        "salary": 1587480
+    }, 
+    {
+        "name": "Gary Neal", 
+        "salary": 2139000
+    }, 
+    {
+        "name": "George Hill", 
+        "salary": 8000000
+    }, 
+    {
+        "name": "Gerald Green", 
+        "salary": 1362897
+    }, 
+    {
+        "name": "Gerald Henderson", 
+        "salary": 6000000
+    }, 
+    {
+        "name": "Gerald Wallace", 
+        "salary": 10105855
+    }, 
+    {
+        "name": "Giannis Antetokounmpo", 
+        "salary": 1953960
+    }, 
+    {
+        "name": "Glenn Robinson III", 
+        "salary": 1100000
+    }, 
+    {
+        "name": "Goran Dragic", 
+        "salary": 14783000
+    }, 
+    {
+        "name": "Gordon Hayward", 
+        "salary": 15409570
+    }, 
+    {
+        "name": "Gorgui Dieng", 
+        "salary": 1474440
+    }, 
+    {
+        "name": "Greg Monroe", 
+        "salary": 16407500
+    }, 
+    {
+        "name": "Greg Smith", 
+        "salary": 197111
+    }, 
+    {
+        "name": "Greivis Vasquez", 
+        "salary": 6600000
+    }, 
+    {
+        "name": "Harrison Barnes", 
+        "salary": 3873398
+    }, 
+    {
+        "name": "Hassan Whiteside", 
+        "salary": 981348
+    }, 
+    {
+        "name": "Henry Sims", 
+        "salary": 161633
+    }, 
+    {
+        "name": "Hollis Thompson", 
+        "salary": 947276
+    }, 
+    {
+        "name": "Ian Clark", 
+        "salary": 947276
+    }, 
+    {
+        "name": "Ian Mahinmi", 
+        "salary": 4000000
+    }, 
+    {
+        "name": "Iman Shumpert", 
+        "salary": 8988765
+    }, 
+    {
+        "name": "Isaiah Canaan", 
+        "salary": 947276
+    }, 
+    {
+        "name": "Isaiah Thomas", 
+        "salary": 6912869
+    }, 
+    {
+        "name": "Ishmael Smith", 
+        "salary": 1100602
+    }, 
+    {
+        "name": "Jabari Parker", 
+        "salary": 5152440
+    }, 
+    {
+        "name": "Jae Crowder", 
+        "salary": 6796117
+    }, 
+    {
+        "name": "Jahlil Okafor", 
+        "salary": 4582680
+    }, 
+    {
+        "name": "JaKarr Sampson", 
+        "salary": 1103547
+    }, 
+    {
+        "name": "Jamal Crawford", 
+        "salary": 5675000
+    }, 
+    {
+        "name": "Jameer Nelson", 
+        "salary": 4345000
+    }, 
+    {
+        "name": "James Anderson", 
+        "salary": 1015421
+    }, 
+    {
+        "name": "James Ennis", 
+        "salary": 944477
+    }, 
+    {
+        "name": "James Harden", 
+        "salary": 15719062
+    }, 
+    {
+        "name": "James Johnson", 
+        "salary": 2500000
+    }, 
+    {
+        "name": "James Jones", 
+        "salary": 1499187
+    }, 
+    {
+        "name": "James Michael McAdoo", 
+        "salary": 845059
+    }, 
+    {
+        "name": "James Young", 
+        "salary": 1749840
+    }, 
+    {
+        "name": "JaMychal Green", 
+        "salary": 845059
+    }, 
+    {
+        "name": "Jared Cunningham", 
+        "salary": 1039074
+    }, 
+    {
+        "name": "Jared Dudley", 
+        "salary": 4250000
+    }, 
+    {
+        "name": "Jared Sullinger", 
+        "salary": 2269260
+    }, 
+    {
+        "name": "Jarell Eddie", 
+        "salary": 349032
+    }, 
+    {
+        "name": "Jarell Martin", 
+        "salary": 1230840
+    }, 
+    {
+        "name": "Jarnell Stokes", 
+        "salary": 845059
+    }, 
+    {
+        "name": "Jarrett Jack", 
+        "salary": 6300000
+    }, 
+    {
+        "name": "Jason Smith", 
+        "salary": 4300000
+    }, 
+    {
+        "name": "Jason Terry", 
+        "salary": 1499187
+    }, 
+    {
+        "name": "Jason Thompson", 
+        "salary": 6752729
+    }, 
+    {
+        "name": "JaVale McGee", 
+        "salary": 13270964
+    }, 
+    {
+        "name": "Jeff Ayres", 
+        "salary": 251890
+    }, 
+    {
+        "name": "Jeff Green", 
+        "salary": 9200000
+    }, 
+    {
+        "name": "Jeff Teague", 
+        "salary": 8000000
+    }, 
+    {
+        "name": "Jeff Withey", 
+        "salary": 947276
+    }, 
+    {
+        "name": "Jerami Grant", 
+        "salary": 845059
+    }, 
+    {
+        "name": "Jeremy Evans", 
+        "salary": 1185784
+    }, 
+    {
+        "name": "Jeremy Lamb", 
+        "salary": 3034356
+    }, 
+    {
+        "name": "Jeremy Lin", 
+        "salary": 2139000
+    }, 
+    {
+        "name": "Jerian Grant", 
+        "salary": 1572360
+    }, 
+    {
+        "name": "Jerryd Bayless", 
+        "salary": 3000000
+    }, 
+    {
+        "name": "Jimmer Fredette", 
+        "salary": 625167
+    }, 
+    {
+        "name": "Jimmy Butler", 
+        "salary": 16407500
+    }, 
+    {
+        "name": "JJ Hickson", 
+        "salary": 5583413
+    }, 
+    {
+        "name": "JJ O'Brien", 
+        "salary": 30887
+    }, 
+    {
+        "name": "JJ Redick", 
+        "salary": 7085000
+    }, 
+    {
+        "name": "Joakim Noah", 
+        "salary": 13400000
+    }, 
+    {
+        "name": "Jodie Meeks", 
+        "salary": 6270000
+    }, 
+    {
+        "name": "Joe Harris", 
+        "salary": 845059
+    }, 
+    {
+        "name": "Joe Ingles", 
+        "salary": 2100000
+    }, 
+    {
+        "name": "Joe Johnson", 
+        "salary": 22309344
+    }, 
+    {
+        "name": "Joel Anthony", 
+        "salary": 2500000
+    }, 
+    {
+        "name": "Joel Embiid", 
+        "salary": 4626960
+    }, 
+    {
+        "name": "Joey Dorsey", 
+        "salary": 1015421
+    }, 
+    {
+        "name": "Joffrey Lauvergne", 
+        "salary": 1709719
+    }, 
+    {
+        "name": "John Henson", 
+        "salary": 2943220
+    }, 
+    {
+        "name": "John Holland", 
+        "salary": 9266
+    }, 
+    {
+        "name": "John Jenkins", 
+        "salary": 981349
+    }, 
+    {
+        "name": "John Wall", 
+        "salary": 14728844
+    }, 
+    {
+        "name": "Johnny O'Bryant", 
+        "salary": 845059
+    }, 
+    {
+        "name": "Jon Leuer", 
+        "salary": 1035000
+    }, 
+    {
+        "name": "Jonas Jerebko", 
+        "salary": 5000000
+    }, 
+    {
+        "name": "Jonas Valanciunas", 
+        "salary": 4660482
+    }, 
+    {
+        "name": "Jonathan Holmes", 
+        "salary": 100000
+    }, 
+    {
+        "name": "Jonathon Simmons", 
+        "salary": 525093
+    }, 
+    {
+        "name": "Jordan Adams", 
+        "salary": 1404600
+    }, 
+    {
+        "name": "Jordan Clarkson", 
+        "salary": 845059
+    }, 
+    {
+        "name": "Jordan Farmar", 
+        "salary": 2291455
+    }, 
+    {
+        "name": "Jordan Hamilton", 
+        "salary": 119461
+    }, 
+    {
+        "name": "Jordan Hill", 
+        "salary": 4000000
+    }, 
+    {
+        "name": "Jordan McRae", 
+        "salary": 172971
+    }, 
+    {
+        "name": "Jordan Mickey", 
+        "salary": 1170960
+    }, 
+    {
+        "name": "Jorge Gutierrez", 
+        "salary": 300899
+    }, 
+    {
+        "name": "Jose Calderon", 
+        "salary": 7402812
+    }, 
+    {
+        "name": "Jose Juan Barea", 
+        "salary": 4290000
+    }, 
+    {
+        "name": "Joseph Young", 
+        "salary": 1007026
+    }, 
+    {
+        "name": "Josh Huestis", 
+        "salary": 1140240
+    }, 
+    {
+        "name": "Josh McRoberts", 
+        "salary": 5543725
+    }, 
+    {
+        "name": "Josh Richardson", 
+        "salary": 525093
+    }, 
+    {
+        "name": "Josh Smith", 
+        "salary": 6830916
+    }, 
+    {
+        "name": "JR Smith", 
+        "salary": 5000000
+    }, 
+    {
+        "name": "Jrue Holiday", 
+        "salary": 11000000
+    }, 
+    {
+        "name": "Julius Randle", 
+        "salary": 3132240
+    }, 
+    {
+        "name": "Justin Anderson", 
+        "salary": 1449000
+    }, 
+    {
+        "name": "Justin Harper", 
+        "salary": 99418
+    }, 
+    {
+        "name": "Justin Holiday", 
+        "salary": 947276
+    }, 
+    {
+        "name": "Justise Winslow", 
+        "salary": 2481720
+    }, 
+    {
+        "name": "Jusuf Nurkic", 
+        "salary": 1842000
+    }, 
+    {
+        "name": "Karl-Anthony Towns", 
+        "salary": 5703600
+    }, 
+    {
+        "name": "Kawhi Leonard", 
+        "salary": 16407500
+    }, 
+    {
+        "name": "Keith Appling", 
+        "salary": 61775
+    }, 
+    {
+        "name": "Kelly Olynyk", 
+        "salary": 2165160
+    }, 
+    {
+        "name": "Kelly Oubre", 
+        "salary": 1920240
+    }, 
+    {
+        "name": "Kemba Walker", 
+        "salary": 12000000
+    }, 
+    {
+        "name": "Kendall Marshall", 
+        "salary": 2144772
+    }, 
+    {
+        "name": "Kendrick Perkins", 
+        "salary": 1499187
+    }, 
+    {
+        "name": "Kenneth Faried", 
+        "salary": 11235955
+    }, 
+    {
+        "name": "Kent Bazemore", 
+        "salary": 2000000
+    }, 
+    {
+        "name": "Kentavious Caldwell-Pope", 
+        "salary": 2891760
+    }, 
+    {
+        "name": "Kevin Durant", 
+        "salary": 21971850
+    }, 
+    {
+        "name": "Kevin Garnett", 
+        "salary": 8500000
+    }, 
+    {
+        "name": "Kevin Love", 
+        "salary": 19689000
+    }, 
+    {
+        "name": "Kevin Martin", 
+        "salary": 7402474
+    }, 
+    {
+        "name": "Kevin Seraphin", 
+        "salary": 2814000
+    }, 
+    {
+        "name": "Kevon Looney", 
+        "salary": 1131960
+    }, 
+    {
+        "name": "Khris Middleton", 
+        "salary": 14700000
+    }, 
+    {
+        "name": "Kirk Hinrich", 
+        "salary": 2870000
+    }, 
+    {
+        "name": "KJ McDaniels", 
+        "salary": 3189794
+    }, 
+    {
+        "name": "Klay Thompson", 
+        "salary": 15501000
+    }, 
+    {
+        "name": "Kobe Bryant", 
+        "salary": 25000000
+    }, 
+    {
+        "name": "Kosta Koufos", 
+        "salary": 7700000
+    }, 
+    {
+        "name": "Kostas Papanikolaou", 
+        "salary": 800320
+    }, 
+    {
+        "name": "Kris Humphries", 
+        "salary": 4440000
+    }, 
+    {
+        "name": "Kristaps Porzingis", 
+        "salary": 4131720
+    }, 
+    {
+        "name": "Kyle Anderson", 
+        "salary": 1142880
+    }, 
+    {
+        "name": "Kyle Korver", 
+        "salary": 5746479
+    }, 
+    {
+        "name": "Kyle Lowry", 
+        "salary": 12000000
+    }, 
+    {
+        "name": "Kyle O'Quinn", 
+        "salary": 3750000
+    }, 
+    {
+        "name": "Kyle Singler", 
+        "salary": 4500000
+    }, 
+    {
+        "name": "Kyrie Irving", 
+        "salary": 16407500
+    }, 
+    {
+        "name": "Lamar Patterson", 
+        "salary": 525093
+    }, 
+    {
+        "name": "LaMarcus Aldridge", 
+        "salary": 19689000
+    }, 
+    {
+        "name": "Lance Stephenson", 
+        "salary": 9000000
+    }, 
+    {
+        "name": "Lance Thomas", 
+        "salary": 1636842
+    }, 
+    {
+        "name": "Langston Galloway", 
+        "salary": 845059
+    }, 
+    {
+        "name": "Larry Nance Jr", 
+        "salary": 1155600
+    }, 
+    {
+        "name": "Larry Sanders", 
+        "salary": 5000000
+    }, 
+    {
+        "name": "Lavoy Allen", 
+        "salary": 3550000
+    }, 
+    {
+        "name": "Leandro Barbosa", 
+        "salary": 2500000
+    }, 
+    {
+        "name": "LeBron James", 
+        "salary": 22970500
+    }, 
+    {
+        "name": "Lorenzo Brown", 
+        "salary": 222888
+    }, 
+    {
+        "name": "Louis Amundson", 
+        "salary": 1700000
+    }, 
+    {
+        "name": "Louis Williams", 
+        "salary": 7000000
+    }, 
+    {
+        "name": "Luc Mbah a Moute", 
+        "salary": 1270964
+    }, 
+    {
+        "name": "Lucas Nogueira", 
+        "salary": 1842000
+    }, 
+    {
+        "name": "Luis Montero", 
+        "salary": 525093
+    }, 
+    {
+        "name": "Luis Scola", 
+        "salary": 2900000
+    }, 
+    {
+        "name": "Luke Babbitt", 
+        "salary": 1100602
+    }, 
+    {
+        "name": "Luol Deng", 
+        "salary": 10151612
+    }, 
+    {
+        "name": "Manu Ginobili", 
+        "salary": 2814000
+    }, 
+    {
+        "name": "Marc Gasol", 
+        "salary": 19689000
+    }, 
+    {
+        "name": "Marcelo Huertas", 
+        "salary": 525093
+    }, 
+    {
+        "name": "Marcin Gortat", 
+        "salary": 11217391
+    }, 
+    {
+        "name": "Marco Belinelli", 
+        "salary": 6060606
+    }, 
+    {
+        "name": "Marcus Morris", 
+        "salary": 5000000
+    }, 
+    {
+        "name": "Marcus Smart", 
+        "salary": 3431040
+    }, 
+    {
+        "name": "Marcus Thornton", 
+        "salary": 1436891
+    }, 
+    {
+        "name": "Mario Chalmers", 
+        "salary": 4300000
+    }, 
+    {
+        "name": "Mario Hezonja", 
+        "salary": 3741480
+    }, 
+    {
+        "name": "Markel Brown", 
+        "salary": 845059
+    }, 
+    {
+        "name": "Markieff Morris", 
+        "salary": 8000000
+    }, 
+    {
+        "name": "Marreese Speights", 
+        "salary": 3815500
+    }, 
+    {
+        "name": "Martell Webster", 
+        "salary": 5713500
+    }, 
+    {
+        "name": "Marvin Williams", 
+        "salary": 7000000
+    }, 
+    {
+        "name": "Mason Plumlee", 
+        "salary": 1415520
+    }, 
+    {
+        "name": "Matt Barnes", 
+        "salary": 3542500
+    }, 
+    {
+        "name": "Matt Bonner", 
+        "salary": 1499187
+    }, 
+    {
+        "name": "Matthew Dellavedova", 
+        "salary": 1347276
+    }, 
+    {
+        "name": "Maurice Ndour", 
+        "salary": 525093
+    }, 
+    {
+        "name": "Maurice Williams", 
+        "salary": 2100000
+    }, 
+    {
+        "name": "Metta World Peace", 
+        "salary": 1499187
+    }, 
+    {
+        "name": "Meyers Leonard", 
+        "salary": 3075879
+    }, 
+    {
+        "name": "Michael Beasley", 
+        "salary": 306526
+    }, 
+    {
+        "name": "Michael Carter-Williams", 
+        "salary": 2399040
+    }, 
+    {
+        "name": "Michael Frazier", 
+        "salary": 525093
+    }, 
+    {
+        "name": "Michael Kidd-Gilchrist", 
+        "salary": 6331403
+    }, 
+    {
+        "name": "Mike Conley", 
+        "salary": 9680000
+    }, 
+    {
+        "name": "Mike Dunleavy", 
+        "salary": 4837500
+    }, 
+    {
+        "name": "Mike Miller", 
+        "salary": 4354127
+    }, 
+    {
+        "name": "Mike Muscala", 
+        "salary": 947276
+    }, 
+    {
+        "name": "Mike Scott", 
+        "salary": 3333333
+    }, 
+    {
+        "name": "Miles Plumlee", 
+        "salary": 2109293
+    }, 
+    {
+        "name": "Mirza Teletovic", 
+        "salary": 5500000
+    }, 
+    {
+        "name": "Mitch McGary", 
+        "salary": 1463040
+    }, 
+    {
+        "name": "Moe Harkless", 
+        "salary": 2894058
+    }, 
+    {
+        "name": "Monta Ellis", 
+        "salary": 10300000
+    }, 
+    {
+        "name": "Montrezl Harrell", 
+        "salary": 1000000
+    }, 
+    {
+        "name": "Myles Turner", 
+        "salary": 2277960
+    }, 
+    {
+        "name": "Nate Robinson", 
+        "salary": 26456
+    }, 
+    {
+        "name": "Nazr Mohammed", 
+        "salary": 352749
+    }, 
+    {
+        "name": "Nemanja Bjelica", 
+        "salary": 3950000
+    }, 
+    {
+        "name": "Nen\u00ea", 
+        "salary": 13000000
+    }, 
+    {
+        "name": "Nerlens Noel", 
+        "salary": 3457800
+    }, 
+    {
+        "name": "Nick Collison", 
+        "salary": 3750000
+    }, 
+    {
+        "name": "Nick Johnson", 
+        "salary": 845059
+    }, 
+    {
+        "name": "Nick Young", 
+        "salary": 5219169
+    }, 
+    {
+        "name": "Nicolas Batum", 
+        "salary": 11860750
+    }, 
+    {
+        "name": "Nik Stauskas", 
+        "salary": 2869440
+    }, 
+    {
+        "name": "Nikola Jokic", 
+        "salary": 1300000
+    }, 
+    {
+        "name": "Nikola Mirotic", 
+        "salary": 5543725
+    }, 
+    {
+        "name": "Nikola Pekovic", 
+        "salary": 12100000
+    }, 
+    {
+        "name": "Nikola Vucevic", 
+        "salary": 11250000
+    }, 
+    {
+        "name": "Noah Vonleh", 
+        "salary": 2637720
+    }, 
+    {
+        "name": "Norman Powell", 
+        "salary": 650000
+    }, 
+    {
+        "name": "Norris Cole", 
+        "salary": 3203780
+    }, 
+    {
+        "name": "OJ Mayo", 
+        "salary": 8000000
+    }, 
+    {
+        "name": "Omer Asik", 
+        "salary": 9213483
+    }, 
+    {
+        "name": "Omri Casspi", 
+        "salary": 2836186
+    }, 
+    {
+        "name": "Orlando Johnson", 
+        "salary": 111444
+    }, 
+    {
+        "name": "Otto Porter", 
+        "salary": 4662960
+    }, 
+    {
+        "name": "Pablo Prigioni", 
+        "salary": 1421348
+    }, 
+    {
+        "name": "Pat Connaughton", 
+        "salary": 625093
+    }, 
+    {
+        "name": "Patrick Beverley", 
+        "salary": 6486486
+    }, 
+    {
+        "name": "Patrick Mills", 
+        "salary": 3200000
+    }, 
+    {
+        "name": "Patrick Patterson", 
+        "salary": 6268675
+    }, 
+    {
+        "name": "Pau Gasol", 
+        "salary": 7448760
+    }, 
+    {
+        "name": "Paul George", 
+        "salary": 16900000
+    }, 
+    {
+        "name": "Paul Millsap", 
+        "salary": 18671659
+    }, 
+    {
+        "name": "Paul Pierce", 
+        "salary": 3376000
+    }, 
+    {
+        "name": "Perry Jones", 
+        "salary": 2038206
+    }, 
+    {
+        "name": "Phil Pressey", 
+        "salary": 1014142
+    }, 
+    {
+        "name": "Pierre Jackson", 
+        "salary": 750000
+    }, 
+    {
+        "name": "PJ Hairston", 
+        "salary": 1201440
+    }, 
+    {
+        "name": "PJ Tucker", 
+        "salary": 5500000
+    }, 
+    {
+        "name": "Quincy Acy", 
+        "salary": 981348
+    }, 
+    {
+        "name": "Quincy Miller", 
+        "salary": 50000
+    }, 
+    {
+        "name": "Quincy Pondexter", 
+        "salary": 3382023
+    }, 
+    {
+        "name": "Rajon Rondo", 
+        "salary": 9500000
+    }, 
+    {
+        "name": "Rakeem Christmas", 
+        "salary": 1007026
+    }, 
+    {
+        "name": "Ramon Sessions", 
+        "salary": 2170465
+    }, 
+    {
+        "name": "Randy Foye", 
+        "salary": 3135000
+    }, 
+    {
+        "name": "Rashad Vaughn", 
+        "salary": 1733040
+    }, 
+    {
+        "name": "Rasual Butler", 
+        "salary": 1499187
+    }, 
+    {
+        "name": "Raul Neto", 
+        "salary": 840000
+    }, 
+    {
+        "name": "Ray McCallum", 
+        "salary": 1076758
+    }, 
+    {
+        "name": "Raymond Felton", 
+        "salary": 4540000
+    }, 
+    {
+        "name": "Reggie Bullock", 
+        "salary": 1252400
+    }, 
+    {
+        "name": "Reggie Jackson", 
+        "salary": 13913044
+    }, 
+    {
+        "name": "Richard Jefferson", 
+        "salary": 1499187
+    }, 
+    {
+        "name": "Richaun Holmes", 
+        "salary": 1075000
+    }, 
+    {
+        "name": "Ricky Rubio", 
+        "salary": 12700000
+    }, 
+    {
+        "name": "RJ Hunter", 
+        "salary": 1148640
+    }, 
+    {
+        "name": "Robert Covington", 
+        "salary": 1000000
+    }, 
+    {
+        "name": "Robert Sacre", 
+        "salary": 981358
+    }, 
+    {
+        "name": "Robin Lopez", 
+        "salary": 12650000
+    }, 
+    {
+        "name": "Rodney Hood", 
+        "salary": 1348440
+    }, 
+    {
+        "name": "Rodney Stuckey", 
+        "salary": 7000000
+    }, 
+    {
+        "name": "Rondae Hollis-Jefferson", 
+        "salary": 1335480
+    }, 
+    {
+        "name": "Ronnie Price", 
+        "salary": 1499187
+    }, 
+    {
+        "name": "Roy Hibbert", 
+        "salary": 15514031
+    }, 
+    {
+        "name": "Rudy Gay", 
+        "salary": 12403101
+    }, 
+    {
+        "name": "Rudy Gobert", 
+        "salary": 1175880
+    }, 
+    {
+        "name": "Russ Smith", 
+        "salary": 845059
+    }, 
+    {
+        "name": "Russell Westbrook", 
+        "salary": 16744218
+    }, 
+    {
+        "name": "Ryan Anderson", 
+        "salary": 8500000
+    }, 
+    {
+        "name": "Ryan Hollins", 
+        "salary": 615906
+    }, 
+    {
+        "name": "Ryan Kelly", 
+        "salary": 1724250
+    }, 
+    {
+        "name": "Salah Mejri", 
+        "salary": 525093
+    }, 
+    {
+        "name": "Sam Dekker", 
+        "salary": 1646400
+    }, 
+    {
+        "name": "Samuel Dalembert", 
+        "salary": 1499187
+    }, 
+    {
+        "name": "Sasha Kaun", 
+        "salary": 1276000
+    }, 
+    {
+        "name": "Sasha Vujacic", 
+        "salary": 1356146
+    }, 
+    {
+        "name": "Scottie Wilbekin", 
+        "salary": 200000
+    }, 
+    {
+        "name": "Sean Kilpatrick", 
+        "salary": 320594
+    }, 
+    {
+        "name": "Serge Ibaka", 
+        "salary": 12250000
+    }, 
+    {
+        "name": "Sergey Karasev", 
+        "salary": 1599840
+    }, 
+    {
+        "name": "Seth Curry", 
+        "salary": 947276
+    }, 
+    {
+        "name": "Shabazz Muhammad", 
+        "salary": 2056920
+    }, 
+    {
+        "name": "Shabazz Napier", 
+        "salary": 1294440
+    }, 
+    {
+        "name": "Shane Larkin", 
+        "salary": 1500000
+    }, 
+    {
+        "name": "Shaun Livingston", 
+        "salary": 5543725
+    }, 
+    {
+        "name": "Shayne Whittington", 
+        "salary": 845059
+    }, 
+    {
+        "name": "Shelvin Mack", 
+        "salary": 2433333
+    }, 
+    {
+        "name": "Solomon Hill", 
+        "salary": 1358880
+    }, 
+    {
+        "name": "Sonny Weems", 
+        "salary": 2814000
+    }, 
+    {
+        "name": "Spencer Dinwiddie", 
+        "salary": 845059
+    }, 
+    {
+        "name": "Spencer Hawes", 
+        "salary": 5543725
+    }, 
+    {
+        "name": "Stanley Johnson", 
+        "salary": 2841960
+    }, 
+    {
+        "name": "Stephen Curry", 
+        "salary": 11370786
+    }, 
+    {
+        "name": "Steve Blake", 
+        "salary": 2100000
+    }, 
+    {
+        "name": "Steve Novak", 
+        "salary": 3758017
+    }, 
+    {
+        "name": "Steven Adams", 
+        "salary": 2279040
+    }, 
+    {
+        "name": "Taj Gibson", 
+        "salary": 8500000
+    }, 
+    {
+        "name": "Tarik Black", 
+        "salary": 845059
+    }, 
+    {
+        "name": "Tayshaun Prince", 
+        "salary": 1499187
+    }, 
+    {
+        "name": "Terrence Jones", 
+        "salary": 2489529
+    }, 
+    {
+        "name": "Terrence Ross", 
+        "salary": 3553917
+    }, 
+    {
+        "name": "Terry Rozier", 
+        "salary": 1824360
+    }, 
+    {
+        "name": "Thabo Sefolosha", 
+        "salary": 4000000
+    }, 
+    {
+        "name": "Thaddeus Young", 
+        "salary": 11235955
+    }, 
+    {
+        "name": "Thanasis Antetokounmpo", 
+        "salary": 30887
+    }, 
+    {
+        "name": "Thomas Robinson", 
+        "salary": 981348
+    }, 
+    {
+        "name": "Tiago Splitter", 
+        "salary": 8500000
+    }, 
+    {
+        "name": "Tibor Pleiss", 
+        "salary": 2700000
+    }, 
+    {
+        "name": "Tim Duncan", 
+        "salary": 5250000
+    }, 
+    {
+        "name": "Tim Frazier", 
+        "salary": 989216
+    }, 
+    {
+        "name": "Tim Hardaway Jr", 
+        "salary": 1304520
+    }, 
+    {
+        "name": "Timofey Mozgov", 
+        "salary": 4950000
+    }, 
+    {
+        "name": "TJ McConnell", 
+        "salary": 525093
+    }, 
+    {
+        "name": "TJ Warren", 
+        "salary": 2041080
+    }, 
+    {
+        "name": "Tobias Harris", 
+        "salary": 16000000
+    }, 
+    {
+        "name": "Toney Douglas", 
+        "salary": 2971568
+    }, 
+    {
+        "name": "Tony Allen", 
+        "salary": 5000000
+    }, 
+    {
+        "name": "Tony Parker", 
+        "salary": 13437500
+    }, 
+    {
+        "name": "Tony Snell", 
+        "salary": 1535880
+    }, 
+    {
+        "name": "Tony Wroten", 
+        "salary": 2346760
+    }, 
+    {
+        "name": "Treveon Graham", 
+        "salary": 525093
+    }, 
+    {
+        "name": "Trevor Ariza", 
+        "salary": 8200000
+    }, 
+    {
+        "name": "Trevor Booker", 
+        "salary": 4775000
+    }, 
+    {
+        "name": "Trey Burke", 
+        "salary": 2658240
+    }, 
+    {
+        "name": "Trey Lyles", 
+        "salary": 2239800
+    }, 
+    {
+        "name": "Tristan Thompson", 
+        "salary": 14260000
+    }, 
+    {
+        "name": "Troy Daniels", 
+        "salary": 947276
+    }, 
+    {
+        "name": "Ty Lawson", 
+        "salary": 12444552
+    }, 
+    {
+        "name": "Tyler Ennis", 
+        "salary": 1662360
+    }, 
+    {
+        "name": "Tyler Hansbrough", 
+        "salary": 1185784
+    }, 
+    {
+        "name": "Tyler Johnson", 
+        "salary": 845059
+    }, 
+    {
+        "name": "Tyler Zeller", 
+        "salary": 2616975
+    }, 
+    {
+        "name": "Tyreke Evans", 
+        "salary": 10734586
+    }, 
+    {
+        "name": "Tyson Chandler", 
+        "salary": 13000000
+    }, 
+    {
+        "name": "Tyus Jones", 
+        "salary": 1282080
+    }, 
+    {
+        "name": "Udonis Haslem", 
+        "salary": 2854940
+    }, 
+    {
+        "name": "Victor Oladipo", 
+        "salary": 5192520
+    }, 
+    {
+        "name": "Vince Carter", 
+        "salary": 4088019
+    }, 
+    {
+        "name": "Walter Tavares", 
+        "salary": 1000000
+    }, 
+    {
+        "name": "Wayne Ellington", 
+        "salary": 1500000
+    }, 
+    {
+        "name": "Wesley Johnson", 
+        "salary": 1100602
+    }, 
+    {
+        "name": "Wesley Matthews", 
+        "salary": 16407500
+    }, 
+    {
+        "name": "Will Barton", 
+        "salary": 3533333
+    }, 
+    {
+        "name": "Willie Cauley-Stein", 
+        "salary": 3398280
+    }, 
+    {
+        "name": "Willie Reed", 
+        "salary": 525093
+    }, 
+    {
+        "name": "Wilson Chandler", 
+        "salary": 10449438
+    }, 
+    {
+        "name": "Xavier Munford", 
+        "salary": 123548
+    }, 
+    {
+        "name": "Zach LaVine", 
+        "salary": 2148360
+    }, 
+    {
+        "name": "Zach Randolph", 
+        "salary": 10000000
+    }, 
+    {
+        "name": "Zaza Pachulia", 
+        "salary": 5200000
+    }, 
+    {
+        "name": "Zoran Dragic", 
+        "salary": 1756500
     }
 ]
