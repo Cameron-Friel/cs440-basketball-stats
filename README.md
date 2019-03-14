@@ -5,4 +5,5 @@ Final project for Database Management Systems
 2. Change the credentials in PlotPlayerStats.py to your credentials
 3. Make sure you have Python3 installed along with all dependencies (matplotlib, mplcursor, pymysql)
 4. Run the PlotPlayerStats.py file
-5. Submit queries using the XX-XX date format from 2013-2018. ex) 13-14
+5. Submit queries by inputting a number between 1 and 5 to select a year
+6. To stop the program, close the graph that is generated
