@@ -6,3 +6,4 @@ Final project for Database Management Systems
 3. Make sure you have Python3 installed along with all dependencies (matplotlib, mplcursor, pymysql)
 4. Run the PlotPlayerStats.py file
 5. Submit queries by inputting a number between 1 and 5 to select a year
+6. To stop the program, close the graph that is generated
